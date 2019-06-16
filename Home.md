@@ -1,13 +1,13 @@
 # Welcome to the hmis wiki!
 
 * [About hims](https://github.com/hmislk/hmis/wiki/About-hims)
-* [License]()
+* [License](https://github.com/hmislk/hmis/blob/master/LICENSE.md)
 * [User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
 * [Installation Manual](https://github.com/hmislk/hmis/wiki/Maintenance-Manual)
 * [Maintainance Manual](https://github.com/hmislk/hmis/wiki/Installation-Manual)
 * [Developer Guidelines](https://github.com/hmislk/hmis/wiki/Developer-Guidelines)
 * [Design Documentation](https://github.com/hmislk/hmis/wiki/Design-Documentation)
 * [Contributing Guidelines](https://github.com/hmislk/hmis/wiki/Contributing-Guidelines)
-* [Code of Conduct]()
-* [Change Log]()
-* [Getting Commercial Support]()
+* [Code of Conduct](https://github.com/hmislk/hmis/blob/master/CODE_OF_CONDUCT.md)
+* [Change Log](https://github.com/hmislk/hmis/wiki/Change-Log)
+* [Getting Commercial Support](https://github.com/hmislk/hmis/wiki/Getting-Commercial-Support)
