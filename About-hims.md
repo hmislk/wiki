@@ -24,41 +24,41 @@ The features available to different roles of the users are stated in detail in t
 Mr.K.M.G.T.R. Waidyarathne - Project Management
 
 ### Main Contributors to the Design
-[Dr M H B Ariyaratne](https://github.com/buddhika75)
-Dr Jagath Samarasekara
-Dr Krishantha Widisingha
-Dr Veditha Banduwardana
-Dr Gayaman Dissanayake
-Dr Harsha Meemaduma
-Dr A T C Kumara
-Dr Saranathilaka Danthanarayana
-Dr Bolonghoge Dayanath
-Dr K M P Keerthi
-Dr Anura Krishantha
+* [Dr M H B Ariyaratne](https://github.com/buddhika75)
+* Dr Jagath Samarasekara
+* Dr Krishantha Widisingha
+* Dr Veditha Banduwardana
+* Dr Gayaman Dissanayake
+* Dr Harsha Meemaduma
+* Dr A T C Kumara
+* Dr Saranathilaka Danthanarayana
+* Dr Bolonghoge Dayanath
+* Dr K M P Keerthi
+* Dr Anura Krishantha
 
 
 ### Main Software Developers
-[Mr Dushan Madhuranga](https://github.com/HNDITDushan)
-[Mr Lahiru Madhushanka](https://github.com/lahirumadushanka)
-[Dr M H B Ariyaratne](https://github.com/buddhika75)
-[Mr A C M Safrin](https://github.com/acmsafrin)
-[Mr K Pasan Anuradha](https://github.com/kpasan89)
-[Mr Rohan Jayasundara](https://github.com/rohanjayasundara)
-[Mr Dilshan Kanishka](https://github.com/dilshankanishka)
-[Ms Ravisarani Ranawaka](https://github.com/Ravisarani)
-[Ms Anushka De Silva](https://github.com/anukadesilva)
-[Mr Priyanka Sandaruwan](https://github.com/Sandaruwanp2s)
-[Mr Anura Wijesinghe](https://github.com/arunawijesinghe)
-[Mr Ruwan Tharaka](https://github.com/ruwantharaka)
-[Mr Gayan Malshan](https://github.com/Gayan830)
-[Mr Isuru Pathum](https://github.com/isurupathum1996)
-[Mr A R C Sanka](https://github.com/arcasanka)
+* [Mr Dushan Madhuranga](https://github.com/HNDITDushan)
+* [Mr Lahiru Madhushanka](https://github.com/lahirumadushanka)
+* [Dr M H B Ariyaratne](https://github.com/buddhika75)
+* [Mr A C M Safrin](https://github.com/acmsafrin)
+* [Mr K Pasan Anuradha](https://github.com/kpasan89)
+* [Mr Rohan Jayasundara](https://github.com/rohanjayasundara)
+* [Mr Dilshan Kanishka](https://github.com/dilshankanishka)
+* [Ms Ravisarani Ranawaka](https://github.com/Ravisarani)
+* [Ms Anushka De Silva](https://github.com/anukadesilva)
+* [Mr Priyanka Sandaruwan](https://github.com/Sandaruwanp2s)
+* [Mr Anura Wijesinghe](https://github.com/arunawijesinghe)
+* [Mr Ruwan Tharaka](https://github.com/ruwantharaka)
+* [Mr Gayan Malshan](https://github.com/Gayan830)
+* [Mr Isuru Pathum](https://github.com/isurupathum1996)
+* [Mr A R C Sanka](https://github.com/arcasanka)
 
 ### Quantity Control Feedback
-[Dr A N E M Gunasekara](https://github.com/niluka)
-Ms Nadeeka Darshani Wijesooriya
-[Mr Janith Liyanage](https://github.com/jkliyanage)
-[Ms D W C Piumini](https://github.com/piumini)
+* [Dr A N E M Gunasekara](https://github.com/niluka)
+* Ms Nadeeka Darshani Wijesooriya
+* [Mr Janith Liyanage](https://github.com/jkliyanage)
+* [Ms D W C Piumini](https://github.com/piumini)
 
 
 
