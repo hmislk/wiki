@@ -16,15 +16,15 @@ Dr M H B Ariyaratne is a medical doctor who developed an Electronic Medical Reco
 Installation: The installation is very easy for testing. Clone the project using Netbeans and configure a new database. Running the project will lead to an administer page to add an institution, department and a user. Configuration of hardware, operating system and GlassFish are discussed in detail in The Installation Manual.
 
 ## Usage
-The features available to different roles of the users are stated in detail in the User Manual.
+The features available to different roles of the users are stated in detail in the [User Manual](https://github.com/hmislk/hmis/wiki/User-Manual).
 
 ## Contributing 
-Dr M H B Ariyaratne - Initiated the Project, Main System Architect
+[Dr M H B Ariyaratne](https://github.com/buddhika75) - Initiated the Project, Main System Architect
 
 Mr.K.M.G.T.R. Waidyarathne - Project Management
 
-### Main Contributors for the Design
-Dr M H B Ariyaratne
+### Main Contributors to the Design
+[Dr M H B Ariyaratne](https://github.com/buddhika75)
 Dr Jagath Samarasekara
 Dr Krishantha Widisingha
 Dr Veditha Banduwardana
@@ -38,27 +38,27 @@ Dr Anura Krishantha
 
 
 ### Main Software Developers
-Mr Dushan Madhuranga
-Mr Lahiru Madhushanka
-Dr M H B Ariyaratne
-Mr A C M Safrin
-Mr K Pasan Anuradha
-Mr Rohan Jayasundara
-Mr Dilshan Kanishka
-Ms Ravisarani Ranawaka
-Ms Anushka De Silva
-Mr Priyanka Sandaruwan
-Mr Anura Wijesinghe
-Mr Ruwan Tharaka
-Mr Gayan Malshan
-Mr Isuru Pathum
-Mr A R C Sanka
+[Mr Dushan Madhuranga](https://github.com/HNDITDushan)
+[Mr Lahiru Madhushanka](https://github.com/lahirumadushanka)
+[Dr M H B Ariyaratne](https://github.com/buddhika75)
+[Mr A C M Safrin](https://github.com/acmsafrin)
+[Mr K Pasan Anuradha](https://github.com/kpasan89)
+[Mr Rohan Jayasundara](https://github.com/rohanjayasundara)
+[Mr Dilshan Kanishka](https://github.com/dilshankanishka)
+[Ms Ravisarani Ranawaka](https://github.com/Ravisarani)
+[Ms Anushka De Silva](https://github.com/anukadesilva)
+[Mr Priyanka Sandaruwan](https://github.com/Sandaruwanp2s)
+[Mr Anura Wijesinghe](https://github.com/arunawijesinghe)
+[Mr Ruwan Tharaka](https://github.com/ruwantharaka)
+[Mr Gayan Malshan](https://github.com/Gayan830)
+[Mr Isuru Pathum](https://github.com/isurupathum1996)
+[Mr A R C Sanka](https://github.com/arcasanka)
 
 ### Quantity Control Feedback
-Dr A N E M Gunasekara
+[Dr A N E M Gunasekara](https://github.com/niluka)
 Ms Nadeeka Darshani Wijesooriya
-Mr Janith Liyanage
-Ms D W C Piumini
+[Mr Janith Liyanage](https://github.com/jkliyanage)
+[Ms D W C Piumini](https://github.com/piumini)
 
 
 
