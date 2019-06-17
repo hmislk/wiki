@@ -21,8 +21,9 @@ Edit the "/etc/mysql/mariadb.cnf" file
 
 Create the following two lines at the end of the comments of the file.
 
-'[mysqld]'
-'lower_case_table_names=1'
+'[mysqld]
+
+lower_case_table_names=1'
 
 Save the file and restart mySQL or MariaDB by
 
