@@ -9,5 +9,9 @@ Type the following commands in the terminal.
 
 `sudo apt install mysql-server`
 
+This will install the mySQL server. 
+
+You need to create user accounts and then run the following command and follow instructions.
+
 `sudo mysql_secure_installation`
 
