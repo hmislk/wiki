@@ -2,10 +2,23 @@
 To be the best open source hospital management information system in the world by 2030.
 
 
-Mission – General statement of how you will achieve the vision.
-A companion statement often created with the vision and mission is a statement of core values.
+Mission
+To support most of the hospital workflows of modern hospitals with an emphasis on simplicity and robustness with a focus to synergize and foster expertise for revolutionary breakthroughs in health informatics.
 
-Core Values – How you will behave during the process.
+
+Core Values
+* Emphasis on Optimum Design
+* Commitment to fulfil emerging diverse requirements
+* Satisfying end-users
+* Continuous Learning
+* Facilitating Innovation
+* Personal Development of Contributors
+
+
+
+
+
+ – How you will behave during the process.
 Once you have identified what your organization wants to achieve (vision) and generally how the vision will be achieved (mission), the next step is to develop a series of statements specifying how the mission will be utilized to achieve the vision:
 
 Strategies – Strategies are one or more ways to use the mission statement in order to achieve the vision statement. Although an organization will have just one vision statement and one mission statement, it may have several strategies.
