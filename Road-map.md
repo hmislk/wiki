@@ -2,48 +2,32 @@
 To be the best open source hospital management information system in the world by 2030.
 
 
-Mission
+#Mission
 To support most of the hospital workflows of modern hospitals with an emphasis on simplicity and robustness with a focus to synergize and foster expertise for revolutionary breakthroughs in health informatics.
 
 
-Core Values
+#Values
 * Emphasis on Optimum Design
 * Commitment to fulfil emerging diverse requirements
 * Satisfying end-users
 * Continuous Learning
 * Facilitating Innovation
-* Personal Development of Contributors
+* Respect security, privacy and confidentiallity of clients and consumers
+* Personal Development of Contributors 
 
 
+#Strategies
+ – Strategies are one or more ways to use the mission statement in order to achieve the vision statement. Although an organization will have just one vision statement and one mission statement, it may have several strategies.
 
+#Goals – These are general statements of what needs to be accomplished to implement a strategy.
 
+#Objectives – Objectives provide specific milestones with a specific timeline for achieving a goal.
 
- – How you will behave during the process.
-Once you have identified what your organization wants to achieve (vision) and generally how the vision will be achieved (mission), the next step is to develop a series of statements specifying how the mission will be utilized to achieve the vision:
-
-Strategies – Strategies are one or more ways to use the mission statement in order to achieve the vision statement. Although an organization will have just one vision statement and one mission statement, it may have several strategies.
-Goals – These are general statements of what needs to be accomplished to implement a strategy.
-Objectives – Objectives provide specific milestones with a specific timeline for achieving a goal.
-Action Plans – These are specific implementation plans of how you will achieve an objective.
+#Action Plans – These are specific implementation plans of how you will achieve an objective.
 A more in-depth discussion of these statements is presented below. Statements for an example business are provided for clarification.
 
-Vision Statement – A mental picture of what you want to accomplish or achieve. For example, your vision may be a successful winery business or an economically active community.
 
-Vision of an Example Business – A successful family dairy business.
 
-Mission Statement – A general statement of how the vision will be achieved. The mission statement is an action statement that usually begins with the word "to".
-
-Mission of an Example Business – To provide unique and high quality dairy products to local consumers.
-
-Core Values – Core values define the organization in terms of the principles and values the leaders will follow in carrying out the activities of the organization.
-
-Core Values of the Example Business:
-
-Focus on new and innovative business ideas
-Practice high ethical standards.
-Respect and protect the environment.
-Meet the changing needs and desires of clients and consumers.
-Statements of vision and mission are important so that everyone involved in the organization, including outside stakeholders, understand what the organization will accomplish and how it will be accomplished. In essence this means “keeping everyone on the same page” so they are all "pulling in the same direction".
 
 There is a close relationship between the vision and mission. As the vision statement is a static mental picture of what you want to achieve, the mission statement is a dynamic process of how the vision will be accomplished. To create successful statements, you should keep the following concepts in mind.
 
