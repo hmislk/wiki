@@ -2,11 +2,11 @@
 To be the best open source hospital management information system in the world by 2030.
 
 
-#Mission
+# Mission
 To support most of the hospital workflows of modern hospitals with an emphasis on simplicity and robustness with a focus to synergize and foster expertise for revolutionary breakthroughs in health informatics.
 
 
-#Values
+# Values
 * Emphasis on Optimum Design
 * Commitment to fulfil emerging diverse requirements
 * Satisfying end-users
@@ -16,14 +16,14 @@ To support most of the hospital workflows of modern hospitals with an emphasis o
 * Personal Development of Contributors 
 
 
-#Strategies
+# Strategies
  – Strategies are one or more ways to use the mission statement in order to achieve the vision statement. Although an organization will have just one vision statement and one mission statement, it may have several strategies.
 
-#Goals – These are general statements of what needs to be accomplished to implement a strategy.
+# Goals – These are general statements of what needs to be accomplished to implement a strategy.
 
-#Objectives – Objectives provide specific milestones with a specific timeline for achieving a goal.
+# Objectives – Objectives provide specific milestones with a specific timeline for achieving a goal.
 
-#Action Plans – These are specific implementation plans of how you will achieve an objective.
+# Action Plans – These are specific implementation plans of how you will achieve an objective.
 A more in-depth discussion of these statements is presented below. Statements for an example business are provided for clarification.
 
 
