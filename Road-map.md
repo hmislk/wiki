@@ -11,15 +11,21 @@ To support most of the hospital workflows of modern hospitals with an emphasis o
 * Commitment to fulfil emerging diverse requirements
 * Satisfying end-users
 * Continuous Learning
+* Selection of the best tools and technologies
 * Facilitating Innovation
-* Respect security, privacy and confidentiallity of clients and consumers
+* Respect security, privacy and confidentiality of clients and consumers
 * Personal Development of Contributors 
 
 
 # Strategies
- – Strategies are one or more ways to use the mission statement in order to achieve the vision statement. Although an organization will have just one vision statement and one mission statement, it may have several strategies.
+* Development of the simplest possible Object-Oriented Model to address complex health domain requirements
+* Usage of most suitable tools and technologies for different requirements
+* Collaborative Development Environment where experts transferring knowledge in experience to newbies
+* Encouraging the engagement of all stakeholders including clients and consumers in an agile development environment
+ 
 
-# Goals – These are general statements of what needs to be accomplished to implement a strategy.
+# Goals
+ – These are general statements of what needs to be accomplished to implement a strategy.
 
 # Objectives – Objectives provide specific milestones with a specific timeline for achieving a goal.
 
