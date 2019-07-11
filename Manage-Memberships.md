@@ -2,4 +2,6 @@ You can have any number of Memberships. They may have variations in the generati
 
 You can add, edit or delete Memberships by navigating to Menu > Membership > Administration > Manage Metadata (Tab) and clicking Memberships button.
 
+_**Please try NOT to delete memberships and the patients with that members will have no membership afterwords. Instead, try to change the name of the existing membership.**_
+
 
