@@ -1,6 +1,3 @@
-# Database Configuration
-
-
 ## Setting up Lower Case Table Names
 When the database is running in a Linux environment, MySQL or MariaDB table names are case sensitive by default. The web application access database through JPA, which requires case insensitive table names. Before running the application, need to set the MySQL or MariaDB setting to allow case insensitive table names. If is done as follows.
 
