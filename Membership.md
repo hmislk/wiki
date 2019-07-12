@@ -5,8 +5,8 @@ When billing, the discounts are automatically calculated so that the cashier has
 All other discount generation methods are overwritten by the membership discount.
 
 * [Manage Memberships](https://github.com/hmislk/hmis/wiki/Manage-Memberships)
-* [Manage Preferences for Memberships](https://github.com/hmislk/hmis/wiki/Manage-Memberships)
-* [Manage Membership Discounts](https://github.com/hmislk/hmis/wiki/Manage-Memberships)
-* [Membership Discount Troubleshooter](https://github.com/hmislk/hmis/wiki/Manage-Memberships)
+* [Manage Preferences for Memberships](https://github.com/hmislk/hmis/wiki/Manage-Preferences-for-Memberships)
+* [Manage Membership Discounts](https://github.com/hmislk/hmis/wiki/Manage-Membership-Discounts)
+* [Membership Discount Troubleshooter](https://github.com/hmislk/hmis/wiki/Membership-Discount-Troubleshooter)
 
 
