@@ -2,4 +2,4 @@ User Manual
 * Login
 * Modules
 * OPD
-* Membership
+* [Membership](https://github.com/hmislk/hmis/wiki/Membership)
