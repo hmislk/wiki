@@ -12,3 +12,6 @@ Sending SMS
 Sending Emails
 Reports
 Administration
+
+
+[Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
