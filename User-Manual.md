@@ -3,3 +3,4 @@ User Manual
 * Modules
 * OPD
 * [Membership](https://github.com/hmislk/hmis/wiki/Membership)
+* [LIMS](https://github.com/hmislk/hmis/wiki/LIMS)
