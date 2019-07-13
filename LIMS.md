@@ -2,7 +2,7 @@
 
 This module covers the functions of a modern-day laboratory.
 
-* Sampling
+* [Sampling](https://github.com/hmislk/hmis/wiki/LIMS-Sampling)
 * Receiving Samples at the Lab
 * Printing Worksheets
 * Analyzer Interfacing
