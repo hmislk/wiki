@@ -20,7 +20,7 @@ The following analyzers are in the process of automation.
 * Indiko clinical chemistry analyzer
 
 The following analyzers do NOT provide interfacing manual and can not be automated.
-Automated
+
 * Nihon Kohden Celltak Haematology Analyzers (MEK-6400/MEK-6410/MEK-6420)
 
 [Back to LIMS](https://github.com/hmislk/hmis/wiki/LIMS)
