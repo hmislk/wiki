@@ -8,7 +8,9 @@ The machines automated up to now include the following.
 * Dimension RxL
 * Dimension Xpand
 * Clinical Chemistry system.
-* Sysmex-XS 500i
+* Sysmex XS 500i
+* Sysmex XS-1000i 
+* Sysmex XS-800i
 * Selectra Pro XL
 * TOSOH - AiA 360
 * BioRad - D - 10
