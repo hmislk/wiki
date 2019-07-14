@@ -4,13 +4,12 @@ Any analyzer that comes with an Interfacing Manual or a Host manual can be inter
 
 The machines automated up to now include the following.
 
-* Dimension EXL
+* Dimension ExL
 * Dimension RxL
 * Dimension Xpand
-* Clinical Chemistry system.
 * Sysmex XS 500i
-* Sysmex XS-1000i 
-* Sysmex XS-800i
+* Sysmex XS 1000i 
+* Sysmex XS 800i
 * Selectra Pro XL
 * TOSOH - AiA 360
 * BioRad - D - 10
