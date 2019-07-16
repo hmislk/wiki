@@ -28,6 +28,27 @@ Save the file and restart mySQL or MariaDB by
 
 Afterword the table names will be case insensitive.
 
+### MySQL
+Edit the configuration file of mySQL as below.
+
+'sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf'
+
+Find out the following section.
+
+'[mysqld]'
+
+Add the following line.
+
+'lower_case_table_names=1'
+
+Restart mySQL service as below.
+
+'sudo service mysql restart'
+
+
+
+
+
 
 
 
