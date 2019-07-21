@@ -33,10 +33,11 @@ Then log as the su
 
 `sudo mysql`
 
-You will get the mySQL command prommt. Create a new user and grant all privileges as below.
+You will get the mySQL command prommt. Create a new user and grant all privileges as below. Then grant all privileges as below.
 
 `CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';`
-
+`CREATE USER 'sss'@'localhost' IDENTIFIED BY 'Bud7NilB';`
+`GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost';`
 
 
 
