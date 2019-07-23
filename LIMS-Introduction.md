@@ -1,2 +1,3 @@
 # Introduction to LIMS
 
+LIMS is capable of handling virtually any number of [tests or investigations](https://github.com/hmislk/hmis/wiki/LIMS-Investigations). The configuration can be changed so that all the institutions/departments of the system share the same set of investigations or each department have a separate set of investigations. Each investigation can have properties like category, name, printing name, department, and so on. The total charge for an investigation depends on different [fees related to each investigation](https://github.com/hmislk/hmis/wiki/LIMS-Investigation-Fees). Each investigation can have a [report format](https://github.com/hmislk/hmis/wiki/LIMS-Investigation-Format). The
