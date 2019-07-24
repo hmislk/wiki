@@ -5,3 +5,5 @@ LIMS is capable of handling virtually any number of [tests or investigations](ht
 The LIMS daily routine starts with the ordering process. Tests may be ordered from [OPD](https://github.com/hmislk/hmis/wiki/LIMS-OPD-Billing) or [Wards]((https://github.com/hmislk/hmis/wiki/LIMS-Ward-Orders)).
 A bill will be generated with details of the order along with a barcode. At the phlebotomy area, a computer with a barcode reader will identify the order and [generate stickers](https://github.com/hmislk/hmis/wiki/LIMS-Sampling) needed to be pasted in each container. The samples are then [received at the relevant laboratory](https://github.com/hmislk/hmis/wiki/LIMS-Receiving-Samples-at-the-Lab). When required, the MLT can print [worksheets](https://github.com/hmislk/hmis/wiki/LIMS-Printing-Worksheets).
 
+Automated tests will order tests and get results from the analyzers through bi-directional communication. Tests not automated need to be searched by criteria like name, id, etc. and enter data. When data is entered automatically or manually, the results
+
