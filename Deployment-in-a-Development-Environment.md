@@ -34,7 +34,7 @@ Run the project and the web application will start in a browser window.
 
 ## MS-Windows
 
-Download a database like [MySQL](https://dev.mysql.com/downloads/mysql/) or [MariaDB](https://downloads.mariadb.org/) and install it following instructions. Install Netbeans for JavaEE. Clone Project and Run.
+Download a database like [MySQL](https://dev.mysql.com/downloads/mysql/) or [MariaDB](https://downloads.mariadb.org/) and install it following instructions. Install Netbeans for JavaEE. Clone Project. Configure a database. Run the project and web application will appear in a browser.
 
 
 
