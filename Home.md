@@ -6,6 +6,7 @@
 * [User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
 * [Installation Manual](https://github.com/hmislk/hmis/wiki/Installation-Manual)
 * [Maintenance Manual](https://github.com/hmislk/hmis/wiki/Maintenance-Manual)
+* [Developer Manual](https://github.com/hmislk/hmis/wiki/Developer-Manual)
 * [Developer Guidelines](https://github.com/hmislk/hmis/wiki/Developer-Guidelines)
 * [Design Documentation](https://github.com/hmislk/hmis/wiki/Design-Documentation)
 * [Contributing Guidelines](https://github.com/hmislk/hmis/wiki/Contributing-Guidelines)
