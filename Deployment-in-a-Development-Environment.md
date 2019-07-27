@@ -5,61 +5,34 @@ For the development and testing purposes, you can easily clone the project and r
 Download a database like [MySQL](https://dev.mysql.com/downloads/mysql/) or [MariaDB](https://downloads.mariadb.org/) and install it following instructions. 
 
 ## Ubuntu
-Install MySQL OR MariaDB (or anything else you like)
-[How to Install MySQL in Ubuntu](https://github.com/hmislk/hmis/wiki/Install-MySQL-in-Ubuntu)
-[How to Install Maria in Ubuntu](https://github.com/hmislk/hmis/wiki/Install-MariaDB-in-Ubuntu)
-[How to secure MySQL/MariaDB](https://github.com/hmislk/hmis/wiki/Secure-MySQL)
-[How to Configure MySQL/Maria](https://github.com/hmislk/hmis/wiki/Database-Configuration)
+### Install MySQL OR MariaDB (or anything else you like) and configure
+* [How to Install MySQL in Ubuntu](https://github.com/hmislk/hmis/wiki/Install-MySQL-in-Ubuntu)
+* [How to Install Maria in Ubuntu](https://github.com/hmislk/hmis/wiki/Install-MariaDB-in-Ubuntu)
+* [How to secure MySQL/MariaDB](https://github.com/hmislk/hmis/wiki/Secure-MySQL)
+* [How to Configure MySQL/Maria](https://github.com/hmislk/hmis/wiki/Database-Configuration)
 
-
-Make sure to have a user with a password with all privileges. Configuration of the database is stated [elsewhere](https://github.com/hmislk/hmis/wiki/Database-Configuration).
+### Netbeans
 
 Download the [Netbeans with JDK bundle](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html) and install following instructions. Install all JavaEE plugins.
 
+### GlassFish
 Download [glassfish 4.1.2](http://download.oracle.com/glassfish/4.1.2/release/glassfish-4.1.2.zip) server and unzip to a folder. 
 
-Open Netbeans and configure the glassfish server and MySQL. Clone the project with Netbeans. Locate the persistance.xml and configure database. 
+
+### Clone Project
+
+Clone the project with Netbeans. 
+
+### Configure Netbeans
+
+Open Netbeans and configure the glassfish server and MySQL.
+ 
+Locate the persistance.xml and configure database. 
+
+### Run the Project
 
 Run the project and the web application will start in a browser window.
 
-For Ubuntu
-First, update the system by following commands
-
-
-`sudo apt-get update`
-
-`sudo apt-get upgrade`
-
-Install MySQL or MariaDB
-
-Install MariaDB
-
-`sudo apt-get install software-properties-common`
-`sudo apt-key adv --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 0xF1656F24C74CD1D8`
-`sudo add-apt-repository "deb [arch=amd64,arm64,ppc64el] http://mariadb.mirror.liquidtelecom.com/repo/10.4/ubuntu $(lsb_release -cs) main"`
-`sudo apt update`
-`sudo apt -y install mariadb-server mariadb-client`
-
-
-Install MySQL 
-
-`sudo apt install mysql-server`
-
-Configure MySQL\MariaDB access with the following command. Follow defaults.
-
-`sudo mysql_secure_installation`
-
-Then log as the su
-
-`sudo mysql`
-
-You will get the mySQL command prommt. Create a new user and grant all privileges as below. Then grant all privileges as below.
-
-`CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';`
-
-`GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost';`
-
-`FLUSH PRIVILEGES;`
 
 
 
