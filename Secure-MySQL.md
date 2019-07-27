@@ -1,6 +1,6 @@
-# Configure MySQL\MariaDB
+# Secure MySQL\MariaDB
 
-Configure MySQL\MariaDB access with the following command. Follow defaults.
+Secure MySQL\MariaDB access with the following command. Follow defaults.
 
 `sudo mysql_secure_installation`
 
