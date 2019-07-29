@@ -8,6 +8,9 @@ The main features include
 * Salary Advance & Loans
 * Easy Payroll Creation
 * An extensive set of ERP Reports
+* Employee Provident Fund (EPF)
+* Employee Trust Fund (ETF)
+
 
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
