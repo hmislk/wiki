@@ -1,6 +1,14 @@
 User Manual
-* Login
-* Modules
-* OPD
+* [Login](https://github.com/hmislk/hmis/wiki/Login)
+* [Pharmacy](https://github.com/hmislk/hmis/wiki/Pharmacy)
+* [OPD / Cashier / Billing / Petty Cash Module](https://github.com/hmislk/hmis/wiki/OPD)
 * [Membership](https://github.com/hmislk/hmis/wiki/Membership)
 * [LIMS](https://github.com/hmislk/hmis/wiki/LIMS)
+* [Stores and Assets Management System](https://github.com/hmislk/hmis/wiki/Stores-and-Assets-Management)
+* [Electronic Health Record System](https://github.com/hmislk/hmis/wiki/EHR)
+* [Medical Appointment / Channelling Module](https://github.com/hmislk/hmis/wiki/Channelling)
+* [Inward Patient Care / Theatre Management Module](https://github.com/hmislk/hmis/wiki/Inward)
+* [Human Resource Management](https://github.com/hmislk/hmis/wiki/Human-Resource)
+* [Kitchen Management](https://github.com/hmislk/hmis/wiki/Kitchen-Management)
+* [Linen Management](https://github.com/hmislk/hmis/wiki/Linen-Management)
+* [Fleet Management](https://github.com/hmislk/hmis/wiki/Fleet-Management)
