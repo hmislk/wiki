@@ -6,28 +6,18 @@ The main features are listed below.
 Ex.Drug Store, OPD, Indoor, OT, OPDDrugs, X-Ray, 
 
 ## Sale
-OPD Sale, Indoor Sale, Member Sale, Staff Sale
-Different Discount Schemes - For Example
-Cash sale
-Credit Card Sale(ex. with 3% addition to individual item)
-Senior Sale (ex. with 5% discount for each item)
-Channelling Sale (ex. 2% discount)
-Staff Sale(10% discount with Annual Limit)
-Doctor Sale(8% Discount)
-Different Discounts by Membership
-Easy Item selection
-By Item Name
-By Code
-By Generic Name
-By Substitutes
-Automatic Rate Selection
-Some items by Item Price while other from Batch Price
-Suggestions for out of stock medicines
-Easily display Substitutes with their rates & Stocks
-Reprint Bills
-Cancel Bills
-Accept Returns (multiple times)
-Can Bill at Pharmacy & Collect Payment at Cashier
+* OPD Sale, Indoor Sale, Member Sale, Staff Sale
+* Different Discount Schemes - For Example Cash sale, Credit Card Sale(ex. with 3% addition to individual item), Senior Sale (ex. with 5% discount for each item), Channelling Sale (ex. 2% discount), Staff Sale(10% discount with an Annual Limit), Doctor Sale(8% Discount)
+* Different Discounts by Membership
+* Easy Item selection - By Item Name, By Code, By Generic Name
+* Automatic Rate Selection
+* Some items by Item Price while other from Batch Price
+* Suggestions for out of stock medicines
+* Easily display Substitutes with their rates & Stocks
+* Reprint Bills
+* Cancel Bills
+* Accept Returns (multiple times)
+* Can Bill at Pharmacy & Collect Payment at Cashier
 
 ## Ordering
 
@@ -60,36 +50,39 @@ Can Bill at Pharmacy & Collect Payment at Cashier
 * Update Bin card
 * Payment methods: Cash, Credit, Credit Card, etc
 
-Transactions between different units
-Sent orders requests to other departments
-Cancel orders requests
-Print order requests
-Issue order requests
-Issue without order requests
-Print Issue details
-Reprint Issue Details
-Cancel Issues
-Print Cancel Issues
-Reprint Cancel Issues
-Receive issued items
-Print received items
-Cancel received items
-Reprint Cancel received Items
-Transaction to outside
-OPD Issue
-OPD Issue Reprint
-OPD Issue Cancellation
-OPD Issue Cancellation Print
-OPD Issue Cancellation Reprint
-OPD Issue Return
-OPD Issue Return Reprint
-Indoor Issue
-Indoor Issue Reprint
-Indoor Issue Cancellation
-Indoor Issue Cancellation Print
-Indoor Issue Cancellation Reprint
-Indoor Issue Return
-Indoor Issue Return Reprint
+## Transactions between different units
+* Sent orders requests to other departments
+* Cancel orders requests
+* Print order requests
+* Issue order requests
+* Issue without order requests
+* Print Issue details
+* Reprint Issue Details
+* Cancel Issues
+* Print Cancel Issues
+* Reprint Cancel Issues
+* Receive issued items
+* Print received items
+* Cancel received items
+* Reprint Cancel received Items
+
+## OPD Sale
+* OPD Issue
+* OPD Issue Reprint
+* OPD Issue Cancellation
+* OPD Issue Cancellation Print
+* OPD Issue Cancellation Reprint
+* OPD Issue Return
+* OPD Issue Return Reprint
+
+## Indoor Issue
+* Indoor Issue Reprint
+* Indoor Issue Cancellation
+* Indoor Issue Cancellation Print
+* Indoor Issue Cancellation Reprint
+* Indoor Issue Return
+* Indoor Issue Return Reprint
+
 Staff Sale
 Staff Sale Reprint
 Staff Sale Cancellation
