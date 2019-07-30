@@ -13,8 +13,4 @@
 * When a patient is discharged, the bill is ready, no need to wait
 * Extensive Business Analysis Reports
 
-
-
-
-
-* [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
+[Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
