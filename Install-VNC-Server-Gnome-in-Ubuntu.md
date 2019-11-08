@@ -31,7 +31,7 @@ Make sure the following contents are there in the startup script.
 `#!/bin/sh`
 ` `
 
-`export XKL_XMODMAP_DISABLE=1`
+`export XKL_XMODMAP_DISABLE=1
 `unset SESSION_MANAGER`
 `unset DBUS_SESSION_BUS_ADDRESS`
 ` `
