@@ -9,3 +9,5 @@
 * Billing for Credit Companies
 * Billing for Staff Members with annual limits
 * Summaries - Day End Summaries, Shift end Summaries, Bill Type Summary
+
+[Back](https://github.com/hmislk/hmis/wiki/OPD)
