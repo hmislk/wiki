@@ -5,7 +5,7 @@ For the development and testing purposes, you can easily clone the project and r
 ## Ubuntu
 
 ### VNC Server
-If you are running Ubuntu in a Virtual Computer, you need to [install VNC Server](https://github.com/hmislk/hmis/wiki/Install-VNC-Server-Gnome-in-Ubuntu).
+If you are running Ubuntu in a Virtual Computer, you need to [install VNC Server](https://github.com/hmislk/hmis/wiki/Install-VNC-Server).
 
 ### Install MySQL OR MariaDB (or anything else you like) and configure
 * [How to Install MySQL in Ubuntu](https://github.com/hmislk/hmis/wiki/Install-MySQL-in-Ubuntu)
