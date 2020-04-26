@@ -10,6 +10,8 @@ sudo apt update
 
 sudo apt upgrade
 
+sudo apt-get install vnc4server
+
 vncserver
 
 sudo nano ~/.vnc/xstartup
