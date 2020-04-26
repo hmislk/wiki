@@ -11,6 +11,10 @@ Install MariaDB
 `sudo mysql_secure_installation`
 
 `sudo mysql`
+
 `GRANT ALL ON *.* TO 'admin'@'localhost' IDENTIFIED BY 'password' WITH GRANT OPTION;`
+
 `FLUSH PRIVILEGES;`
+
 `exit;`
+
