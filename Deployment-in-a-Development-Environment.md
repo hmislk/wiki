@@ -10,11 +10,15 @@ If you are running Ubuntu in a Virtual Computer, you need to [install VNC Server
 ### Netbeans IDE
 [Install Netbeans](https://github.com/hmislk/hmis/wiki/Install-Netbeans)
 
-### Install MySQL OR MariaDB (or anything else you like) and configure
-* [How to Install MySQL in Ubuntu](https://github.com/hmislk/hmis/wiki/Install-MySQL-in-Ubuntu)
+### Install MariaDB and configure (Recommended)
 * [How to Install Maria in Ubuntu](https://github.com/hmislk/hmis/wiki/Install-MariaDB-in-Ubuntu)
+* [How to Configure Maria](https://github.com/hmislk/hmis/wiki/Database-Configuration)
+
+### Install MySQL and configure
+* [How to Install MySQL in Ubuntu](https://github.com/hmislk/hmis/wiki/Install-MySQL-in-Ubuntu)
+
 * [How to secure MySQL/MariaDB](https://github.com/hmislk/hmis/wiki/Secure-MySQL)
-* [How to Configure MySQL/Maria](https://github.com/hmislk/hmis/wiki/Database-Configuration)
+
 
 ### Netbeans
 
