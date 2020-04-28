@@ -40,3 +40,12 @@ sudo nano ~/.vnc/xstartup
 `nautilus &`
 
 
+`$ chmod 700 ~/.vnc/xstartup`
+
+`sdas
+asdasd
+asdsads
+asdasdas
+
+asdasd
+asd`
