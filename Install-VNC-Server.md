@@ -47,3 +47,5 @@ sudo nano ~/.vnc/xstartup
 
 
 For Details visit this [Link](https://portal.databasemart.com/kb/a381/how-to-install-ubuntu-desktop-and-vnc-server-on-ubuntu-server14_04.aspx)
+
+[Back](https://github.com/hmislk/hmis/wiki/Deployment-in-a-Development-Environment)
