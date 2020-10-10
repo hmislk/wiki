@@ -1,6 +1,11 @@
-For the development and testing purposes, you can easily clone the project and run with the help of NetBeans.
+The java web application is working as the web interface, the code and the API. It needs the following components.
 
- 
+* Server (Physical Server / Cloud Virtual Machine)
+* Operating System - Ubuntu 18.04 LTS preferred
+* Java Development Environment - JDK 1.8 preferred
+* Application Server - Payara 5 (Other include GlassFish, Tomee, Weblogic. )
+* Database - MySQL 5.7 preferred (Others include MariaDB, PostgreSQL)
+* Integrated Development Environment - Netbeans preferred
 
 ## Ubuntu
 
