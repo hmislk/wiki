@@ -1,3 +1,15 @@
+# Design
+Software Design Approach## 
+Object-Oriented Design
+
+## Programming design pattern
+MVC
+
+## Implementation Architectures
+N-tier architecture
+Standalone Application with RESTFul clients
+Standalone Application with Port Programming
+
 # The Core and the Web Application
 
 ## Language
