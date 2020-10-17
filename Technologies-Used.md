@@ -61,6 +61,25 @@ JavaSE
 RESTFull
 
 
-
+# Dependencies
+* joda-time - 2.9.9
+* org.eclipse.persistence 2.5
+* net.sourceforge.barbecue
+* barbecue - 1.5-beta1
+* mysql-connector-java - 8.0.16
+* itextpdf - 5.5.10
+* javaee-web-api 7.0
+* primefaces - 6.2
+* jasypt - 1.9.1
+* apache-commons-io - 2.3
+* commons-beanutils - 1.9.4
+* net.sourceforge.jexcelapi - 2.6.12
+* itext-pdfa - 5.4.4
+* org.primefaces.extensions - 1.2.1
+* apache.poi
+* org.apache.commons
+* json
+* jdom 1.1
+* net.glxn
 
 
