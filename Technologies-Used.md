@@ -39,7 +39,9 @@ Payara 5 / GlassFish 5
 
 
 # LIMS Analyzer Middleware
-C## Version Control
+C#
+
+# Version Control
 ## Technology
 git
 
