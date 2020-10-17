@@ -34,6 +34,12 @@ apache maven 3.3
 ## JDBC Driver
 MySQL Connector java 5.1.23 + MySQL Connector 8
 
+## Persistence Framework
+JPA
+
+## Persistence Provider
+EclipseLink 2.5 
+
 ## Application Server
 Payara 5 / GlassFish 5
 
