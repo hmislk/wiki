@@ -1,4 +1,4 @@
-# The Core and the Web Application Use the following Technologies
+# The Core and the Web Application
 
 ## Language
 Java 1.8.0
