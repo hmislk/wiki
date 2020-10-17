@@ -60,6 +60,8 @@ JavaSE
 # Web Services
 RESTFull
 
+# Issue Tracking
+GitHub Issue Tracker
 
 # Dependencies
 * joda-time - 2.9.9
