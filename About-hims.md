@@ -25,7 +25,7 @@ Mr.K.M.G.T.R. Waidyarathne - Project Management
 
 ### Main Contributors to the Design
 * [Dr M H B Ariyaratne](https://github.com/buddhika75)
-* Dr Chrishantha Widisingha
+* Dr Chrishantha Widisinghe
 * Dr Jagath Samarasekara
 * Dr Veditha Banduwardana
 * Dr Gayaman Dissanayake
