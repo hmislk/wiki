@@ -1,6 +1,6 @@
 # Welcome to the hmis wiki!
 
-* [About hims](https://github.com/hmislk/hmis/wiki/About-hims)
+* [About hims](https://github.com/hmislk/hmis/wiki/About-Open-HMIS)
 * [Road-map](https://github.com/hmislk/hmis/wiki/Road-map)
 * [License](https://github.com/hmislk/hmis/blob/master/LICENSE.md)
 * [User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
