@@ -1,5 +1,6 @@
 * [Technologies Used](https://github.com/hmislk/hmis/wiki/Technologies-Used)
 * [Code Conventions](https://github.com/hmislk/hmis/wiki/Code-Conventions)
-* [Tesing Middleware](https://github.com/hmislk/hmis/wiki/Testing-Middleware)
+* [Testing Middleware](https://github.com/hmislk/hmis/wiki/Testing-Middleware)
 * [Debugging](https://github.com/hmislk/hmis/wiki/Debugging)
 * [JSF Templating](https://github.com/hmislk/hmis/wiki/JSF-Templating)
+* [Knowledge Base](https://github.com/hmislk/hmis/wiki/Knowledge-Base)
