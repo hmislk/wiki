@@ -1,1 +1,5 @@
-Go to manage users and then click on view users. Select the relevant user and apply the necessary changes to the user.
+Go to Administration on menu and select Manage Users. 
+
+Then click View Users on the left side bar. 
+
+Select the relevant user from the list and apply the necessary changes to the user.
