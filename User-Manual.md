@@ -12,3 +12,4 @@ User Manual
 * [Kitchen Management](https://github.com/hmislk/hmis/wiki/Kitchen-Management)
 * [Linen Management](https://github.com/hmislk/hmis/wiki/Linen-Management)
 * [Fleet Management](https://github.com/hmislk/hmis/wiki/Fleet-Management)
+* [System Administration](https://github.com/hmislk/hmis/wiki/System-Administration)
