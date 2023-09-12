@@ -1,4 +1,4 @@
-**## How to create a JSF Template**
+**How to create a JSF Template**
 
 Creating a Java Server Faces (JSF) template involves setting up a reusable structure for your web application, allowing you to define common elements like headers, footers, and navigation bars in one place and reuse them across multiple pages. Here's a step-by-step guide on how to create a JSF template.
 
