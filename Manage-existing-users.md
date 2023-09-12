@@ -1,0 +1,1 @@
+Go to manage users and then click on view users. Select the relevant user and apply the necessary changes to the user.
