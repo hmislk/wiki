@@ -1,13 +1,16 @@
 Finding a specific page to edit in a web application depends on the size and complexity of the project, as well as the tools and technologies you are using. Here are some general steps you can follow to locate and edit a web page,
 
 * **Open Your IDE**
+
   Launch your Integrated Development Environment (IDE), such as Eclipse, IntelliJ IDEA, or NetBeans, where you have your JSF project stored.
 
 * **Open Your JSF Project**
+
   Open your JSF project within the IDE. Locate your project in the IDE's workspace or open it from your project's directory if it's not already 
   open.
 
 * **Navigate to the Web Content Folder**
+
   JSF pages are typically located in the "Web Content" or "Web Pages" directory within your project. Expand the project structure to find this 
   folder. It may also be named "WebApp," "Web," or something similar.
 
