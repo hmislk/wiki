@@ -1,0 +1,1 @@
+Go to manage users and click on Add New User. Then fill the required details and save the new user.
