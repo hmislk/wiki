@@ -1,1 +1,5 @@
-Go to manage users and click on Add New User. Then fill the required details and save the new user.
+Go to Administration on the menu and select Manage Users.
+
+Then click on Add New User on left side bar. 
+
+Then fill the required details and click Save button to add the new user.
