@@ -1,10 +1,18 @@
-* ### Add Service
-  First we need to fill Name and Income name to income name input field. After save the service using press save button.
-  Now you can Check the selection box to see if the service is added. If necessary, to add another service, press Add button again and give 
-  details to relevant fields & press the Save button.
+### Add Service Category
+  * First, fill Name and Income Name fields.
+  * After that save the service using press Save button.
+  * Now, Check the selection box to see if the service is added.
+  * To add another service, repeat the above steps.
 
-* ### Edit Service
-  First need select the Required service in the selection box. Now can see that Service Name and Service income name are filled in the respective 
-  field  Now edit name or revenue name and save it by pressing save button.
+### Edit Service Category
+  * First select the required service in the selection box.
+  * Now the Name and Income Name are filled in the respective fields.
+  * Now edit Name or Income Name and save it by press Save button.
+
+### Delete Service Category
+  * First select the required service in the selection box.
+  * Now press delete button.
+  * Now an alert for confirmation will be visible.
+  * After that press Ok to confirm delete.
 
 
