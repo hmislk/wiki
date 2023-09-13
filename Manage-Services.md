@@ -2,6 +2,6 @@ In this section, the administrator can manage all the services related to the sy
 * [Manage Services]
 > * [Service Categories]
 > * [Service Subcategories]
-> * [OPD Service]
+> * [OPD Service](https://github.com/hmislk/hmis/wiki/OPD-Services)
 
 
