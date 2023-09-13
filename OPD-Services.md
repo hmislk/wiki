@@ -6,6 +6,6 @@
 * Repeat these steps to add more services.
 
 ### Delete OPD Service
-* Select the required service to delete from the list.
+* In the same panel, select the required service to delete from the list.
 * Click the Delete button and Confirm it to delete.
 * Now that service will not be visible in the list.
