@@ -1,5 +1,3 @@
-# Increasing Heap Memory in Payara Server via Admin Console
-
 ## Access the Admin Console:
 
 Open your web browser and navigate to the Payara Server Admin Console. Typically, this is accessed via http://localhost:4848 unless you've changed the default port or are accessing a remote server.
