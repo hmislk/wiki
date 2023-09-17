@@ -2,4 +2,4 @@
 
 [Add a Doctor Specialities](https://github.com/hmislk/hmis/wiki/Add-Doctor-Specialities)
 
-[Add a Consultant]
+[Add a Consultant](https://github.com/hmislk/hmis/wiki/Add-a-Consultant)
