@@ -2,4 +2,4 @@
 
 [Add Containers](https://github.com/hmislk/hmis/wiki/Add-Containers)
 
-[Add Specimans]
+[Add Specimans](https://github.com/hmislk/hmis/wiki/Add-Specimans)
