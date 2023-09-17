@@ -5,3 +5,5 @@ This page will help a system administrator to conduct all the administrative wor
 [Manage Services](https://github.com/hmislk/hmis/wiki/Manage-Services)
 
 [Manage Staff](https://github.com/hmislk/hmis/wiki/Manage-Staff)
+
+[Manage lab services]()
