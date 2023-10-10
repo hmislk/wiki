@@ -1,3 +1,3 @@
 * [Granting Access to Google Cloud Management](https://github.com/hmislk/hmis/wiki/Granting-Access-in-Google-Cloud-Management)
 * [Creating a New VM Instance in Google Compute Engine](https://github.com/hmislk/hmis/wiki/Creating-a-New-VM-Instance-in-Google-Compute-Engine)
-* [Creating a New Firewall Policy in Google Cloud's VPC Network Firewall]
+* [Creating a New Firewall Policy in Google Cloud's VPC Network Firewall](https://github.com/hmislk/hmis/wiki/Creating-a-New-Firewall-Policy-in-Google-Cloud's-VPC-Network-Firewall)
