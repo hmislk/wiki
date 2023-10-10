@@ -5,3 +5,4 @@
 * [JSF Templating](https://github.com/hmislk/hmis/wiki/JSF-Templating)
 * [Troubleshooting](https://github.com/hmislk/hmis/wiki/Troubleshooting)
 * [Knowledge Base](https://github.com/hmislk/hmis/wiki/Knowledge-Base)
+* [Cloud Management]
