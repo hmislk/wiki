@@ -1,4 +1,4 @@
 * [Granting Access to Google Cloud Management](https://github.com/hmislk/hmis/wiki/Granting-Access-in-Google-Cloud-Management)
 * [Creating a New VM Instance in Google Compute Engine](https://github.com/hmislk/hmis/wiki/Creating-a-New-VM-Instance-in-Google-Compute-Engine)
 * [Creating a New Firewall Policy in Google Cloud's VPC Network Firewall](https://github.com/hmislk/hmis/wiki/Creating-a-New-Firewall-Policy-in-Google-Cloud's-VPC-Network-Firewall)
-* [Using Basic SSH Commands in Google Cloud's Browser-Based SSH for VM Instances]
+* [Using Basic SSH Commands in Google Cloud's Browser-Based SSH for VM Instances](https://github.com/hmislk/hmis/wiki/Using-Basic-SSH-Commands-in-Google-Cloud's-Browser%E2%80%90Based-SSH-for-VM-Instances)
