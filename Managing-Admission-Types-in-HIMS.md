@@ -37,5 +37,6 @@ To manage admission types, users can navigate through the system as follows:
 * Editing an Existing Type: Selecting an existing admission type displays its details, which can be modified as needed.
 * Saving Changes: After making any changes, click 'Save' to update the admission type details.
 
+[Video](https://youtu.be/PVmezmrXOHo)
 
 [Back to Configuration](https://github.com/hmislk/hmis/wiki/Inpatient-Configuration)
