@@ -55,6 +55,5 @@ Instant Final Billing upon Discharge: Automated final bill generation upon patie
 Advanced Business Analytics: Provides extensive business analysis reports, offering valuable insights for management and operational optimization.
 
 
-[Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
-
-[Back to Inpatient Management](https://github.com/hmislk/hmis/wiki/Inward)
+* [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
+* [Back to Inpatient Management](https://github.com/hmislk/hmis/wiki/Inward)
