@@ -1,1 +1,1 @@
-Manage Inpatient Services
+[Manage Admission Types](https://github.com/hmislk/hmis/wiki/Add-Specimans)
