@@ -33,3 +33,6 @@ Adding and Editing Admission Types:
 Adding a New Type: Click 'Add' to clear the form, allowing for the entry of details for a new admission type.
 Editing an Existing Type: Selecting an existing admission type displays its details, which can be modified as needed.
 Saving Changes: After making any changes, click 'Save' to update the admission type details.
+
+
+[Back to Configuration](https://github.com/hmislk/hmis/wiki/Inpatient-Configuration)
