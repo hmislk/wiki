@@ -56,4 +56,5 @@ Advanced Business Analytics: Provides extensive business analysis reports, offer
 
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
+
 [Back to Inpatient Management](https://github.com/hmislk/hmis/wiki/Inward)
