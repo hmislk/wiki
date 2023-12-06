@@ -23,7 +23,7 @@ Common Use: Used to lower bad cholesterol and fats (such as LDL, triglycerides) 
 
 These examples illustrate the diversity of VTMs in the medical field and underscore the importance of their accurate management in the EMR system. The subsequent sections will guide you through the detailed processes involved in managing these VTMs.
 
-# Navigation to VTM Management
+## Navigation to VTM Management
 To begin managing VTMs, navigate through the EMR system by selecting:
 **Menu > Administration > Pharmaceutical Management**
 This will direct you to the "Pharmaceutical Management" page.
