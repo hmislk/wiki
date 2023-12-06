@@ -7,6 +7,8 @@ Setting Up Pharmaceutical Management
 Understanding the EMR's Flexibility in Pharmaceutical Management
 Navigating to the Pharmaceutical Management Section
 
+[Manage VTMs](https://github.com/hmislk/hmis/wiki/Managing-Virtual-Therapeutic-Moieties-(VTM))
+
 Managing Dosage Forms
 Adding New Dosage Forms
 Editing and Deleting Dosage Forms
