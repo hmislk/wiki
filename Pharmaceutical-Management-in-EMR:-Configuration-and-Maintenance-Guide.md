@@ -46,3 +46,5 @@ Conclusion
 
 Summary of Key Points
 Contact Information for Further Assistance
+
+[Back to EMR](https://github.com/hmislk/hmis/wiki/EHR)
