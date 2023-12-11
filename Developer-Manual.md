@@ -6,3 +6,4 @@
 * [Troubleshooting](https://github.com/hmislk/hmis/wiki/Troubleshooting)
 * [Knowledge Base](https://github.com/hmislk/hmis/wiki/Knowledge-Base)
 * [Cloud Management](https://github.com/hmislk/hmis/wiki/Cloud-Management)
+* [Controllers](https://github.com/hmislk/hmis/wiki/Controllers)
