@@ -34,17 +34,13 @@ JSF determines whether to create a new instance of the controller or use an exis
 
 ## Understanding Scopes
 
-### ApplicationScope: This scope lasts for the duration of the application. Beans in this scope are created once and shared across all user interactions and sessions.
-
-### SessionScope: Objects in this scope are specific to a user session. They are created at the beginning of a session and last until the session ends.
-
-### ViewScope: In this scope, a bean remains alive as long as the user interacts with the same JSF view (page). It is useful for keeping state across postbacks in the same view.
-
-### RequestScope: Beans in this scope are recreated with every user request. They are short-lived and disposed of once the request is processed.
-
-### DependentScope: This is the default scope if none is specified. Beans in this scope are dependent on the lifecycle of the bean they are injected into.
+* ApplicationScope: This scope lasts for the duration of the application. Beans in this scope are created once and shared across all user interactions and sessions.
+* SessionScope: Objects in this scope are specific to a user session. They are created at the beginning of a session and last until the session ends.
+* ViewScope: In this scope, a bean remains alive as long as the user interacts with the same JSF view (page). It is useful for keeping state across postbacks in the same view.
+* RequestScope: Beans in this scope are recreated with every user request. They are short-lived and disposed of once the request is processed.
+* DependentScope: This is the default scope if none is specified. Beans in this scope are dependent on the lifecycle of the bean they are injected into.
 
 
 
 
-
+[Back](https://github.com/hmislk/hmis/wiki/Developer-Manual)
