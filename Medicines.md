@@ -10,6 +10,12 @@
 
 
 
+***
+https://www.hiqa.ie/sites/default/files/2017-01/Data_model_for_an_electronic_medicinal_product_reference_catalogue.pdf
+***
+
+
+
 
 
 * Generic Names (VTM) (Ex. Paracetamol)
@@ -23,3 +29,4 @@
 
 
 [Back to Administration](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
+***
