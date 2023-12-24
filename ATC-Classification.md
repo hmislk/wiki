@@ -33,8 +33,8 @@ The ATC code consists of seven alphanumeric levels, each representing a differen
 
 
 ## Resources
-[WHO]( https://www.who.int/tools/atc-ddd-toolkit/atc-classification#:~:text=In%20the%20Anatomical%20Therapeutic%20Chemical,groups%20at%20five%20different%20levels)
-[WHO Collaborating Centre for Drug Statistics Methodology](https://www.whocc.no/atc_ddd_index/)
+* [WHO]( https://www.who.int/tools/atc-ddd-toolkit/atc-classification#:~:text=In%20the%20Anatomical%20Therapeutic%20Chemical,groups%20at%20five%20different%20levels)
+* [WHO Collaborating Centre for Drug Statistics Methodology](https://www.whocc.no/atc_ddd_index/)
 
 
 
