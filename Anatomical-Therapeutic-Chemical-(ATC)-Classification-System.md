@@ -1,4 +1,3 @@
-# Anatomical Therapeutic Chemical (ATC) Classification System
 
 ## Overview
 The ATC Classification System is a hierarchical system for classifying drugs based on their therapeutic use and chemical characteristics. Developed by the World Health Organization (WHO), it provides a standardized way to categorize medications, facilitating communication and research in the field of pharmacy and medicine.
