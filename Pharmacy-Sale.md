@@ -13,4 +13,5 @@ Accept Returns (multiple times)
 Can Bill at Pharmacy & Collect Payment at Cashier
 
 
+
 [Back](https://github.com/hmislk/hmis/wiki/Pharmacy)
