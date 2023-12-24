@@ -41,4 +41,4 @@ The ATC code consists of seven alphanumeric levels, each representing a differen
 ***
 
 
-[Back to Administration](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
+[Back to Pharmaceutical Fundamentals](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Fundamentals)
