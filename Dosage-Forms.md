@@ -1,4 +1,3 @@
-# Dosage Forms
 ## Overview
 Dosage forms play a crucial role in the pharmaceutical industry by providing a means to deliver medications to patients. This GitHub wiki provides comprehensive information on various dosage forms, their characteristics, and applications. Understanding dosage forms is essential for healthcare professionals, pharmacists, and researchers involved in drug development and patient care.
 
