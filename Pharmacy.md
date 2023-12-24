@@ -13,14 +13,7 @@ Ex.Drug Store, OPD, Indoor, OT, OPDDrugs, X-Ray,
 
 ## [Transactions between different units](https://github.com/hmislk/hmis/wiki/Pharmacy-Transactions-between-different-units)
 
-## OPD Sale
-* OPD Issue
-* OPD Issue Reprint
-* OPD Issue Cancellation
-* OPD Issue Cancellation Print
-* OPD Issue Cancellation Reprint
-* OPD Issue Return
-* OPD Issue Return Reprint
+## [OPD Sale](https://github.com/hmislk/hmis/wiki/Pharmacy-OPD-Sale)
 
 ## Indoor Issue
 * Indoor Issue Reprint
