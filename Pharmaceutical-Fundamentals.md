@@ -3,7 +3,7 @@
 
 ### [Dosage Forms](https://github.com/hmislk/hmis/wiki/Dosage-Forms)
 
-### [ATC Classification](https://github.com/hmislk/hmis/wiki/ATC-Classification)
+### [ATC Classification](https://github.com/hmislk/hmis/wiki/Anatomical-Therapeutic-Chemical-(ATC)-Classification-System)
 
 ### [Unit](https://github.com/hmislk/hmis/wiki/Units)
 
