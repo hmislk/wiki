@@ -1,7 +1,7 @@
 
 ### [Pharmaceutical Fundamentals](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Fundamentals)
 
-### [Medicines (Items)](https://github.com/hmislk/hmis/wiki/Medicines)
+### [Medicines](https://github.com/hmislk/hmis/wiki/Medicines)
 
 ### [Suppliers](https://github.com/hmislk/hmis/wiki/Suppliers)
 
