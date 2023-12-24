@@ -20,6 +20,8 @@ The main features are listed below.
 
 ### [Summaries & Reports](https://github.com/hmislk/hmis/wiki/Pharmacy-Summaries-&-Reports)
 
+### [Adjustments](https://github.com/hmislk/hmis/wiki/Pharmacy-Adjustments)
+
 ### [Administration](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
 
 
@@ -42,15 +44,6 @@ The main features are listed below.
 * Supplier Management
 * Items supplied by Supplier
 * Auto Ordering for Items supplied by Selected Supplier
-
-## Adjustments
-* Stock Adjustment
-* Print stock adjustment
-* Reprint stock adjustment
-* Price Adjustment
-* Print price adjustment
-* Reprint price adjustment
-
 
 Administration
 Pharmaceutical Items Categories - Milk Powder, Tablets, Syrup 
