@@ -7,7 +7,7 @@ Ex.Drug Store, OPD, Indoor, OT, OPDDrugs, X-Ray,
 
 ## [Sale](https://github.com/hmislk/hmis/wiki/Pharmacy-Sale)
 
-## [Ordering](https://github.com/hmislk/hmis/wiki/Ordering)
+## [Ordering](https://github.com/hmislk/hmis/wiki/Pharmacy-Ordering)
 
 ## Good Receive
 * Receive Goods from GRN (Good Receive Note)
