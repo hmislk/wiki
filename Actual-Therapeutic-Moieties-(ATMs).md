@@ -1,5 +1,5 @@
 ## Overview
-Actual Therapeutic Moieties (ATMs) are a critical component of the Anatomical Therapeutic Chemical (ATC) Classification System, contributing to the systematic categorization of drugs based on their actual therapeutic effects. This GitHub wiki aims to provide a comprehensive understanding of ATMs in pharmacy, outlining their significance, structure, and practical applications in the realm of pharmaceutical science.
+Actual Therapeutic Moieties (ATMs) are a critical component of the Anatomical Therapeutic Chemical (ATC) Classification System, contributing to the systematic categorization of drugs based on their actual therapeutic effects. 
 
 ## Table of Contents
 
