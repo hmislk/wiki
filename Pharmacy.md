@@ -22,6 +22,8 @@ The main features are listed below.
 
 ### [Adjustments](https://github.com/hmislk/hmis/wiki/Pharmacy-Adjustments)
 
-[Administration](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
+### [Administration](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
+
+***
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
