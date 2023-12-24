@@ -31,6 +31,12 @@ Understanding units in pharmacy is crucial for accurate drug administration, dos
 > * List of common abbreviations for units used in prescriptions and medical documentation.
 > * Importance of avoiding medication errors through accurate unit representation.
 
+## Unit Types
+
+* Issue Units (Ex. Tablets, Bottle, Capsules)
+* Pack Units (Ex. Pack, Carton)
+* Strength Units (Ex. Mg, microgram)
+
 ***
 
 [Back to Pharmaceutical Fundamentals](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Fundamentals)> 
