@@ -1,6 +1,6 @@
 ## Overview
 
-Virtual Medicinal Product Packs (VMP Packs) are essential components in pharmaceutical systems, providing a digital representation of the packaging and presentation of medicinal products. This GitHub wiki serves as a comprehensive guide to understanding VMP Packs, exploring their definition, significance, and applications in pharmacy.
+Virtual Medicinal Product Packs (VMP Packs) are essential components in pharmaceutical systems, providing a digital representation of the packaging and presentation of medicinal products.
 
 ## Table of Contents
 
