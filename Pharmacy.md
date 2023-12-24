@@ -24,12 +24,4 @@ The main features are listed below.
 
 ### [Administration](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
 
-Administration
-Pharmaceutical Items Categories - Milk Powder, Tablets, Syrup 
-Dosage Form - Syrup, Capsule, Tablet, Injection - 
-ATC - https://www.who.int/tools/atc-ddd-toolkit/atc-classification#:~:text=In%20the%20Anatomical%20Therapeutic%20Chemical,groups%20at%20five%20different%20levels.
-Units - mg, microgram 
-
-
-
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
