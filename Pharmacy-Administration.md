@@ -1,4 +1,3 @@
-## Administration
 
 ### [Pharmaceutical Fundamentals](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Fundamentals)
 
