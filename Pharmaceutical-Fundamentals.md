@@ -20,7 +20,7 @@ Dosage forms in pharmacy refer to the specific physical form in which a drug is 
 
 ***
 
-## (ATC Classification](https://github.com/hmislk/hmis/wiki/ATC-Classification)
+## [ATC Classification](https://github.com/hmislk/hmis/wiki/ATC-Classification)
 
 ***
 
