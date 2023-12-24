@@ -2,8 +2,7 @@ This module can manage a chain of Wholesale or Retail Pharmacies
 
 The main features are listed below.
 
-## Multiple Store Management separately
-Ex.Drug Store, OPD, Indoor, OT, OPDDrugs, X-Ray, 
+## [Multiple Store Management separately](https://github.com/hmislk/hmis/wiki/Pharmacy-Multiple-Store-Management-separately)
 
 ## [Sale](https://github.com/hmislk/hmis/wiki/Pharmacy-Sale)
 
