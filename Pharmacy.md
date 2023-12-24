@@ -5,7 +5,7 @@ The main features are listed below.
 ## Multiple Store Management separately
 Ex.Drug Store, OPD, Indoor, OT, OPDDrugs, X-Ray, 
 
-## [Sale[(https://github.com/hmislk/hmis/wiki/Pharmacy-Sale)
+## [Sale](https://github.com/hmislk/hmis/wiki/Pharmacy-Sale)
 
 ## Ordering
 
