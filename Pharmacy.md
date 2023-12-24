@@ -20,6 +20,8 @@ The main features are listed below.
 
 ### [Summaries & Reports](https://github.com/hmislk/hmis/wiki/Pharmacy-Summaries-&-Reports)
 
+### [Administration](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
+
 
 ## Administration
 ### Medicines (Items)
