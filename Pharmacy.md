@@ -24,27 +24,6 @@ The main features are listed below.
 
 ### [Administration](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
 
-
-## Administration
-### Medicines (Items)
-* Generic Names (VTM) (Ex. Paracetamol)
-* Correct design using different forms of medicines is essential for the extensibility and sustainability of the software.
-* Trade Names (ATM) (Ex. Paracetamol SPC)
-* Virtual Product Names (VPN) (Paracetamol 500mg tablets) - To order
-* Actual Product Names (APN) (Paracetamol SPC 500mg tablets) - To Issue, To transfer, To order
-* Actual Product Pack Names (APP) (Ex. Paracetamol SPC 500 mg tablets - 1000 tablet pack) - To Purchase in bulk
-* Medicine Groups (Tablets, Syrups)
-
-### Units
-* Issue Units (Ex. Tablets, Bottle, Capsules)
-* Pack Units (Ex. Pack, Carton)
-* Strength Units (Ex. Mg, microgram)
-
-## Suppliers
-* Supplier Management
-* Items supplied by Supplier
-* Auto Ordering for Items supplied by Selected Supplier
-
 Administration
 Pharmaceutical Items Categories - Milk Powder, Tablets, Syrup 
 Dosage Form - Syrup, Capsule, Tablet, Injection - 
