@@ -1,4 +1,17 @@
-## Medicines (Items)
+
+### [VTMs]()
+### [ATMs]()
+
+### [VMPs]()
+### [AMPs]()
+
+### [VMPPs]()
+### [AMPPs]()
+
+
+
+
+
 * Generic Names (VTM) (Ex. Paracetamol)
 * Correct design using different forms of medicines is essential for the extensibility and sustainability of the software.
 * Trade Names (ATM) (Ex. Paracetamol SPC)
