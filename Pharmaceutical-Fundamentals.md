@@ -1,5 +1,5 @@
 
-### Item Categories
+### [Item Categories](https://github.com/hmislk/hmis/wiki/Item-Categories)
 
 ### [Dosage Forms](https://github.com/hmislk/hmis/wiki/Dosage-Forms)
 
