@@ -11,21 +11,7 @@ Ex.Drug Store, OPD, Indoor, OT, OPDDrugs, X-Ray,
 
 ## [Good Receive](https://github.com/hmislk/hmis/wiki/Pharmacy-Good-Receive)
 
-## Transactions between different units
-* Sent orders requests to other departments
-* Cancel orders requests
-* Print order requests
-* Issue order requests
-* Issue without order requests
-* Print Issue details
-* Reprint Issue Details
-* Cancel Issues
-* Print Cancel Issues
-* Reprint Cancel Issues
-* Receive issued items
-* Print received items
-* Cancel received items
-* Reprint Cancel received Items
+## [Transactions between different units](https://github.com/hmislk/hmis/wiki/Pharmacy-Transactions-between-different-units)
 
 ## OPD Sale
 * OPD Issue
