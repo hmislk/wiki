@@ -4,8 +4,6 @@
 
 ### [Medicines (Items)](https://github.com/hmislk/hmis/wiki/Medicines-(Items))
 
-### [Units](https://github.com/hmislk/hmis/wiki/Units)
-
 ### [Suppliers](https://github.com/hmislk/hmis/wiki/Suppliers)
 
 
