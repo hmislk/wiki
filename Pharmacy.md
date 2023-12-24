@@ -131,4 +131,14 @@ Ex.Drug Store, OPD, Indoor, OT, OPDDrugs, X-Ray,
 * Print price adjustment
 * Reprint price adjustment
 
+
+Administration
+Pharmaceutical Items Categories - Milk Powder, Tablets, Syrup 
+Dosage Form - Syrup, Capsule, Tablet, Injection - 
+ATC -
+Units - mg, microgram 
+
+
+
+
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
