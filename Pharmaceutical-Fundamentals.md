@@ -1,4 +1,3 @@
-##  Pharmaceutical Fundamentals
 
 ### Item Categories
 
