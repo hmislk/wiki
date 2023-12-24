@@ -15,20 +15,9 @@ Ex.Drug Store, OPD, Indoor, OT, OPDDrugs, X-Ray,
 
 ## [OPD Sale](https://github.com/hmislk/hmis/wiki/Pharmacy-OPD-Sale)
 
-## Indoor Issue
-* Indoor Issue Reprint
-* Indoor Issue Cancellation
-* Indoor Issue Cancellation Print
-* Indoor Issue Cancellation Reprint
-* Indoor Issue Return
-* Indoor Issue Return Reprint
+## [Indoor Issue](https://github.com/hmislk/hmis/wiki/Pharmacy-Indoor-Issue)
 
-## Staff Sale
-* Staff Sale Reprint
-* Staff Sale Cancellation
-* Staff Sale Cancellation Print
-* Staff Sale Cancellation Reprint
-* Staff Sale Return
+## [Staff Sale](https://github.com/hmislk/hmis/wiki/Pharmacy-Staff-Sale)
 
 ## Summaries & Reports
 * Shift End Summery
