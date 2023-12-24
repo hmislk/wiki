@@ -9,4 +9,4 @@
 
 
 
-[Back to Administration](https://github.com/hmislk/hmis/wiki/Pharmacy)
+[Back to Administration](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
