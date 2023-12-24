@@ -1,5 +1,5 @@
-## ### Manual Ordering
-> * 1. Availability of Business Intelligence Reports helping making decisions.
+## Manual Ordering
+> * Availability of Business Intelligence Reports helping making decisions.
 ## Automatic generation of orders
 > * Generate Orders for All items or selected items or Selected distributor
 > * The pharmacist can easily alter the automatically generated order
