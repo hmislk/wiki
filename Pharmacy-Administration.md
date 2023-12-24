@@ -1,6 +1,6 @@
 ## Administration
 
-###[Pharmaceutical Fundamentals](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Fundamentals)
+### [Pharmaceutical Fundamentals](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Fundamentals)
 
 ### [Medicines (Items)](https://github.com/hmislk/hmis/wiki/Medicines-(Items))
 
