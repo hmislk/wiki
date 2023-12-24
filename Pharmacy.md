@@ -7,21 +7,7 @@ Ex.Drug Store, OPD, Indoor, OT, OPDDrugs, X-Ray,
 
 ## [Sale](https://github.com/hmislk/hmis/wiki/Pharmacy-Sale)
 
-## Ordering
-
-### Manual Ordering
-* Availability of Business Intelligence Reports helping making decisions.
-
-### Automatic generation of orders
-
-* Generate Orders for All items or selected items or  Selected distributor
-* The pharmacist can easily alter the automatically generated order
-* Management to approve order before sending
-* Consider usage, buffer stocks and lead time for automatic generation
-* Do NOT consider Reorder Levels or Reorder 
-* Order generation by Reorder Levels and Reorder Quantities
-* Order by Virtual or Actual Product Names
-* Order by Issue Units or Pack Units
+## [Ordering](https://github.com/hmislk/hmis/wiki/Ordering)
 
 ## Good Receive
 * Receive Goods from GRN (Good Receive Note)
