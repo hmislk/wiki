@@ -6,7 +6,8 @@ The ATC Classification System is a hierarchical system for classifying drugs bas
 ## Structure
 The ATC code consists of seven alphanumeric levels, each representing a different aspect of drug classification:
 
-1. Anatomical Main Group (1st level): Represents the main anatomical or therapeutic group. Example: A for Alimentary Tract and Metabolism.
+1. Anatomical Main Group (1st level): Represents the main anatomical or therapeutic group. 
+* Example: A for Alimentary Tract and Metabolism.
 
 1. Therapeutic Subgroup (2nd level): Further specifies the therapeutic class. Example: A02 for Drugs for Acid-related Disorders.
 
