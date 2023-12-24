@@ -1,4 +1,3 @@
-# Units in Pharmacy
 ## Overview
 Understanding units in pharmacy is crucial for accurate drug administration, dosage calculations, and effective communication among healthcare professionals. This GitHub wiki provides comprehensive information on common units used in pharmacy, their conversions, and practical applications in the pharmaceutical field.
 
