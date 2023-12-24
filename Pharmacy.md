@@ -135,7 +135,7 @@ Ex.Drug Store, OPD, Indoor, OT, OPDDrugs, X-Ray,
 Administration
 Pharmaceutical Items Categories - Milk Powder, Tablets, Syrup 
 Dosage Form - Syrup, Capsule, Tablet, Injection - 
-ATC -
+ATC - https://www.who.int/tools/atc-ddd-toolkit/atc-classification#:~:text=In%20the%20Anatomical%20Therapeutic%20Chemical,groups%20at%20five%20different%20levels.
 Units - mg, microgram 
 
 
