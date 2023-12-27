@@ -3,7 +3,7 @@
 ### [Actual Therapeutic Moieties (ATMs)](https://github.com/hmislk/hmis/wiki/Actual-Therapeutic-Moieties-(ATMs))
 
 ### [Virtual Medicinal Products (VMPs)](https://github.com/hmislk/hmis/wiki/Virtual-Medicinal-Products-(VMPs))
-### [Actual Medicinal Products (AMPs)](https://github.com/hmislk/hmis/wiki/Actual-Medicinal-Products-(ATMs))
+### [Actual Medicinal Products (AMPs)](https://github.com/hmislk/hmis/wiki/Actual-Medicinal-Products-(AMPs))
 
 ### [Virtual Medicinal Product Packs (VMPPs)](https://github.com/hmislk/hmis/wiki/Virtual-Medicinal-Product-Packs-(VMPPs))
 ### [Actual Medicinal Product Packs (AMPPs)](https://github.com/hmislk/hmis/wiki/Actual-Medicinal-Product-Packs-(AMPPs))
