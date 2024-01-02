@@ -3,6 +3,7 @@ User Manual
 * [Pharmacy](https://github.com/hmislk/hmis/wiki/Pharmacy)
 * [OPD / Cashier / Billing / Petty Cash Module](https://github.com/hmislk/hmis/wiki/OPD)
 * [Membership](https://github.com/hmislk/hmis/wiki/Membership)
+* [Collecting Centre](https://github.com/hmislk/hmis/wiki/Collecting-Centre-Billing)
 * [LIMS](https://github.com/hmislk/hmis/wiki/LIMS)
 * [Stores and Assets Management System](https://github.com/hmislk/hmis/wiki/Stores-and-Assets-Management)
 * [Electronic Health Record System](https://github.com/hmislk/hmis/wiki/EHR)
