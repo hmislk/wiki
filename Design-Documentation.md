@@ -1,4 +1,4 @@
-Design Documentation
+# Designs
 
 [Billing](https://github.com/hmislk/hmis/wiki/Bills-Orders-System-OOP-Design)
 
