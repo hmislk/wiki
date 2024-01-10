@@ -14,6 +14,7 @@ In these cases, the order is generated, but the payment is postponed, often coll
 
 # Institutional Dynamics in Order Processing
 Every order item is intrinsically linked to specific institutional parameters: the 'fromInstitution/toInstitution', where the user is logged, and 'toInstitution/toDepartment', where the service is or will be rendered. These parameters not only ensure accuracy in service delivery but also facilitate seamless inter-departmental coordination within the healthcare setup.
+[Details](https://github.com/hmislk/hmis/wiki/Institutional-Dynamics-in-OPD-Order-Processing)
 
 # Batch Bills Versus Individual Bills
 In CareCode HMIS, the concept of 'Batch Bills' plays a pivotal role in billing management:
