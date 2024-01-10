@@ -1,4 +1,4 @@
-# Welcome to the hmis wiki!
+# Welcome to CareCode HMIS wiki!
 
 * [About hims](https://github.com/hmislk/hmis/wiki/About-Open-HMIS)
 * [Road-map](https://github.com/hmislk/hmis/wiki/Road-map)
