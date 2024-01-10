@@ -1,1 +1,1 @@
-[සිංහල](https://github.com/hmislk/hmis/wiki/%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD)
+[සිංහල](https://github.com/hmislk/hmis/wiki/%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD)        [English](https://github.com/hmislk/hmis/wiki)
