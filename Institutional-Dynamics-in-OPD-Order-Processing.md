@@ -1,4 +1,3 @@
-## Institutional Dynamics in OPD Order Processing
 In CareCode HMIS, the processing of orders is intricately linked to the operational structure of the healthcare institution. Each order item is connected to specific institutional parameters, crucial for ensuring precision in service delivery and fostering inter-departmental collaboration. These parameters include 'fromInstitution/toInstitution' and 'toInstitution/toDepartment', which serve distinct functions in the billing process.
 
 ## Understanding 'fromInstitution' and 'toInstitution'
@@ -22,3 +21,6 @@ Despite the generation of individual bills, a single batch bill is also created 
 ## Institutional and Departmental Relationship
 Every department within CareCode HMIS is associated with an institution. An institution can encompass multiple departments, each specializing in different areas of healthcare service.
 Upon logging into the system, healthcare providers are required to select their department. This selection automatically determines the associated institution, streamlining the order entry process and ensuring that services are correctly attributed to the relevant department and institution.
+
+
+[Back](https://github.com/hmislk/hmis/wiki/OPD)
