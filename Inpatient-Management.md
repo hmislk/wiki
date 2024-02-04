@@ -1,24 +1,26 @@
-Admissions
-Different Types: Overview of the various admission categories, each with unique protocols.
+# Admissions
+**Different Types**: Overview of the various admission categories, each with unique protocols.
 Examples:
-Ward Admission: Standard admission process, including bed assignment and initial care planning.
-ETU (Emergency Treatment Unit): Protocols for urgent care admissions, focusing on rapid response and stabilization.
-Eye Surgery: Specialized admissions for ophthalmic procedures, detailing pre-operative and post-operative care.
-Capture Details: Comprehensive data collection at the point of admission to ensure holistic care.
-Patient Details: Personal information, contact details, and medical history.
-Clinical Details: Presenting symptoms, diagnosis, and treatment plans.
-Referral Details: Information from referring physicians or hospitals, if applicable.
-Care Team Details: Record of healthcare professionals involved in patient care.
-Charges
-By Admission Type: Differentiating charges based on the category of admission, ensuring billing aligns with the level of care provided.
-By Stay Duration: Charging based on the length of hospital stay, including room charges and other amenities.
+* Ward Admission: Standard admission process, including bed assignment and initial care planning.
+* ETU (Emergency Treatment Unit): Protocols for urgent care admissions, focusing on rapid response and stabilization.
+* Eye Surgery: Specialized admissions for ophthalmic procedures, detailing pre-operative and post-operative care.
+
+**Capture Details**: Comprehensive data collection at the point of admission to ensure holistic care.
+* Patient Details: Personal information, contact details, and medical history.
+* Clinical Details: Presenting symptoms, diagnosis, and treatment plans.
+* Referral Details: Information from referring physicians or hospitals, if applicable.
+* Care Team Details: Record of healthcare professionals involved in patient care.
+
+# Charges
+**By Admission Type**: Differentiating charges based on the category of admission, ensuring billing aligns with the level of care provided. Charged only once at the time of the admission.
+**By Stay Duration**: Charging based on the length of hospital stay, including room charges and other amenities.
 Examples:
-Room Charges: Costs associated with different types of accommodation (private, semi-private, general ward).
-MO (Medical Officer) Charges: Fees for medical consultations and treatment management.
-NO (Nursing Officer) Charges: Charges for nursing care and support services.
-Administrative Charges: Fees for administrative tasks, record-keeping, and processing.
-Etc: Other miscellaneous charges related to the patient's stay.
-Services, Investigations & Radiology Tests:
+* Room Charges: Costs associated with different types of accommodation (private, semi-private, general ward).
+* MO (Medical Officer) Charges: Fees for medical consultations and treatment management.
+* NO (Nursing Officer) Charges: Charges for nursing care and support services.
+* Administrative Charges: Fees for administrative tasks, record-keeping, and processing.
+* Etc: Other miscellaneous charges related to the patient's stay.
+## Services, Investigations & Radiology Tests:
 Examples:
 Nebulisation: Charges for respiratory treatments, including equipment and medication.
 Cleaning & Dressings: Fees for wound care and management.
