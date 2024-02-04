@@ -2,6 +2,8 @@
 
 [Pharmaceutical Logistics](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Logistics)
 
+[Inpatient Management](https://github.com/hmislk/hmis/wiki/Inpatient-Management)
+
 
 
 
