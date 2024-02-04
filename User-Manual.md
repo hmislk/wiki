@@ -15,3 +15,6 @@ User Manual
 * [Fleet Management](https://github.com/hmislk/hmis/wiki/Fleet-Management)
 * [Preferences](https://github.com/hmislk/hmis/wiki/Managing-Preferences)
 * [System Administration](https://github.com/hmislk/hmis/wiki/System-Administration)
+
+
+[Back](https://github.com/hmislk/hmis/wiki)
