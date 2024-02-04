@@ -3,8 +3,6 @@
 
 * [User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
 * [Knowledgebase](https://github.com/hmislk/hmis/wiki/Knowledgebase)
-* [Installation Manual](https://github.com/hmislk/hmis/wiki/Installation-Manual)
-* [Maintenance Manual](https://github.com/hmislk/hmis/wiki/Maintenance-Manual)
 * [Developer Manual](https://github.com/hmislk/hmis/wiki/Developer-Manual)
 * [About hims](https://github.com/hmislk/hmis/wiki/About-Open-HMIS)
 * [Road-map](https://github.com/hmislk/hmis/wiki/Road-map)
