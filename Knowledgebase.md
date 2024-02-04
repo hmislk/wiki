@@ -1,5 +1,9 @@
 Knowledgebase
 
+Medicines & Devices
+Pharmaceutical Logistics
+
+
 
 
 
