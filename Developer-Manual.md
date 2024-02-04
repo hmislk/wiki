@@ -1,4 +1,6 @@
 * [Technologies Used](https://github.com/hmislk/hmis/wiki/Technologies-Used)
+* [Installation Manual](https://github.com/hmislk/hmis/wiki/Installation-Manual)
+* [Maintenance Manual](https://github.com/hmislk/hmis/wiki/Maintenance-Manual)
 * [Code Conventions](https://github.com/hmislk/hmis/wiki/Code-Conventions)
 * [Starters Guide](https://github.com/hmislk/hmis/wiki/Starters-Guide)
 * [Developer Guidelines](https://github.com/hmislk/hmis/wiki/Developer-Guidelines)
@@ -13,3 +15,5 @@
 * [Knowledge Base](https://github.com/hmislk/hmis/wiki/Knowledge-Base)
 * [Cloud Management](https://github.com/hmislk/hmis/wiki/Cloud-Management)
 * [Controllers](https://github.com/hmislk/hmis/wiki/Controllers)
+
+[Back](https://github.com/hmislk/hmis/wiki)
