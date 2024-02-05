@@ -1,4 +1,4 @@
-# **Dictionary of Medicines & Devices (dm+d)** 
+[dm+d ](https://docs.google.com/presentation/d/1WtOj9K7cmm-WVpQPbLIwLkW1UKGOh2GuiIhtHuHjTdM/edit?usp=sharing)# **Dictionary of Medicines & Devices (dm+d)** 
 
 The Dictionary of Medicines and Devices (dm+d) serves as the standard for the National Health Service (NHS) in the identification and description of medicines and medical devices. Two fundamental concepts within dm+d are "Actual vs Virtual" and the group encompassing "Therapeutic Moiety, Medicinal Product, Medicinal Product Pack." The integration of these concepts results in the formation of six distinct concept classes:
 
