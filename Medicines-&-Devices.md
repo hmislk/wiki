@@ -1,4 +1,4 @@
-**Dictionary of Medicines & Devices (dm+d)** 
+# **Dictionary of Medicines & Devices (dm+d)** 
 
 The Dictionary of Medicines and Devices (dm+d) serves as the standard for the National Health Service (NHS) in the identification and description of medicines and medical devices. Two fundamental concepts within dm+d are "Actual vs Virtual" and the group encompassing "Therapeutic Moiety, Medicinal Product, Medicinal Product Pack." The integration of these concepts results in the formation of six distinct concept classes:
 
@@ -16,7 +16,7 @@ The Dictionary of Medicines and Devices (dm+d) serves as the standard for the Na
 
 This comprehensive framework ensures standardized identification and prescribing practices for medicines and medical devices within the healthcare system, allowing for clear communication and understanding among healthcare professionals and organizations.
 
-[dm+d ](https://docs.google.com/presentation/d/1WtOj9K7cmm-WVpQPbLIwLkW1UKGOh2GuiIhtHuHjTdM/edit?usp=sharing)# 
+[dm+d ](https://docs.google.com/presentation/d/1WtOj9K7cmm-WVpQPbLIwLkW1UKGOh2GuiIhtHuHjTdM/edit?usp=sharing)
 
 # Concept of Batches
 A batch refers to a product manufactured under specific criteria within controlled conditions and for a defined duration, quantity, volume, or time frame. It is a systematic approach to production, ensuring uniformity and adherence to predetermined standards. Within a batch, lots are created as subsets, allowing for more granular control and monitoring. This concept holds particular importance in Quality Failure Management, as batches enable systematic tracking and analysis of any deviations from quality standards. Additionally, the management of batches contributes significantly to reducing product expiry risks, as it allows for precise identification and handling of specific production sets. Moreover, it aids in minimizing mal-distribution issues, ensuring that products are distributed efficiently and according to predetermined criteria, thus maintaining product integrity and customer satisfaction. Overall, the careful consideration of batches is essential for maintaining high-quality standards, reducing the risk of expiration, and preventing distribution-related issues.
