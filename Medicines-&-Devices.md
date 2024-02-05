@@ -1,4 +1,4 @@
-[dm+d ](https://docs.google.com/presentation/d/1WtOj9K7cmm-WVpQPbLIwLkW1UKGOh2GuiIhtHuHjTdM/edit?usp=sharing)# **Dictionary of Medicines & Devices (dm+d)** 
+**Dictionary of Medicines & Devices (dm+d)** 
 
 The Dictionary of Medicines and Devices (dm+d) serves as the standard for the National Health Service (NHS) in the identification and description of medicines and medical devices. Two fundamental concepts within dm+d are "Actual vs Virtual" and the group encompassing "Therapeutic Moiety, Medicinal Product, Medicinal Product Pack." The integration of these concepts results in the formation of six distinct concept classes:
 
@@ -15,6 +15,8 @@ The Dictionary of Medicines and Devices (dm+d) serves as the standard for the Na
 6. **Actual Medicinal Product Pack (AMPP):** AMPP is the actual packaged product supplied, representing the tangible product dispensed. One AMP may have many associated AMPPs.
 
 This comprehensive framework ensures standardized identification and prescribing practices for medicines and medical devices within the healthcare system, allowing for clear communication and understanding among healthcare professionals and organizations.
+
+[dm+d ](https://docs.google.com/presentation/d/1WtOj9K7cmm-WVpQPbLIwLkW1UKGOh2GuiIhtHuHjTdM/edit?usp=sharing)# 
 
 Concept of Batches
 
