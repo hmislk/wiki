@@ -1,8 +1,9 @@
 ## Summaries & Reports
 
-* Shift End Summery
-* Day End Summery
+* Shift End Summary
+* Day End Summary
 * Period Summary
+* Bin Card
 * Outdoor Bill Value Reports
 * Outdoor Item-vice Reports
 * Indoor Bill Value Reports
