@@ -1,13 +1,4 @@
-Ordering For Suppliers
-Buffer Stock
-Lead Time
-Supply Cycles
-
-Ordering by ROLs
-ROL
-ROQ
-
-Direct Purchase
+[Ordering Process ](https://github.com/hmislk/hmis/wiki/Ordering-Process)
 
 Order Approval
 
