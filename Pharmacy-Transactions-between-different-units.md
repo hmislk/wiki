@@ -14,6 +14,8 @@
 * Print received items
 * Cancel received items
 * Reprint Cancel received Items
+* Discarding
+* Consuming
 
 
 [Back to Pharmacy](https://github.com/hmislk/hmis/wiki/Pharmacy)
