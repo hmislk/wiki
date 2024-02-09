@@ -8,6 +8,7 @@ User Manual
 * [Stores and Assets Management System](https://github.com/hmislk/hmis/wiki/Stores-and-Assets-Management)
 * [Electronic Health Record System](https://github.com/hmislk/hmis/wiki/EHR)
 * [Medical Appointment / Channelling Module](https://github.com/hmislk/hmis/wiki/Channelling)
+* [RIS PACS](https://github.com/hmislk/hmis/wiki/Channelling)
 * [Inward Patient Care / Theatre Management Module](https://github.com/hmislk/hmis/wiki/Inward)
 * [Human Resource Management](https://github.com/hmislk/hmis/wiki/Human-Resource)
 * [Kitchen Management](https://github.com/hmislk/hmis/wiki/Kitchen-Management)
