@@ -1,7 +1,7 @@
-## Good Receive
+## Receive Goods
 
-* Receive Goods from GRN (Good Receive Note)
-* When Receive for an Order, no need to enter Items or Quantities again
+* Receive Goods from GRN (Goods Received Note)
+* When Receiving an Order, no need to enter Items or Quantities again
 * Price Limit check for each item
 * Take GRN Printouts
 * Reprint GRN
