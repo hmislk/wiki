@@ -2,7 +2,7 @@
 
 [Order Approval Process ](https://github.com/hmislk/hmis/wiki/Order-Approval-Process)
 
-Good Receive
+[Receipt of Goods and Fulfillment of Orders](https://github.com/hmislk/hmis/wiki/Receipt-of-Goods-and-Fulfillment-of-Orders)
 
 [Inpatient Pharmaceutical Management ](https://github.com/hmislk/hmis/wiki/Inpatient-Pharmaceutical-Management)
 
