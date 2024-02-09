@@ -1,6 +1,6 @@
 [Ordering Process ](https://github.com/hmislk/hmis/wiki/Ordering-Process)
 
-Order Approval
+[Order Approval Process ](https://github.com/hmislk/hmis/wiki/Order-Approval-Process)
 
 Good Receive
 
