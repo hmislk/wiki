@@ -46,3 +46,5 @@ The Pharmacy Management functions are designed to support the efficient operatio
 10. **Administration and Security**
     - Manage medicine metadata, including supplier management and items supplied by each supplier.
     - Role-based access to ensure security and confidentiality of pharmacy operations.
+
+[Back](https://github.com/hmislk/hmis/wiki/Functions)
