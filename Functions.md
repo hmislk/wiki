@@ -6,5 +6,7 @@
 
 [LIMS](https://github.com/hmislk/hmis/wiki/Laboratory-Information-Management-System)
 
+[Inpatient Management](https://github.com/hmislk/hmis/wiki/Inpatient-Management-Features)
+
 [Back](https://github.com/hmislk/hmis/wiki)
 
