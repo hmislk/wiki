@@ -50,3 +50,5 @@ The OPD (Outpatient Department) Management Module is a comprehensive system desi
 - Managerial functions to change payment methods, and handle bill cancellations and approvals.
 
 This module is tailored to meet the dynamic needs of outpatient departments, providing a robust framework for patient care and administrative tasks within the CareCode HMIS environment. By integrating these functionalities, the OPD Management Module ensures a seamless, efficient, and patient-centered approach to outpatient services.
+
+[Back](https://github.com/hmislk/hmis/wiki/Functions)
