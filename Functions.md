@@ -4,4 +4,7 @@
 
 [OPD Management](https://github.com/hmislk/hmis/wiki/OPD-Management)
 
+[LIMS](https://github.com/hmislk/hmis/wiki/Laboratory-Information-Management-System)
+
 [Back](https://github.com/hmislk/hmis/wiki)
+
