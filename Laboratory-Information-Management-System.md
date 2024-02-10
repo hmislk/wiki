@@ -44,3 +44,5 @@ The Laboratory Information Management System (LIMS) within CareCode HMIS is a so
 #### Enhanced Laboratory Operations
 
 The LIMS module is pivotal in optimizing laboratory workflows, from test ordering to result dissemination. It ensures precision in test processing, enhances patient communication, and provides robust tools for laboratory performance analysis. By integrating LIMS into the CareCode HMIS, laboratories can achieve higher efficiency, accuracy, and patient satisfaction, reflecting the overarching goal of improving healthcare delivery.
+
+[Back](https://github.com/hmislk/hmis/wiki/Functions)
