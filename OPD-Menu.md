@@ -52,6 +52,4 @@ The "Manager" submenu provides functions related to administrative and manageria
 - **Change Payment Method**: This feature allows managers to modify the payment method for specific bills.
 - **Bill Awaiting for Cancel**: This feature lists the bills that are waiting for cancellation approval, providing managers with oversight on cancellations.
 
----
-
-This comprehensive OPD menu structure provides ease of use and efficiency to all users, making outpatient management a streamlined process. From billing and cashier duties to administrative tasks, the OPD menu covers a wide range of functionalities tailored to the needs of an efficient healthcare service.
+[Back](https://github.com/hmislk/hmis/wiki/OPD)
