@@ -2,4 +2,6 @@
 
 [Pharmacy Management](https://github.com/hmislk/hmis/wiki/Pharmacy-Management)
 
+[OPD Management](https://github.com/hmislk/hmis/wiki/OPD-Management)
+
 [Back](https://github.com/hmislk/hmis/wiki)
