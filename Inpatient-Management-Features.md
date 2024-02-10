@@ -37,3 +37,5 @@ The module supports various admission types to meet the diverse requirements of 
 - **Home Visits:** For patients who receive medical care and services at their homes through professional healthcare visits.
 
 The Inpatient Module is a cornerstone of our Health Information Management System, addressing the intricate needs of inpatient care management. By integrating clinical, administrative, and financial functionalities, it ensures a streamlined process from patient admission through discharge, significantly improving patient outcomes and operational efficiency.
+
+[Back](https://github.com/hmislk/hmis/wiki/Functions)
