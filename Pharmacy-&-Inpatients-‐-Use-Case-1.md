@@ -1,19 +1,26 @@
-# **Use Case - Drug Issue to Inpatient with Ward-Based Stock Management**
+# **Use Case 1 - Drug Issue to Inpatient with Ward-based Stock Management**
 **Description**:
+
 This use case describes the process of issuing drugs to an inpatient from the ward's stock, recording the stock reduction, and updating the patient's bill immediately. The process is managed by the ward staff, typically a nurse, through a computerized system.
 
-Actors:
-Primary Actor: Ward Staff (Nurse)
-Secondary Actors: Pharmacy Department, Billing Department
-Precondition:
+**Actors:**
+**Primary Actor: **Ward Staff (Nurse)
+**Secondary Actors:** Pharmacy Department, Billing Department
+**Precondition:**
+
 The nurse has a valid user account and is logged into the system.
+
 Computers are available in the ward for accessing the system.
+
 The ward has a designated stock of drugs.
+
 The drug stock is not assigned to any specific inpatient but is available for all inpatients in the ward.
-Trigger:
+
+**Trigger:**
+
 A doctor prescribes medication to an inpatient, triggering the need to issue drugs from the ward stock.
 
-Main Flow:
+**Main Flow:**
 Authentication: The ward staff (nurse) logs into the system using their user credentials.
 Drug Selection: The nurse selects the prescribed drug from the ward's stock list available in the system.
 Stock Verification: The system checks the availability of the drug in the ward's stock.
