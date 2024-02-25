@@ -4,8 +4,11 @@
 This use case describes the process of issuing drugs to an inpatient from the ward's stock, recording the stock reduction, and updating the patient's bill immediately. The process is managed by the ward staff, typically a nurse, through a computerized system.
 
 **Actors:**
-**Primary Actor: **Ward Staff (Nurse)
+
+**Primary Actor:**Ward Staff (Nurse)
+
 **Secondary Actors:** Pharmacy Department, Billing Department
+
 **Precondition:**
 
 The nurse has a valid user account and is logged into the system.
