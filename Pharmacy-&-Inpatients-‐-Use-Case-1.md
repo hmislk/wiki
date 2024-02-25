@@ -1,4 +1,4 @@
-Use Case 1: **Drug Issue to Inpatient with Ward-Based Stock Management**
+# **Use Case - Drug Issue to Inpatient with Ward-Based Stock Management**
 **Description**:
 This use case describes the process of issuing drugs to an inpatient from the ward's stock, recording the stock reduction, and updating the patient's bill immediately. The process is managed by the ward staff, typically a nurse, through a computerized system.
 
