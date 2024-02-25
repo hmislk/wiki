@@ -70,3 +70,5 @@ The ward staff is trained and competent in using the system.
 The system should have robust security measures to protect sensitive patient and drug stock information.
 
 Regular audits and stock checks should be conducted to ensure the accuracy of the system's data.
+
+[Back](https://github.com/hmislk/hmis/wiki/Inpatient-Pharmaceutical-Management)
