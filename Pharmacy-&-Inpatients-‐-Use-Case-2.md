@@ -40,6 +40,8 @@ The manual process of creating and sending drug requests is prone to errors and 
 Regular audits and stock checks should be conducted to ensure the accuracy of the system's data.
 Both use cases aim to ensure efficient and accurate drug issuance to inpatients, with the key difference being the presence or absence of digital resources at the ward level.
 
+[Back](https://github.com/hmislk/hmis/wiki/Inpatient-Pharmaceutical-Management)
+
 
 
 
