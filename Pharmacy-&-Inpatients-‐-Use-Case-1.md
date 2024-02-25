@@ -5,7 +5,7 @@ This use case describes the process of issuing drugs to an inpatient from the wa
 
 **Actors:**
 
-**Primary Actor:**Ward Staff (Nurse)
+**Primary Actor:** Ward Staff (Nurse)
 
 **Secondary Actors:** Pharmacy Department, Billing Department
 
