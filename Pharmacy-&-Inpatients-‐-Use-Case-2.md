@@ -4,7 +4,6 @@
 
 This use case describes the process of issuing drugs to an inpatient when there are no user accounts for ward staff or computers in the ward. The process involves manually creating a drug request for the patient and sending it to the pharmacy, where the request is processed, and drugs are issued.
 
-***
 
 ### Actors:
 
