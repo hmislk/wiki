@@ -21,21 +21,21 @@ Goods received note (GRN) acts as a medium that confirms both parties have kept 
 * Inventory Management and Keeping Stock Levels Current
 
 **Information the GRN Requires**
-Name of the supplier
-Product details, including name, size, type, specifications, etc.
-Product quantity
-Purchase order number
-Delivery date and delivery time
-Name and signature of supplier representative
-Name of your organization as the receiver
-Name and signature of the person at your company who will receive the order
+* Name of the supplier
+* Product details, including name, size, type, specifications, etc.
+* Product quantity
+* Purchase order number
+* Delivery date and delivery time
+* Name and signature of supplier representative
+* Name of your organization as the receiver
+* Name and signature of the person at your company who will receive the order
 
-Issues when processing GRNs 
-Timely Supplier Communication about inventory
-Slow turnaround time
-Recording errors causing invoicing delays 
-Managing administarativeworkeload 
-Disputes with Faulty good 
+**Issues when processing GRNs** 
+* Timely Supplier Communication about inventory
+* Slow turnaround time
+* Recording errors causing invoicing delays 
+* Managing administarativeworkeload 
+* Disputes with Faulty good 
 
 
 
