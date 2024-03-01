@@ -12,7 +12,7 @@ The ATC system has a hierarchical structure with five levels of classification:
 > 4. Fourth level: Chemical/therapeutic/pharmacological subgroup
 > 5. Fifth level: Chemical substance 
 
-## First level: Anatomical main group (one letter)
+## First level: Anatomical main group
 
 The first level of the ATC code consists of 14 anatomical main groups, which are represented by a single letter:
    - A: Alimentary tract and metabolism
