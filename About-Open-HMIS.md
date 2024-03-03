@@ -57,6 +57,7 @@ Mr.K.M.G.T.R. Waidyarathne - Project Management
 * [Mr Pavan Thiwanka Madhushan](https://github.com/Thiwanka570)
 * [Mr Pasindu Wathsara](https://github.com/PasinduW99)
 * [Mr Damith Deshan](https://github.com/DamithDeshan)
+* [Mr Lawan Chaamindu Jayalath Samarasekara](https://github.com/DARKDRAGON-LK)
 
 ### Quantity Control Feedback
 * [Dr A N E M Gunasekara](https://github.com/niluka)
