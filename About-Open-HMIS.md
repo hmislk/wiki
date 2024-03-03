@@ -64,6 +64,8 @@ Mr.K.M.G.T.R. Waidyarathne - Project Management
 * Ms Nadeeka Darshani Wijesooriya
 * [Mr Janith Liyanage](https://github.com/jkliyanage)
 * [Ms D W C Piumini](https://github.com/piumini)
+* [Ms Irani Madushika](https://github.com/Irani96)
+* [Ms Deshani Pubudu ](https://github.com/DeshaniPubudu)
 
 
 
