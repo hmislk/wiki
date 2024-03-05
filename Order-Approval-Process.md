@@ -15,10 +15,6 @@ Order approval in pharmaceutical logistics refers to the regulated process of au
 * Quantity and description of goods (or services) ordered
 * Payment information
 * Payment terms
-
-
-
-[Order Approval Process ](https://docs.google.com/presentation/d/183iWEMcfs_4q7W4Qiiai4KKhprCE9DXMyOuyGzStIEA/edit?usp=sharing)
 * Delivery terms
 * Applicable conditions for both the order and any negotiated contractual 
 
@@ -75,6 +71,11 @@ Once the order is approved, the logistics team takes over to ensure timely and s
 **11.Post-Delivery Follow-up:**
 
 After the products are delivered, there may be a follow-up to ensure customer satisfaction and address any post-delivery issues.
+
+
+
+[Order Approval Process ](https://docs.google.com/presentation/d/183iWEMcfs_4q7W4Qiiai4KKhprCE9DXMyOuyGzStIEA/edit?usp=sharing)
+
 
 
 
