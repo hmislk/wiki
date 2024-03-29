@@ -16,7 +16,9 @@ Select 'Billing for Cashier': This option takes you to the billing page specific
 # Creating an Order
 Patient Search: Use the patient's phone number to search and bring up their details.
 Add Services: Search for and add required services to the patient's order. Example services could include an ESR (Erythrocyte Sedimentation Rate) test and a FBC (Full Blood Count).
+
 Settling the Bill
+
 Settle Bill: Once the services are added, proceed to settle the bill.
 Token Generation: A token indicating the amount payable will be generated and printed for the patient.
 
