@@ -6,7 +6,7 @@
 
 [OPD Menu](https://github.com/hmislk/hmis/wiki/OPD-Menu)
 
-
+[Billing for Cashier](https://github.com/hmislk/hmis/wiki/Billing-for-Cashier)
 
 
 
