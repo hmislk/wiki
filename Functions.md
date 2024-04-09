@@ -8,5 +8,7 @@
 
 [Inpatient Management](https://github.com/hmislk/hmis/wiki/Inpatient-Management-Features)
 
+[Notification System](https://github.com/hmislk/hmis/wiki/Notification-System)
+
 [Back](https://github.com/hmislk/hmis/wiki)
 
