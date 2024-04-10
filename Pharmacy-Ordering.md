@@ -1,16 +1,20 @@
 ## Ordering
 
 ### Transaction Involved
-Pharmacists create POs
-POs can be saved to be late changed
-POs can be finalized. Once finalized, can not be changed, but ready for PO Approval.
+Pharmacists create POs.
+
+POs can be saved to be changed later.
+
+POs can be finalized. Once finalized, POs can not be changed, but are ready for PO Approval.
+
 POs can be cancelled. It can be cancelled only before the PO Approval.
 
-Accounting Department approves POs
+The Accounting Department approves POs.
+
 Approved POs can be cancelled. For Cancelled Approved POs, a new approval can be given. 
 
 ### Manual Ordering
-* Availability of Business Intelligence Reports helping making decisions.
+* Availability of Business Intelligence Reports helping make decisions.
 
 ### Automatic generation of orders
 * Generate Orders for All items or selected items or Selected distributor
