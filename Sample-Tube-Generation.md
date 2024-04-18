@@ -16,7 +16,24 @@ FBC - Whole Blood
 UFR - Urine
 UFR, Lipid Profile, TSH, Liver Profile, CRP - Serum
 
-Analyzer ?
+Analyzer?
+UFR - Manually
+FBC - 5 Part Analyzer - Haematological Analyzer
+Lipid Profile, Liver Profile, CRP - Biochemistry Analyzer
+TSH - Hormonal Analyzer
+
+Department?
+
+
+4 Samples needed to be collected
+FBC - 5 part part analyzer, Tube EDTA, Whole Blood
+UFR - Urine, Manually, Tube Plain Tube
+Lipid Profile, Liver Profile, CRP - Biochemistry Analyzer, Plain Tube, Serum
+TSH - Hormonal Analyzer, Plain Tube, Serum
+
+
+
+
 
 
 
