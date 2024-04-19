@@ -54,3 +54,5 @@ This JSON configuration leads to the generation of ZPL code for label printing, 
 
 # Conclusion
 The automated generation of sample sticker labels by the HMIS plays a critical role in maintaining accuracy and efficiency in the laboratory testing process. 
+
+[Back](https://github.com/hmislk/hmis/wiki/LIMS-Knowledgebase)
