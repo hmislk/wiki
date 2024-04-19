@@ -6,6 +6,9 @@
 
 [Inpatient Management](https://github.com/hmislk/hmis/wiki/Inpatient-Management)
 
+[LIMS Knowledgebase](https://github.com/hmislk/hmis/wiki/LIMS-Knowledgebase)
+
+
 
 
 
