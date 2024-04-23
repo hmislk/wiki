@@ -14,6 +14,7 @@
 * Can Bill at Pharmacy & Collect Payment at Cashier
 
 [A step-by-step guide to use Pharmacy Retail Transactions - Sale ](https://youtu.be/Vm54eF5D2uw?si=rStlhGNUHYPXCquz)
+
 [A step-by-step guide to use Pharmacy Retail Transactions - Sale for cashire](https://youtu.be/F5xa7X6y5lc?si=YeDwXDdljhUluPGG)
 
 [Back to Pharmacy](https://github.com/hmislk/hmis/wiki/Pharmacy)
