@@ -8,7 +8,7 @@ The main features are listed below.
 
 * [Ordering](https://github.com/hmislk/hmis/wiki/Pharmacy-Ordering)
 
-* [Receive Goods](https://github.com/hmislk/hmis/wiki/Pharmacy-Good-Receive)
+* [Receive Goods](https://github.com/hmislk/hmis/wiki/Receive-Goods)
 
 * [Transactions between different units](https://github.com/hmislk/hmis/wiki/Pharmacy-Transactions-between-different-units)
 
