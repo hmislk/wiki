@@ -14,7 +14,7 @@ The main features are listed below.
 
 * [OPD Sale](https://github.com/hmislk/hmis/wiki/Pharmacy-OPD-Sale)
 
-* [Indoor Issue](https://github.com/hmislk/hmis/wiki/Pharmacy-Indoor-Issue)
+* [Inward Issue](https://github.com/hmislk/hmis/wiki/Pharmacy-Indoor-Issue)
 
 * [Staff Sale](https://github.com/hmislk/hmis/wiki/Pharmacy-Staff-Sale)
 
