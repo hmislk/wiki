@@ -1,4 +1,4 @@
-## Indoor Issue
+## Inward Issue
 
 * Inward Issue Reprint
 * Inward Issue Cancellation
