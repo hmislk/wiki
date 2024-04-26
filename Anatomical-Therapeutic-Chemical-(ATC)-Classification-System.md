@@ -9,7 +9,7 @@ The ATC code consists of seven alphanumeric levels, each representing a differen
 
 **2. Therapeutic Subgroup (2nd level):** Further specifies the therapeutic class. Example: A02 for Drugs for Acid-related Disorders.
 
-**3. Pharmacological Subgroup (3rd level): Describes the drug's pharmacological action. Example: A02B for Drugs for Peptic Ulcer and Gastroesophageal Reflux Disease (GERD).**
+**3. Pharmacological Subgroup (3rd level):** Describes the drug's pharmacological action. Example: A02B for Drugs for Peptic Ulcer and Gastroesophageal Reflux Disease (GERD).
 
 **4. Chemical Subgroup (4th level):** Identifies the chemical structure of the drug. Example: A02BA for H2-receptor antagonists.
 
