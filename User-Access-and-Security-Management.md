@@ -25,4 +25,6 @@ Audit Trail and Logging
 Every action performed within the system will be logged to create a comprehensive audit trail. This includes login attempts, data access, modifications, and any other significant actions.
 The logging functionality will support auditing purposes, enabling the tracking of user activities for security, compliance, and operational integrity.
 
+# User Subscriptions 
+Users can subscribe to events/triggers for specific departments. e.g. receive SMS when a purchase order needs approval, medicines are requested for inpatients. Notification SUBSCRIPTION CAN BE EMAIL, SMS OR SYSTEM NOTIFICATION. 
 [Back](https://github.com/hmislk/hmis/wiki/Functions)
