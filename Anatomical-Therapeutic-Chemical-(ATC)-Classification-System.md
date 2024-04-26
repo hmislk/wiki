@@ -23,7 +23,7 @@ The ATC code consists of seven alphanumeric levels, each representing a differen
 
 **2. Research and Analysis:** Facilitates systematic data analysis and research on drug utilization, prescribing patterns, and pharmacoeconomic.
 
-**3. Clinical Decision Support: **Aids healthcare practitioners in selecting appropriate drugs for specific therapeutic categories.
+**3. Clinical Decision Support:** Aids healthcare practitioners in selecting appropriate drugs for specific therapeutic categories.
 
 ## Usage
 **1. Database Integration:** ATC codes are commonly used in pharmaceutical databases, enabling efficient organization and retrieval of drug information.
