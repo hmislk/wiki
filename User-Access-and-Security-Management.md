@@ -26,5 +26,6 @@ Every action performed within the system will be logged to create a comprehensiv
 The logging functionality will support auditing purposes, enabling the tracking of user activities for security, compliance, and operational integrity.
 
 # User Subscriptions 
-Users can subscribe to events/triggers for specific departments. e.g. receive SMS when a purchase order needs approval, medicines are requested for inpatients. Notification SUBSCRIPTION CAN BE EMAIL, SMS OR SYSTEM NOTIFICATION. 
+Users can subscribe to events/triggers for specific departments.(e.g. receive SMS when a purchase order needs approval, medicines are requested for inpatients.) Notification subscriptions can be email, SMS, or system notification.
+
 [Back](https://github.com/hmislk/hmis/wiki/Functions)
