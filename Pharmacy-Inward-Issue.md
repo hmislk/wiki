@@ -1,5 +1,5 @@
-## Inward Issue
-
+* Inward Issue of items
+* Inward Issue print 
 * Inward Issue Reprint
 * Inward Issue Cancellation
 * Inward Issue Cancellation Print
