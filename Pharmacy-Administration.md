@@ -7,6 +7,8 @@
 
 ### [Institutions](https://github.com/hmislk/hmis/wiki/Institutions)
 
+### [Check Entered Data](https://github.com/hmislk/hmis/wiki/Check-Entered-Data)
+
 
 
 
