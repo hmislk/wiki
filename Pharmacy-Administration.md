@@ -7,7 +7,7 @@
 
 ### [Institutions](https://github.com/hmislk/hmis/wiki/Institutions)
 
-### [Suppliers](https://github.com/hmislk/hmis/wiki/Suppliers)
+
 
 
 [Back to Pharmacy](https://github.com/hmislk/hmis/wiki/Pharmacy)
