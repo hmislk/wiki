@@ -16,6 +16,8 @@
 
 * Measurement Units
 
+[Back](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
+
 * Frequencies
 
 * Upload VTMs
