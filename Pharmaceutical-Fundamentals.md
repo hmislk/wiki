@@ -9,6 +9,8 @@
 
 ### [Discard Categories](https://github.com/hmislk/hmis/wiki/Discard-Categories)
 
+### [Adjustment Categories](https://github.com/hmislk/hmis/wiki/Adjustment-Category)
+
 
 ***
 
