@@ -11,3 +11,7 @@ e.g.
 4. Regulatory Adjustment
 
 5. Supply Chain Adjustment
+
+
+
+[Back](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Fundamentals)
