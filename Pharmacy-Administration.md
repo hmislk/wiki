@@ -11,6 +11,7 @@
 
 ### [Major Stock Adjustment](https://github.com/hmislk/hmis/wiki/Major-Stock-Adjusstment)
 
+### [Set up](https://github.com/hmislk/hmis/wiki/Set-up)
 
 
 
