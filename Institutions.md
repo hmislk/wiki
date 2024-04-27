@@ -2,7 +2,7 @@
 
 * Importers
 
-* Supplier
+* [Suppliers](https://github.com/hmislk/hmis/wiki/Suppliers)
 
 * Item Suppliers
 
