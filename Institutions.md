@@ -1,6 +1,6 @@
 * Manufacturers
 
-* Importers
+* [Importers](https://github.com/hmislk/hmis/wiki/Importers)
 
 * [Suppliers](https://github.com/hmislk/hmis/wiki/Suppliers)
 
