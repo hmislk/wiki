@@ -5,6 +5,8 @@
 
 ### [Medicines Management - Multiple](https://github.com/hmislk/hmis/wiki/Medicines-Management-%E2%80%90-Multiple)
 
+### [Institutions](https://github.com/hmislk/hmis/wiki/Institutions)
+
 ### [Suppliers](https://github.com/hmislk/hmis/wiki/Suppliers)
 
 
