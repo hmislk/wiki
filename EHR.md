@@ -1,10 +1,8 @@
-Records Clinical data like medicines, allergies, etc.
-
-Electronic Medical Record (EMR) System
-Introduction
+# Electronic Medical Record (EMR) System
+## Introduction
 The Electronic Medical Record (EMR) system in CareCode's Hospital Information System (HIS) is designed to provide a comprehensive, integrated platform for managing all aspects of patient health information. This system facilitates the efficient recording, retrieval, and analysis of patient data, enhancing the quality of care and streamlining healthcare processes.
 
-Key Features and Functionalities
+## Key Features and Functionalities
 Patient Demographic Data
 Accessible Patient Records: The system stores complete demographic details of patients, such as name, age, address, contact information, and insurance details, which are easily searchable within the system.
 Clinical Data Management
