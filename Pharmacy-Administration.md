@@ -9,6 +9,8 @@
 
 ### [Check Entered Data](https://github.com/hmislk/hmis/wiki/Check-Entered-Data)
 
+### [Major Stock Adjustment](https://github.com/hmislk/hmis/wiki/Major-Stock-Adjusstment)
+
 
 
 
