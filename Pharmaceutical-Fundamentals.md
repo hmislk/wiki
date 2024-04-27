@@ -7,6 +7,8 @@
 
 ### [Unit](https://github.com/hmislk/hmis/wiki/Units)
 
+### [Discard Categories](https://github.com/hmislk/hmis/wiki/Discard-Categories)
+
 
 ***
 
