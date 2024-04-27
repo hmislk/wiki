@@ -13,3 +13,6 @@ e.g.
 5. Contaminated Pharmaceuticals
 
 6. Returned Pharmaceuticals
+
+
+[Back](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Fundamentals)
