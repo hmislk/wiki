@@ -1,15 +1,15 @@
 In CareCode HMIS, the processing of orders is intricately linked to the operational structure of the healthcare institution. Each order item is connected to specific institutional parameters, crucial for ensuring precision in service delivery and fostering inter-departmental collaboration. These parameters include 'fromInstitution/toInstitution' and 'toInstitution/toDepartment', which serve distinct functions in the billing process.
 
-## Understanding 'fromInstitution' and 'toInstitution'
-### fromInstitution
+## Understanding 'from Institution' and 'to Institution'
+### from Institution
 This parameter represents the institution where the user (typically a healthcare provider) is logged in. It is automatically determined based on the user's login details and location within the healthcare network.
-### toInstitution
+### to Institution
 Denotes the institution where the ordered service is provided or is planned to be provided. This is especially important in multi-institutional healthcare setups where services may be spread across different locations.
 
-## The Role of 'fromDepartment' and 'toDepartment'
-### fromDepartment
+## The Role of 'from department' and 'to department'
+### from department
 Indicates the department from which the order originates. This is directly tied to the user's current department at the time of logging into the system.
-### toDepartment
+### to Department
 Refers to the department responsible for fulfilling the service or test included in the order. It is essential for directing the order to the appropriate service area within the institution.
 
 ## Generation of Individual and Batch Bills
