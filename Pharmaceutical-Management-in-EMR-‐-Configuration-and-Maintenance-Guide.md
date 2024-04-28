@@ -1,4 +1,4 @@
-Introduction
+# Introduction
 
 Overview of the EMR's Pharmaceutical Management Capabilities
 Importance of Initial and Periodic Configuration
