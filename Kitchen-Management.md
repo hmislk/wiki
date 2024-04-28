@@ -14,7 +14,7 @@ The Kitchen Management module within CareCode’s Hospital Information System (H
 
 •	**Automated Inventory Control:** Manages kitchen inventory with real-time updates to stock levels as ingredients are used, helping to minimize waste and ensure availability of necessary items.
 
-•	**Supplier Management: ** Facilitates the management of supplier relationships, including order placement, tracking deliveries, and managing supply chain issues to keep kitchen operations smooth and cost-effective.
+•	**Supplier Management:** Facilitates the management of supplier relationships, including order placement, tracking deliveries, and managing supply chain issues to keep kitchen operations smooth and cost-effective.
 
 ### Cost Control and Budgeting
 
