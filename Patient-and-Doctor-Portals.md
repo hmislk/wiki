@@ -19,3 +19,6 @@ Secure Access: Both portals are secured with robust encryption and authenticatio
 User-Friendly Interface: Designed with a focus on usability, the portals provide a straightforward, intuitive user experience for both patients and doctors, ensuring easy access to necessary features.
 Conclusion
 The Patient and Doctor Portals within CareCode’s HIS are pivotal in fostering an integrated healthcare environment where communication and information accessibility are prioritized. These portals not only empower patients by giving them control over their health information but also support doctors in delivering high-quality care through streamlined access to essential medical data. By bridging the information gap between patients and healthcare providers, the portals enhance overall healthcare efficiency and patient satisfaction.
+
+
+[Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
