@@ -4,10 +4,10 @@ The Electronic Medical Record (EMR) system in CareCode's Hospital Information Sy
 
 ## Key Features and Functionalities
 ### Patient Demographic Data
-**1. Accessible Patient Records: ** The system stores complete demographic details of patients, such as name, age, address, contact information, and insurance details, which are easily searchable within the system.
+**1. Accessible Patient Records:** The system stores complete demographic details of patients, such as name, age, address, contact information, and insurance details, which are easily searchable within the system.
 
 ### Clinical Data Management
-**1. Comprehensive Clinical Records: ** Maintains detailed records of the patient's past medical and surgical histories, ongoing medications, allergies, and other relevant clinical details.
+**1. Comprehensive Clinical Records:** Maintains detailed records of the patient's past medical and surgical histories, ongoing medications, allergies, and other relevant clinical details.
 
 **2. Structured Clinical Documentation:** Enables healthcare providers to systematically record visit data including presenting complaints, physical examination findings, and clinical assessments.
 
