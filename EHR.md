@@ -35,6 +35,5 @@ Certifications and Reports
 ## Conclusion
 CareCode's EMR system is a vital component of our Hospital Information System, designed to meet the complex needs of modern healthcare environments. By providing a centralized platform for all patient information, the EMR system enhances the efficiency of medical care delivery and improves patient outcomes at Co-Operative Hospital Galle. It ensures that healthcare providers have immediate access to comprehensive patient records, facilitating informed decision-making and personalized patient care.
 
-[Pharmaceutical Management in EMR - Configuration and Maintenance Guide](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Management-in-EMR-%E2%80%90-Configuration-and-Maintenance-Guide)
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
