@@ -16,6 +16,7 @@ User Manual
 * [Fleet Management](https://github.com/hmislk/hmis/wiki/Fleet-Management)
 * [Preferences](https://github.com/hmislk/hmis/wiki/Managing-Preferences)
 * [System Administration](https://github.com/hmislk/hmis/wiki/System-Administration)
+* [Patient & Doctor Portals](https://github.com/hmislk/hmis/wiki/Patient-and-Doctor-Portals)
 
 
 [Back](https://github.com/hmislk/hmis/wiki)
