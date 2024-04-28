@@ -19,3 +19,5 @@ Interoperability and Standards Compliance
 •	Secure Data Exchange: Implements secure communication protocols to protect the transfer of sensitive medical images and data.
 Conclusion
 The integration of RIS with dcm4che PACS, supported by versatile, open-source DICOM viewers, represents a comprehensive solution for managing radiological images and enhancing diagnostic processes at Co-Operative Hospital Galle. This setup not only improves the efficiency of radiological services but also enhances the quality of patient care by providing reliable, quick access to medical imaging. Our system's flexibility in setup and support for multiple viewing platforms ensures that healthcare providers have access to advanced tools that support detailed analysis and effective treatment planning.
+
+[Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
