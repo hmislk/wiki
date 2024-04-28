@@ -14,6 +14,7 @@ User Manual
 * [Kitchen Management](https://github.com/hmislk/hmis/wiki/Kitchen-Management)
 * [Linen Management](https://github.com/hmislk/hmis/wiki/Linen-Management)
 * [Fleet Management](https://github.com/hmislk/hmis/wiki/Fleet-Management)
+* [Accounting Module](https://github.com/hmislk/hmis/wiki/Accounting-Module)
 * [Preferences](https://github.com/hmislk/hmis/wiki/Managing-Preferences)
 * [System Administration](https://github.com/hmislk/hmis/wiki/System-Administration)
 * [Patient & Doctor Portals](https://github.com/hmislk/hmis/wiki/Patient-and-Doctor-Portals)
