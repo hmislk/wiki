@@ -13,6 +13,11 @@
 * Accept Returns (multiple times)
 * Can Bill at Pharmacy & Collect Payment at Cashier
 
+***
+
+
+**Videos**
+
 [A step-by-step guide to use Pharmacy Retail Transactions - Sale ](https://youtu.be/Vm54eF5D2uw?si=rStlhGNUHYPXCquz)
 
 [A step-by-step guide to use Pharmacy Retail Transactions - Sale for cashire](https://youtu.be/F5xa7X6y5lc?si=YeDwXDdljhUluPGG)
