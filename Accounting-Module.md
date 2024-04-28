@@ -23,3 +23,5 @@ Efficient Payment Processing: Streamlines the processing of incoming and outgoin
 Receivables Tracking: Monitors accounts receivable, ensuring timely collection of payments and maintaining healthy financial operations.
 Conclusion
 The Accounting Module is a crucial element of CareCode’s HIS, providing robust financial management capabilities that are essential for the efficient and effective operation of the hospital. By offering comprehensive tools for financial tracking, budgeting, and compliance, this module supports the hospital in maintaining financial health and sustainability, ultimately enhancing the quality of healthcare services provided.
+
+[Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
