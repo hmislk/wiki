@@ -22,4 +22,8 @@
 
 [A step-by-step guide to use Pharmacy Retail Transactions - Sale for cashire](https://youtu.be/F5xa7X6y5lc?si=YeDwXDdljhUluPGG)
 
+
+***
+
+
 [Back to Pharmacy](https://github.com/hmislk/hmis/wiki/Pharmacy)
