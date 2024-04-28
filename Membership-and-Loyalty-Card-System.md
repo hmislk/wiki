@@ -20,3 +20,5 @@ Member and Loyalty Analytics: Provides detailed reports on membership enrollment
 Customizable Reporting Tools: Allows hospital administrators to generate customized reports to analyze the effectiveness of different membership levels and loyalty programs, aiding in strategic adjustments and marketing efforts.
 Conclusion
 The Membership and Loyalty Card System is a strategic component of CareCode’s HIS, designed to foster patient loyalty and enhance the financial health of the hospital. By offering customizable membership and loyalty options, the hospital can effectively cater to diverse patient needs and preferences, encouraging ongoing engagement and satisfaction. This system not only benefits patients through personalized services and rewards but also supports the hospital in building a loyal patient base and enhancing service utilization.
+
+[Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
