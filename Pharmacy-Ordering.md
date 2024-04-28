@@ -13,6 +13,9 @@ The Accounting Department approves POs.
 
 Approved POs can be cancelled. For Cancelled Approved POs, a new approval can be given. 
 
+***
+/
+
 [Step-by-step guide to create a PO](https://youtu.be/WKff8IeH-W8?si=h6xLNGR4D3_AUa_l)
 
 [Step-by-step guide for Pharmacy Direct Purchase](https://youtu.be/4Xclh71ODbw?si=37KeLvwyZiP70snH)
