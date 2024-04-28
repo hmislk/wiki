@@ -3,9 +3,9 @@ The login will identify the person, the role he plays within the system and gran
 
 Have a full range of privileges so that every function can be selectively assigned to the role or the user.
 
-User can log to one or more of the selected departments
+Users can log in to one or more of the selected departments
 
-Depending on the logged departments , the set of the privileges will vary.
+Depending on the logged departments, the set of privileges will vary.
 
 Admin can set the roles, assign departments, assign privileges
 
