@@ -15,3 +15,6 @@ Patients can click on the link in the [SMS and view](https://github.com/hmislk/h
 
 An analysis of different aspects of the lab performance is available through the Menu > Lab > Summeries.
 
+
+[Back](https://github.com/hmislk/hmis/wiki/LIMS)
+
