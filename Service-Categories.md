@@ -15,4 +15,7 @@
   * Now an alert for confirmation will be visible.
   * After that press Ok to confirm delete.
 
+[Back](https://github.com/hmislk/hmis/wiki/Manage-Services)
+
+
 
