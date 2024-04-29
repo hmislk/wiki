@@ -2,3 +2,5 @@
 * Choose Doctor Specialities from the left sidebar.
 * Click the Add button first, then give Speciality Name and Income Name and Save button.
 * Repeat these steps to add more Doctor Specialities.
+
+[Back](https://github.com/hmislk/hmis/wiki/Manage-Staff)
