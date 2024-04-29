@@ -3,3 +3,5 @@
 * Then click on Add New User on the left sidebar. 
 
 * Then fill in the required details and click the Save User button to add the new user.
+
+[Back](https://github.com/hmislk/hmis/wiki/User-Management)
