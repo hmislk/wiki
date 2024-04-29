@@ -1,11 +1,15 @@
-Accounting Module
-Introduction
+# Introduction
+
 The Accounting Module within CareCode’s Hospital Information System (HIS) is designed to streamline financial operations and ensure comprehensive financial management across the entire hospital. This module integrates seamlessly with other hospital systems, providing accurate financial tracking, reporting, and compliance with accounting standards.
 
-Key Features and Functionalities
-Financial Transactions Management
-Comprehensive Transaction Handling: Manages all financial transactions, including patient billing, payments, procurement expenses, and payroll, ensuring all financial data is accurately captured and processed.
-Real-Time Data Entry: Immediate recording of transactions as they occur, providing up-to-date financial information and enhancing the accuracy of financial records.
+# Key Features and Functionalities
+
+## Financial Transactions Management
+
+* **Comprehensive Transaction Handling:** Manages all financial transactions, including patient billing, payments, procurement expenses, and payroll, ensuring all financial data is accurately captured and processed.
+
+* **Real-Time Data Entry:** Immediate recording of transactions as they occur, providing up-to-date financial information and enhancing the accuracy of financial records.
+
 Budgeting and Financial Planning
 Budget Management: Supports the creation and monitoring of budgets for different departments or projects, allowing hospital administrators to keep financial spending within approved limits.
 Forecasting Tools: Provides forecasting tools to help predict financial outcomes based on current trends and historical data, aiding in strategic financial planning.
