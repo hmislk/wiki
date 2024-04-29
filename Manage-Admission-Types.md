@@ -11,3 +11,4 @@
 * Select admission type you want in the list
 * Click delete button on the top 
 
+[Back](https://github.com/hmislk/hmis/wiki/Manage-Inpatient-Services)
