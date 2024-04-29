@@ -16,7 +16,7 @@ The Patient and Doctor Portals are integral components of CareCode’s Hospital 
 
 * **Investigation Results:** Provides access to investigation results as soon as they are available, facilitating timely health management.
 
-* ** Feedback System:** Patients can provide feedback on their experiences and the care they receive, contributing to the continuous improvement of hospital services.
+* **Feedback System:** Patients can provide feedback on their experiences and the care they receive, contributing to the continuous improvement of hospital services.
 
 * **Record Deletion:** Offers patients the option to request the deletion of their records in accordance with privacy laws and hospital policies.
 Doctor Portal
