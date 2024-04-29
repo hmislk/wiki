@@ -4,3 +4,6 @@ In this section, the administrator can manage all the services related to the sy
 > * [OPD Service](https://github.com/hmislk/hmis/wiki/OPD-Services)
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki/System-Administration)
+
