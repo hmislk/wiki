@@ -1,8 +1,8 @@
-#### Overview
+## Overview
 
 The Pharmacy Management functions are designed to support the efficient operation of a chain of wholesale or retail pharmacies within the hospital environment. This comprehensive module caters to various aspects of pharmacy operations, from inventory management to sales, ensuring optimal service delivery to patients and hospital staff.
 
-#### Key Features and Functionalities
+## Key Features and Functionalities
 
 1. **Multiple Store Management**
    - Manage operations of multiple pharmacy stores, each with distinct inventory, pricing, and sales processes.
