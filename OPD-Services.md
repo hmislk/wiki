@@ -9,3 +9,5 @@
 * In the same panel, select the required service to delete from the list.
 * Click the Delete button and Confirm it to delete.
 * Now that service will not be visible in the list.
+
+[Back](https://github.com/hmislk/hmis/wiki/Manage-Services)
