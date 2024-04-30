@@ -1,8 +1,13 @@
-Administration
-
-How to add an Investigation Category
-Adding Containers
-Adding Samples
+* Manage Metadata 
+* Manage Investigations 
+* Report Templates 
+* Manage Services 
+* Reports 
+* Bulk Transactions 
+* Setup
+* Manage Investigations
+* SMS Messaging
+* Lab setup 
 
 
 [Back to LIMS](https://github.com/hmislk/hmis/wiki/LIMS)
