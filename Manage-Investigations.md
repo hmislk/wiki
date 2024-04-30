@@ -8,4 +8,4 @@
 * Sample Components 
 
 
-[Back](https://github.com/hmislk/hmis/wiki/Manage-Metadata)
+[Back](https://github.com/hmislk/hmis/wiki/LIMS-Administration)
