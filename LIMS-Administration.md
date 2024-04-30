@@ -1,4 +1,4 @@
-* Manage Metadata 
+*  [Manage Metadata](https://github.com/hmislk/hmis/wiki/Manage-Metadata) 
 * Manage Investigations 
 * Report Templates 
 * Manage Services 
