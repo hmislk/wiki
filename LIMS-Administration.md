@@ -1,6 +1,6 @@
-*  [Manage Metadata](https://github.com/hmislk/hmis/wiki/Manage-Metadata) 
+* [Manage Metadata](https://github.com/hmislk/hmis/wiki/Manage-Metadata) 
 * [Manage Investigations](https://github.com/hmislk/hmis/wiki/Manage-Investigations) 
-* Report Templates 
+* [Report Templates](https://github.com/hmislk/hmis/wiki/Report-Templates) 
 * Manage Services 
 * Reports 
 * Bulk Transactions 
