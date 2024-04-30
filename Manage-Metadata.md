@@ -1,7 +1,7 @@
-Manage Categories 
-Manage Containers
-Manage Specimens
-Manage Antibiotics 
+* Manage Categories 
+* Manage Containers
+* Manage Specimens
+* Manage Antibiotics 
 
 
 
