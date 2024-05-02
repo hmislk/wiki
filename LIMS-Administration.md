@@ -4,7 +4,7 @@
 * [Manage Services](https://github.com/hmislk/hmis/wiki/Manage-Services-%E2%80%90-LIMS) 
 * [Reports](https://github.com/hmislk/hmis/wiki/Reports) 
 * Bulk Transactions 
-* Setup
+* [Setup](https://github.com/hmislk/hmis/wiki/Setup)
 * Manage Investigations
 * SMS Messaging
 * Lab setup 
