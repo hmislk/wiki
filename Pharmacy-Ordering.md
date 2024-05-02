@@ -30,10 +30,11 @@ Approved POs can be cancelled. For Cancelled Approved POs, a new approval can be
 ***
 **Videos**
 
-[Step-by-step guide to create a PO](https://youtu.be/WKff8IeH-W8?si=h6xLNGR4D3_AUa_l)
+* [Step-by-step guide to create a PO](https://youtu.be/WKff8IeH-W8?si=h6xLNGR4D3_AUa_l)
 
-[Step-by-step guide for Pharmacy Direct Purchase](https://youtu.be/4Xclh71ODbw?si=37KeLvwyZiP70snH)
+* [Step-by-step guide for Pharmacy Direct Purchase](https://youtu.be/4Xclh71ODbw?si=37KeLvwyZiP70snH)
 
+* [Step-by-step guide to approve a PO](https://youtu.be/6aOZvFJVKC8?si=XTiwQUApLQ9H4ZpW)
 ***
 
 
