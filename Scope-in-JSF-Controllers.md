@@ -51,4 +51,4 @@ Choose the appropriate scope based on data longevity and accessibility requireme
 Be mindful of resource usage, especially in clustered environments, to ensure scalability and performance.
 Understanding and effectively utilizing these scopes in JSF controllers can lead to more efficient and scalable web applications.
 
-
+[Back](https://github.com/hmislk/hmis/wiki/Design-Documentation)
