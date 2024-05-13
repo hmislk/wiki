@@ -42,7 +42,7 @@ To enable UFW and set up basic rules, you can use the following commands:
 UFW also supports application profiles. If an application profile exists (for software like Apache), you can enable it simply by:
 
 
-**sudo ufw allow 'Apache Full'**
+`sudo ufw allow 'Apache Full'`
 
 # Best Practices for Firewall Configuration
 Least Privilege: Only open the ports necessary for your application to function.
