@@ -1,5 +1,3 @@
-# Introduction to Firewall Management in Ubuntu Server on a Virtual Machine
-
 In a modern data centre, managing network security is critical to ensure the safety of data and applications. One of the most common operating systems used in these environments is Ubuntu Server, thanks to its stability and scalability. When it comes to securing a virtual machine (VM) running Ubuntu Server in a data center, a crucial component is the firewall management. This page explores key concepts such as firewall setups, managing ports, and configuring inbound and outbound connections, focusing on tools like iptables and Uncomplicated Firewall (UFW).
 
 # Understanding Firewalls and Ports
