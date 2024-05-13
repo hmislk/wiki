@@ -31,9 +31,13 @@ To enable UFW and set up basic rules, you can use the following commands:
 
 
 `sudo ufw enable               # Turns on the firewall`
+
 `sudo ufw allow 22/tcp         # Allows SSH connections`
+
 `sudo ufw allow 80/tcp         # Allows HTTP connections`
+
 `sudo ufw deny from 192.168.1.1 # Blocks all traffic from a specific IP address`
+
 
 UFW also supports application profiles. If an application profile exists (for software like Apache), you can enable it simply by:
 
