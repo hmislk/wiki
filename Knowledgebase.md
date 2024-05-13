@@ -1,3 +1,5 @@
+[Server Management](https://github.com/hmislk/hmis/wiki/Server-Management)
+
 [Medicines & Devices](https://github.com/hmislk/hmis/wiki/Medicines-&-Devices)
 
 [Anatomical Therapeutic Chemical (ACT) Classification ](https://github.com/hmislk/hmis/wiki/Anatomical-Theraputic-Chemical-(ACT)-Classification)
