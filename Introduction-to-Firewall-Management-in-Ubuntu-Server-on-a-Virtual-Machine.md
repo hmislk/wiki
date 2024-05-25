@@ -13,11 +13,11 @@ Outbound connections originate from the server itself, reaching out to other sys
 # iptables: The Classic Linux Firewall Tool
 iptables is a widely used command-line firewall utility that allows administrators to configure rulesets for both IPv4 and IPv6 traffic. iptables works by defining rules for how to handle packets in different control tables, each with a chain of rules:
 
-**Filter table:** This is the default table that defines rules for incoming, outgoing, and forwarding traffic.
+* **Filter table:** This is the default table that defines rules for incoming, outgoing, and forwarding traffic.
 
-**NAT table:** Manages network address translation, typically used for routing/masquerading private IP addresses on internal networks to a public address on the internet.
+* **NAT table:** Manages network address translation, typically used for routing/masquerading private IP addresses on internal networks to a public address on the internet.
 
-**Mangle table:** Allows packet alteration. For example, changing TTL values.
+* **Mangle table:** Allows packet alteration. For example, changing TTL values.
 
 Rules in iptables are highly customizable. Here’s a basic example to block all incoming traffic on a specific port:
 
@@ -50,13 +50,13 @@ sudo ufw allow 'Apache Full'
 
 # Best Practices for Firewall Configuration
 
-**Least Privilege:** Only open the ports necessary for your application to function.
+* **Least Privilege:** Only open the ports necessary for your application to function.
 
-**Regular Updates:** Keep the server and firewall tools updated to protect against vulnerabilities.
+* **Regular Updates:** Keep the server and firewall tools updated to protect against vulnerabilities.
 
-**Logging and Monitoring:** Enable logging for both iptables and UFW to monitor any suspicious activity.
+* **Logging and Monitoring:** Enable logging for both iptables and UFW to monitor any suspicious activity.
 
-**Backup Configurations:** Regularly back up your firewall configurations to recover quickly from hardware failures or misconfiguration.
+* **Backup Configurations:** Regularly back up your firewall configurations to recover quickly from hardware failures or misconfiguration.
 
 # Conclusion
 
