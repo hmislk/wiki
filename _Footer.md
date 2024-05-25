@@ -1,1 +1,1 @@
-[සිංහල](https://github.com/hmislk/hmis/wiki/%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD)        [English](https://github.com/hmislk/hmis/wiki)
+[සිංහල](https://github.com/hmislk/hmis/wiki/CareCode-HIMS-%E0%B6%9C%E0%B7%90%E0%B6%B1)        [English](https://github.com/hmislk/hmis/wiki)
