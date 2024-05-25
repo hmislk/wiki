@@ -9,26 +9,36 @@ For illustrative purposes, let's examine the case of Patient Buddhika, who requi
 
 ## Tests Ordered: 
 ESR, FBC, UFR, Lipid Profile, TSH, Liver Profile, CRP.
+
 The system uses the following pre-configured data for each test:
 
 ## Tube:
 ESR: Sodium Citrate Tube
+
 FBC: EDTA Tube
+
 UFR, Lipid Profile, TSH, Liver Profile, CRP: Plain Tube
 
 ## Specimen:
+
 FBC: Whole Blood
+
 UFR: Urine
-Lipid Profile, TSH, Liver Profile, 
-CRP: Serum
+
+Lipid Profile, TSH, Liver Profile, CRP: Serum
 
 ## Analyzer:
+
 UFR: Manual
+
 FBC: 5 Part Haematological Analyzer
+
 Lipid Profile, Liver Profile, CRP: Biochemistry Analyzer
+
 TSH: Hormonal Analyzer
 
 # Label Generation Procedure
+
 The HMIS will generate the necessary labels for the collected samples based on the pre-configured settings. The number of unique samples and hence labels needed for Patient Buddhika's tests is four, determined as follows:
 
 * FBC: EDTA Tube with Whole Blood using a 5-part Haematological Analyzer.
