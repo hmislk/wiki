@@ -1,4 +1,4 @@
-* හැදින්වීම
+* [හැදින්වීම](https://github.com/hmislk/hmis/wiki/%E0%B6%B1%E0%B7%9A%E0%B7%80%E0%B7%8F%E0%B7%83%E0%B7%92%E0%B6%9A-%E0%B6%BB%E0%B7%9D%E0%B6%9C%E0%B7%93%E0%B6%B1%E0%B7%8A-%E0%B6%B8%E0%B7%9C%E0%B6%A9%E0%B7%92%E0%B6%BA%E0%B7%94%E0%B6%BD%E0%B6%BA-%E0%B7%84%E0%B7%90%E0%B6%B3%E0%B7%92%E0%B6%B1%E0%B7%8A%E0%B7%80%E0%B7%93%E0%B6%B8)
 
 * මානකරනය
 
