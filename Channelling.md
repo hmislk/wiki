@@ -6,7 +6,8 @@ The important features are listed below.
 * Booking Cancellations and Refunds
 * Credit Booking and Settling later
 * Session charges can be charged for Cash, Card, on-call, Agent 
-* Different Discounts for Members, Discount Schemes and Staff Members
+* Different Discounts for Members
+* Discount Schemes and Staff Members
 * Different charges for Foreigners if required
 * Different Bill numbers generation strategies
 * Change Patient names on approval from a supervisor
