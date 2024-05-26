@@ -5,7 +5,7 @@ The important features are listed below.
 * Flexible Fee Creation - Hospital Fees, Doctor Fees, etc.
 * Booking Cancellations and Refunds
 * Credit Booking and Settling later
-* Session charges can be changed for Cash, Card, on-call, Agent 
+* Session charges can be charged for Cash, Card, on-call, Agent 
 * Different Discounts for Members, Discount Schemes and Staff Members
 * Different charges for Foreigners if required
 * Different Bill numbers generation strategies
