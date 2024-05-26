@@ -5,7 +5,7 @@ The Human Resource Management & Payroll System within CareCode’s Hospital Info
 ## Key Features and Functionalities
 ### Roster-Based Management
 
-Integrated Scheduling: Utilizes a roster-based system to manage staff scheduling effectively, allowing for the planning and allocation of shifts based on departmental needs and individual availability.
+* **Integrated Scheduling:** Utilizes a roster-based system to manage staff scheduling effectively, allowing for the planning and allocation of shifts based on departmental needs and individual availability.
 
 ### Biometric Integration
 
