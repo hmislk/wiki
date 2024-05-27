@@ -1,3 +1,4 @@
+# Introduction
 The Fleet Management module within CareCode’s Hospital Information System (HIS) is specifically designed to efficiently manage the hospital's fleet of vehicles, including ambulances and other essential service vehicles. This module supports critical logistical operations, ensuring optimal scheduling, availability, and administrative handling of the fleet to enhance service delivery and operational efficiency.
 
 ## Key Features and Functionalities
