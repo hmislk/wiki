@@ -1,4 +1,4 @@
-* හඳුන්වාදීම
+* [හඳුන්වාදීම](https://github.com/hmislk/hmis/wiki/OPD-%E0%B7%84%E0%B7%90%E0%B6%B3%E0%B7%92%E0%B6%B1%E0%B7%8A%E0%B7%80%E0%B7%93%E0%B6%B8)
 
 * OPD බිල්පත් මූලික කරුණු
 
