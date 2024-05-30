@@ -6,7 +6,7 @@
 
 * [OPD මෙනුව](https://github.com/hmislk/hmis/wiki/OPD-%E0%B6%B8%E0%B7%99%E0%B6%B1%E0%B7%94%E0%B7%80)
 
-* මුදල් අයකැමි සඳහා බිල්පත්
+* [මුදල් අයකැමි සඳහා බිල්පත්](https://github.com/hmislk/hmis/wiki/%E0%B6%B8%E0%B7%94%E0%B6%AF%E0%B6%BD%E0%B7%8A-%E0%B6%85%E0%B6%BA%E0%B6%9A%E0%B7%90%E0%B6%B8%E0%B7%92-%E0%B7%83%E0%B6%B3%E0%B7%84%E0%B7%8F-%E0%B6%B6%E0%B7%92%E0%B6%BD%E0%B7%8A%E0%B6%B4%E0%B6%AD%E0%B7%8A)
 
 * පරිශීලක අත්පොත වෙත
 
