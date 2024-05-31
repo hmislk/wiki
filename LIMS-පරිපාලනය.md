@@ -4,7 +4,7 @@
 * [සේවා කළමනාකරණය කරන්න](https://github.com/hmislk/hmis/wiki/%E0%B7%83%E0%B7%9A%E0%B7%80%E0%B7%8F-%E0%B6%9A%E0%B7%85%E0%B6%B8%E0%B6%B1%E0%B7%8F%E0%B6%9A%E0%B6%BB%E0%B6%AB%E0%B6%BA-%E0%B6%9A%E0%B6%BB%E0%B6%B1%E0%B7%8A%E0%B6%B1)
 * [වාර්තා](https://github.com/hmislk/hmis/wiki/%E0%B7%80%E0%B7%8F%E0%B6%BB%E0%B7%8A%E0%B6%AD%E0%B7%8F)
 * තොග ගනුදෙනු
-* සැලසුම
+* [සැලසුම](https://github.com/hmislk/hmis/wiki/%E0%B7%83%E0%B7%90%E0%B6%BD%E0%B7%83%E0%B7%94%E0%B6%B8)
 * විමර්ශන කළමනාකරණය කරන්න
 * SMS පණිවිඩ යැවීම
 * රසායනාගාර සැකසුම
