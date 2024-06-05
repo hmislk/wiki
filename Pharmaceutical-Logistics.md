@@ -6,5 +6,6 @@
 
 [Inpatient Pharmaceutical Management ](https://github.com/hmislk/hmis/wiki/Inpatient-Pharmaceutical-Management)
 
+[Expiring Items](https://github.com/hmislk/hmis/wiki/Managing-Expiring-Items-in-Pharmacy-Inventory)
 
 [Back](https://github.com/hmislk/hmis/wiki/Knowledgebase)
