@@ -86,11 +86,7 @@ The following steps outline how to automate the identification of items that sho
 5. **Plan for Return:**
    - For all items that are flagged, initiate procedures for returning them. This might involve notifying the supplier, segregating the items from the rest of the inventory, and preparing them for return or disposal, depending on the policies and agreements in place.
 
-### Key Points
 
-- This code utilizes Java's `Date` and `Calendar` classes to manage dates effectively.
-- Each item's `needsToBePlannedForReturn` method calculates whether it is within the expiry lead time and therefore needs to be considered for a return.
-- The system prints out which items need to be planned for return based on the current inventory state and predefined lead times.
 
 
 [Back](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Logistics)
