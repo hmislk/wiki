@@ -143,3 +143,6 @@ public class SomeService {
 ### Conclusion
 
 By following these steps, you have set up real-time push notifications in your JSF/PrimeFaces application using WebSocket. This approach provides a more efficient way to push messages from the server to the client compared to using `p:poll`.
+
+
+[Back](https://github.com/hmislk/hmis/wiki/Knowledge-Base)
