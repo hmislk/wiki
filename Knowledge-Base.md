@@ -5,4 +5,4 @@
 
 
 
-[Back](https://github.com/hmislk/hmis/wiki/Knowledge-Base)
+[Back](https://github.com/hmislk/hmis/wiki/Developer-Manual)
