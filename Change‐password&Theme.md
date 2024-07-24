@@ -4,8 +4,8 @@
 
 * **Process:** Enter the existing password, new password, and re-enter the new password in the appropriate input fields. Then click on the 'Change Password' button to update your password.
 
-## Changing the Thems:
-* **Access:** Administration > Change My Theme.
+## Changing the Theme:
+* **Access:** settings > Change My Theme.
 
 * **Process:** Select the required theme from the drop-down menu, then click on the 'Save' button to apply the theme changes.
 
