@@ -1,4 +1,4 @@
-# Managing Preferences
+# Managing Preferences > User Preferences
 ## Password Change:
 * **Access:** settings > Change My Password.
 
