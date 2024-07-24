@@ -20,6 +20,6 @@
 * **Access:** Directly under Menu > Preferences.
 * **Process:** Click on 'Change my preferences' to personalize settings.
 
-#### [Change Password & Thems](https://github.com/hmislk/hmis/wiki/Change%E2%80%90password&Thern)
+[Change Password & Theme](https://github.com/hmislk/hmis/wiki/Change%E2%80%90password&Theme)
 
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
