@@ -10,4 +10,4 @@
 * **Process:** Select the required theme from the drop-down menu, then click on the 'Save' button to apply the theme changes.
 
 
-[Back](https://github.com/hmislk/hmis/wiki/User-Manual)
+[Back](https://github.com/hmislk/hmis/wiki/Managing-Preferences)
