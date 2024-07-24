@@ -20,6 +20,6 @@
 * **Access:** Directly under Menu > Preferences.
 * **Process:** Click on 'Change my preferences' to personalize settings.
 
-* **[Change Password & Thems](https://github.com/hmislk/hmis/wiki/Patient-and-Doctor-Portals)**
+# **[Change Password & Thems](https://github.com/hmislk/hmis/wiki/Patient-and-Doctor-Portals)**
 
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
