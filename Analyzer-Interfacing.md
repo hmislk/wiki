@@ -9,7 +9,10 @@ Hormonal - TSH, Ferritin
 Electrolyte - Na, K, Cl, Ca
 Other - HbA1C
 
-COmmunication Method
+Communication Method
 Unidirectional
-Birecrection
+Bidrecrection
 
+
+
+[Back](https://github.com/hmislk/hmis/wiki/LIMS-Knowledgebase)
