@@ -1,5 +1,3 @@
-# Handling `Incorrect datetime value` Errors in MySQL
-
 ## Introduction
 
 When working with MySQL, especially in applications that manage date and time data, you may encounter the following error:
