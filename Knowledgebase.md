@@ -1,17 +1,15 @@
-Concepts
+# Concepts
 * [Item](https://github.com/hmislk/hmis/wiki/Item)
+* [Medicines & Devices](https://github.com/hmislk/hmis/wiki/Medicines-&-Devices)
+* [Anatomical Therapeutic Chemical (ACT) Classification ](https://github.com/hmislk/hmis/wiki/Anatomical-Theraputic-Chemical-(ACT)-Classification)
+* [Pharmaceutical Logistics](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Logistics)
+* [Inpatient Management](https://github.com/hmislk/hmis/wiki/Inpatient-Management)
+* [LIMS Knowledgebase](https://github.com/hmislk/hmis/wiki/LIMS-Knowledgebase)
 
-[Server Management](https://github.com/hmislk/hmis/wiki/Server-Management)
+# [Server Management](https://github.com/hmislk/hmis/wiki/Server-Management)
 
-[Medicines & Devices](https://github.com/hmislk/hmis/wiki/Medicines-&-Devices)
 
-[Anatomical Therapeutic Chemical (ACT) Classification ](https://github.com/hmislk/hmis/wiki/Anatomical-Theraputic-Chemical-(ACT)-Classification)
 
-[Pharmaceutical Logistics](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Logistics)
-
-[Inpatient Management](https://github.com/hmislk/hmis/wiki/Inpatient-Management)
-
-[LIMS Knowledgebase](https://github.com/hmislk/hmis/wiki/LIMS-Knowledgebase)
 
 
 
