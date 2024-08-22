@@ -1,6 +1,6 @@
 # Concepts
 * [Item](https://github.com/hmislk/hmis/wiki/Item)
-* [Object Relationships)[https://github.com/hmislk/hmis/wiki/Object-Relationships]
+* [Object Relationships](https://github.com/hmislk/hmis/wiki/Object-Relationships)
 * [Bill](https://github.com/hmislk/hmis/wiki/Bill)
 * [Patient](https://github.com/hmislk/hmis/wiki/Patient)
 * [Medicines & Devices](https://github.com/hmislk/hmis/wiki/Medicines-&-Devices)
