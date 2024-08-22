@@ -1,3 +1,6 @@
+Concepts
+* [Item](https://github.com/hmislk/hmis/wiki/Item)
+
 [Server Management](https://github.com/hmislk/hmis/wiki/Server-Management)
 
 [Medicines & Devices](https://github.com/hmislk/hmis/wiki/Medicines-&-Devices)
