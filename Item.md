@@ -10,3 +10,4 @@ Subclasses
 * Assests
 * Channel Appointments (Service Sessions)
  
+[Back](https://github.com/hmislk/hmis/wiki/Knowledgebase)
