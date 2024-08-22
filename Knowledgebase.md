@@ -2,6 +2,7 @@
 * [Item](https://github.com/hmislk/hmis/wiki/Item)
 * [Object Relationships](https://github.com/hmislk/hmis/wiki/Object-Relationships)
 * [Bill](https://github.com/hmislk/hmis/wiki/Bill)
+* [Bill Item](https://github.com/hmislk/hmis/wiki/Bill-Item)
 * [Patient](https://github.com/hmislk/hmis/wiki/Patient)
 * [Medicines & Devices](https://github.com/hmislk/hmis/wiki/Medicines-&-Devices)
 * [Anatomical Therapeutic Chemical (ACT) Classification ](https://github.com/hmislk/hmis/wiki/Anatomical-Theraputic-Chemical-(ACT)-Classification)
