@@ -41,6 +41,26 @@ Administration > Manage Prices > Fees for Sites
 Where do set Collecting Centre Specific Fees
 Administration > Manage Pricing > Collecting Centre-Specific Prices
 
+## Second Look for Fee Lists Specific Fees
+
+There are different fee lists
+Ex. Galle Area Fee List, Matara Area Fee List (where to add > Administration > Manage Pricing > Fee Lists)
+
+Where to set Fee List Specific Fees
+Administration > Manage Pricing > Item Fees for Lists
+
+A Fee List has to be attached to every collecting centre
+
+If no Fee List is attached to a particular collecting Centre, this option will ignored
+
+### Base Fees
+If no other fee is found, Base Fees Are taken
+
+
+
+
+
+
 
 
 
