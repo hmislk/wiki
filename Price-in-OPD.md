@@ -34,6 +34,16 @@ Administration > Manage Prices > Fees for Sites
 
 
 
+# Pricing in Collecting Centres
+
+## First Look for COllecting Center Specific Fees
+
+Where do set Collecting Centre Specific Fees
+Administration > Manage Pricing > Collecting Centre-Specific Prices
+
+
+
+
 
 
 
