@@ -9,6 +9,7 @@
 * [Pharmaceutical Logistics](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Logistics)
 * [Inpatient Management](https://github.com/hmislk/hmis/wiki/Inpatient-Management)
 * [LIMS Knowledgebase](https://github.com/hmislk/hmis/wiki/LIMS-Knowledgebase)
+* [Institutions, Departments, Sites](https://github.com/hmislk/hmis/wiki/Institutions,-Departments-and-Sites)
 
 # [Server Management](https://github.com/hmislk/hmis/wiki/Server-Management)
 
