@@ -4,13 +4,6 @@
 
 ### Introduction
 
-### Sub-Committees for Developing High-Level Capabilities of HIS
-
-- **Committee Members**
-  - **Lead**
-  - **Comments**
-  - **Linked Modules**
-
 ### Module Overviews
 
 #### Patient Management & Registration
