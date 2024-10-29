@@ -10,10 +10,10 @@ Attributes-
 
 Bill - Parent Class
 Sub Classes
-  PreBill - 
-  BilledBill - has a referance to cancelleBill as CancelBill
-  CancelleBill - when a BilledBill is cancelled, a new cancelledBill is created, has a referance called BilledBill
-  ReturnBill - 
+*   PreBill - 
+*   BilledBill - has a referance to cancelleBill as CancelBill
+*   CancelleBill - when a BilledBill is cancelled, a new cancelledBill is created, has a referance called BilledBill
+*   ReturnBill - 
 
 
 
