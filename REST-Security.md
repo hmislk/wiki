@@ -33,3 +33,5 @@ When designing and implementing RESTful services for CareCode HMIS, ensuring rob
 - **Token Expiry**: Implement and enforce token expiration to minimize the impact of a potential token compromise.
 - **Privileges Check**: Ensure that the server verifies the privileges associated with the token for each request, enforcing the principle of least privilege.
 
+
+[Back](https://github.com/hmislk/hmis/wiki/Technologies-Used)
