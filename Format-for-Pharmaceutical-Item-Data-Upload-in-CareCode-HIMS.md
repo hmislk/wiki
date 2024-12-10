@@ -115,3 +115,5 @@ Allergy Care | Tablet | Allegra 180mg Tablets | Fexofenadine Hydrochloride 180 m
 <p>The above format and guidelines provide a standardised approach to uploading pharmaceutical data into the CareCode HIMS. Following these ensures smooth integration of inventory and prescribing modules, ultimately enhancing hospital operations.</p></body></html><!--EndFragment-->
 </body>
 </html>
+
+[Back](https://github.com/hmislk/hmis/wiki/Set-up)
