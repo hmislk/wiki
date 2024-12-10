@@ -1,7 +1,7 @@
 
 * Check item differences with other databases 
 
-* Import from Excel
+* [Itemport Items From Excel](https://github.com/hmislk/hmis/wiki/Format-for-Pharmaceutical-Item-Data-Upload-in-CareCode-HIMS)
 
 * Import from Excel with stock 
 
