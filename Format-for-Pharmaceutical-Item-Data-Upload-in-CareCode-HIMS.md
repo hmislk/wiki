@@ -4,7 +4,7 @@
 <p>The CareCode HIMS requires a standardised format for uploading pharmaceutical item data. This format ensures consistency and accuracy in inventory and prescribing systems. Below is the description of the columns and their expected contents in the Excel file format.</p>
 <hr>
 <h3><strong>Columns and Definitions</strong></h3>
-<h4><strong>Category (Optional)</strong></h4>
+<h4><strong>Category</strong></h4>
 <ul>
 <li><strong>Definition</strong>: A classification column that allows hospitals to categorise items based on their internal management needs, such as discounts, department-specific usage, or procurement types.</li>
 <li><strong>Example Values</strong>:
