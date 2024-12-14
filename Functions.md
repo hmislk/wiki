@@ -10,5 +10,7 @@
 
 * [Notification System](https://github.com/hmislk/hmis/wiki/Notification-System)
 
+* [RIS](https://github.com/hmislk/hmis/wiki/CareCode-Radiology-Information-System)
+
 [Back](https://github.com/hmislk/hmis/wiki)
 
