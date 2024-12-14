@@ -140,3 +140,5 @@ CareCode RIS is loosely coupled with CareCode HMIS, enabling smooth communicatio
    - Provides robust emergency management tools to handle unexpected system outages or data integrity issues.
    - Quick restoration capabilities ensure that critical imaging services remain available during and after incidents.
 
+
+[Back](https://github.com/hmislk/hmis/wiki/Functions)
