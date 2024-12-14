@@ -96,14 +96,6 @@ CareCode RIS is loosely coupled with CareCode HMIS, enabling smooth communicatio
    - Enables remote access to RIS functionalities, allowing clinicians to view images and complete reports from any location.
    - Mobile applications support on-the-go access to system features, enhancing flexibility for healthcare professionals.
 
-### CareCode Radiology Information System (RIS)
-
-#### Quality Assurance and Compliance
-
-Certainly! Here's the revised section considering your input:
-
-### CareCode Radiology Information System (RIS)
-
 #### Regulatory Standards Adherence
 
 1. **Framework for Compliance**
