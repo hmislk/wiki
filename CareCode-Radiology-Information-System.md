@@ -100,9 +100,17 @@ CareCode RIS is loosely coupled with CareCode HMIS, enabling smooth communicatio
 
 #### Quality Assurance and Compliance
 
-1. **Regulatory Standards Adherence**
-   - Ensures compliance with international health regulations such as HIPAA, GDPR, and others.
-   - Regular updates accommodate changing compliance requirements and keep the system current with global standards.
+Certainly! Here's the revised section considering your input:
+
+### CareCode Radiology Information System (RIS)
+
+#### Regulatory Standards Adherence
+
+1. **Framework for Compliance**
+   - Implements FHIR R4 standards to facilitate interoperability and data exchange, ensuring that the system can integrate seamlessly with modern healthcare technologies and platforms.
+   - Designed to support compliance frameworks that align with international health regulations such as HIPAA, GDPR, and others.
+   - While the system is developed with these standards in mind, actual certification or compliance for a specific version can be achieved at the customer's request and expense.
+   - The system architecture is flexible, allowing for regular updates to accommodate changing compliance requirements and keep the system aligned with global standards.
 
 2. **Audit Trails and Security Monitoring**
    - Detailed logging of all user actions and data access provides comprehensive audit trails.
