@@ -1,7 +1,7 @@
-Absolute Positioning Report - called General
-HTML Based Report Format - HTML
-Template-Based Report Format - Pathology
-Microbiology Report Format
+* Absolute Positioning Report - called General
+* HTML Based Report Format - HTML
+* Template-Based Report Format - Pathology
+* Microbiology Report Format
 
 
 
