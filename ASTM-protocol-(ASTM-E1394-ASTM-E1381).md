@@ -15,7 +15,7 @@ What happened to them?
 ASTM transferred the responsibility for maintaining these standards to the [Clinical and Laboratory Standards Institute (CLSI)](https://clsi.org/)
 ASTM E1381-02 and ASTM E1394-97 were withdrawn in 2002
 
-[Read more...](https://www.dataloggersuite.com/tutorials/astm.htm#:~:text=The%20ASTM%20(E1381%20or%20E1394,supports%20multiple%20data%20interchange%20protocols.)
+[Read more](https://www.dataloggersuite.com/tutorials/astm.htm#:~:text=The%20ASTM%20(E1381%20or%20E1394,supports%20multiple%20data%20interchange%20protocols.)
 
 
 [Back](https://github.com/hmislk/hmis/wiki/Knowledgebase)
