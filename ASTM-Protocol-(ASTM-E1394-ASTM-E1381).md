@@ -47,6 +47,7 @@ The communication process outlined in ASTM E1381 includes:
 Both ASTM E1394 and ASTM E1381 play critical roles in ensuring effective communication between clinical laboratory instruments and computer systems. While E1394 focuses on message content and structure, E1381 provides the necessary low-level protocols for data transmission. Together, these standards facilitate accurate data exchange, which is vital for patient care in clinical settings.
 
 Citations:
+
 [1] https://img.antpedia.com/standard/files/pdfs_ora/20230612/astm/E/E%201394%20-%2097.pdf
 
 [2] https://www.astm.org/e1381-95.html
