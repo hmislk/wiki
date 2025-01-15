@@ -11,7 +11,7 @@
 * [Inpatient Management](https://github.com/hmislk/hmis/wiki/Inpatient-Management)
 * [LIMS Knowledgebase](https://github.com/hmislk/hmis/wiki/LIMS-Knowledgebase)
 * [Institutions, Departments, Sites](https://github.com/hmislk/hmis/wiki/Institutions,-Departments-and-Sites)
-* [ASTM protocol](https://github.com/hmislk/hmis/wiki/ASTM-protocol-(ASTM-E1394-ASTM-E1381))
+* [ASTM protocol](https://github.com/hmislk/hmis/wiki/ASTM-Protocol-(ASTM-E1394-ASTM-E1381))
 
 # [Server Management](https://github.com/hmislk/hmis/wiki/Server-Management)
 
