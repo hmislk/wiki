@@ -48,9 +48,21 @@ Both ASTM E1394 and ASTM E1381 play critical roles in ensuring effective communi
 
 Citations:
 [1] https://img.antpedia.com/standard/files/pdfs_ora/20230612/astm/E/E%201394%20-%2097.pdf
+
 [2] https://www.astm.org/e1381-95.html
+
 [3] https://www.medteh.info/_fr/140/XS_ASTM_Rev2.5.pdf
+
 [4] https://cdn.standards.iteh.ai/samples/8091/36c8b26a235545f9945225dd34690a4c/ASTM-E1381-95.pdf
+
 [5] https://clsi.org/media/2424/lis02a2e_sample.pdf
+
 [6] https://standards.globalspec.com/std/160641/astm-e1394
+
 [7] https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1017&context=teapotcon
+
+
+
+
+
+[Back](https://github.com/hmislk/hmis/wiki/Knowledgebase)
