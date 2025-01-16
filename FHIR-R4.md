@@ -22,3 +22,5 @@ Since its release, FHIR R4 has gained widespread adoption among healthcare techn
 HL7 is actively working on subsequent versions of FHIR, including R5 and R4B. These updates aim to address known issues while maintaining compatibility with existing implementations. The ongoing development reflects HL7's commitment to evolving the FHIR standard in response to the needs of the healthcare community.
 
 In summary, FHIR R4 stands as a foundational element in modernizing healthcare interoperability, providing a robust framework for data exchange that enhances the ability of healthcare providers to deliver effective care.
+
+[Back](https://github.com/hmislk/hmis/wiki/Knowledgebase)
