@@ -7,7 +7,7 @@ Menu > Reports > Cashier Reports > All Cashier Summary
 3. Click Process.
 4. View Results:
 
-A list of cashiers will be displayed along with additional information such as Cash,Card,Voucher and Grand Total (during their shift).
+A list of cashiers will be displayed along with additional information such as Cash, Card, Voucher, and Grand Total (during their shift).
 
 Navigation Options for Each Cashier:
 1. Cashier Summary
@@ -15,6 +15,16 @@ Navigation Options for Each Cashier:
 3. Bill Types
 4. Bill List
 5. Payment List
+
+### Cashier Summary 
+The cashier summary will display all the data related to payments, collections, cancellations, and refunds in each department in the selected institution.
+
+### Cashier Details 
+The Cashier Details will display all data related to the bills processed by the selected cashier, which includes Date & Time, Bill No., Bill Type, Patient, Net Total, Cash Amount and Credit Amount.
+
+### Bill Types 
+### Bill List 
+### Payment List 
 
 
 
