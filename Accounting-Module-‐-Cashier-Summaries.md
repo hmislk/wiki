@@ -7,4 +7,4 @@ Menu Items
 
 All Cashier Summary
 
-[Back]()
+[Back](https://github.com/hmislk/hmis/wiki/Accounting-Module)
