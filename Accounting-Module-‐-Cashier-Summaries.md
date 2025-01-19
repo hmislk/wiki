@@ -23,7 +23,12 @@ The cashier summary will display all the data related to payments, collections, 
 The Cashier Details will display all data related to the bills processed by the selected cashier, which includes Date & Time, Bill No., Bill Type, Patient, Net Total, Cash Amount and Credit Amount.
 
 ### Bill Types 
+By selecting Bill types we can view information about bills including bill type, atomic bill type, gross value of the bill, discounts and net value.
+
+
 ### Bill List 
+
+
 ### Payment List 
 
 
