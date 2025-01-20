@@ -34,10 +34,20 @@ In summary, LOINC plays an essential role in modern healthcare by providing a st
 
 Citations:
 [1] https://www.nrces.in/standards/loinc
+
 [2] https://loinc.org/about/
+
 [3] https://en.wikipedia.org/wiki/LOINC
+
 [4] https://developer.digitalhealth.gov.au/standards/organisation/logical-observation-identifiers-names-and-codes-loinc
+
 [5] https://www.qcnet.com/resources/qc-articles/5-things-you-need-to-know-about-loinc
+
 [6] https://www.mayocliniclabs.com/test-catalog/appendix/LOINC-Codes
+
 [7] https://loinc.org/get-started/what-loinc-is/
+
 [8] https://www.youtube.com/watch?v=Ydcb2Df8gHY
+
+
+[Back](https://github.com/hmislk/hmis/wiki/Knowledgebase)
