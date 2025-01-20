@@ -33,6 +33,7 @@ Today, LOINC is widely recognized as a critical component in various healthcare 
 In summary, LOINC plays an essential role in modern healthcare by providing a standardized framework for identifying health measurements and observations, thereby enhancing interoperability and improving patient care outcomes globally.
 
 Citations:
+
 [1] https://www.nrces.in/standards/loinc
 
 [2] https://loinc.org/about/
