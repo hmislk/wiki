@@ -30,6 +30,7 @@ The International Classification of Diseases, Tenth Revision (ICD-10) is a compr
 Overall, ICD-10 is a critical tool in healthcare for standardizing disease classification and improving data collection, analysis, and communication worldwide.
 
 Citations:
+
 [1] https://www.cdc.gov/nchs/icd/icd-10/index.html
 
 [2] https://www.aapc.com/resources/what-is-icd-10
