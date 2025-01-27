@@ -31,10 +31,25 @@ Overall, ICD-10 is a critical tool in healthcare for standardizing disease class
 
 Citations:
 [1] https://www.cdc.gov/nchs/icd/icd-10/index.html
+
 [2] https://www.aapc.com/resources/what-is-icd-10
+
 [3] https://www.techtarget.com/searchhealthit/definition/ICD-10
+
 [4] https://www.hopkinsmedicine.org/johns-hopkins-health-plans/providers-physicians/icd-10
+
 [5] https://www.cdc.gov/nchs/icd/icd-10-cm/index.html
+
 [6] https://en.wikipedia.org/wiki/ICD-10
+
 [7] https://www.who.int/standards/classifications/classification-of-diseases
+
 [8] https://www.cms.gov/outreach-and-education/outreach/npc/downloads/slides-from-the-011414-icd10-basics-video.pdf
+
+
+
+
+
+
+
+[Back](https://github.com/hmislk/hmis/wiki/Knowledgebase)
