@@ -16,6 +16,7 @@
 * [FHIR R4](https://github.com/hmislk/hmis/wiki/FHIR-R4)
 * [LOINC](https://github.com/hmislk/hmis/wiki/LOINC)
 * [International Classification of Diseases, Tenth Revision (ICD‐10)](https://github.com/hmislk/hmis/wiki/International-Classification-of-Diseases,-Tenth-Revision-(ICD%E2%80%9010))
+* [SNOMED Global Patient Set (GPS)](https://github.com/hmislk/hmis/wiki/SNOMED-Global-Patient-Set-(GPS))
 
 # [Server Management](https://github.com/hmislk/hmis/wiki/Server-Management)
 
