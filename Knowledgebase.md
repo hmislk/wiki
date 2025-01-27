@@ -15,6 +15,7 @@
 * [Health Level Seven(HL7)](https://github.com/hmislk/hmis/wiki/Health-Level-Seven(HL7))
 * [FHIR R4](https://github.com/hmislk/hmis/wiki/FHIR-R4)
 * [LOINC](https://github.com/hmislk/hmis/wiki/LOINC)
+* [International Classification of Diseases, Tenth Revision (ICD‐10)](https://github.com/hmislk/hmis/wiki/International-Classification-of-Diseases,-Tenth-Revision-(ICD%E2%80%9010))
 
 # [Server Management](https://github.com/hmislk/hmis/wiki/Server-Management)
 
