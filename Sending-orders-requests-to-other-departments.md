@@ -4,7 +4,8 @@
 
 ![screencapture-qa-carecode-org-coop-test-faces-pharmacy-pharmacy-transfer-request-xhtml-2025-01-29-07_59_09](https://github.com/user-attachments/assets/99f614b9-7199-47ac-af17-27831650c376)
 
-**2. Add items to the bill**
+**2. Add items to the bill** 
+
 First type in the name of the item and select the item. Then, enter the number of items and press the "Add Item" button. You can add as many items as desired.
 
 All the added items will be displayed under "Bill Items".
