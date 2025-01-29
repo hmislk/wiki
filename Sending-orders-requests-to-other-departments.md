@@ -1,6 +1,4 @@
-Path:
-
-Pharmacy > Disbursement > Request 
+**Path:** Pharmacy > Disbursement > Request 
 
 1. Select a department to request items from (ex:Main Pharmacy,OPD pharmacy)
 
