@@ -1,7 +1,7 @@
 ## Transactions between different units
 
 * [Sent orders requests to other department](https://github.com/hmislk/hmis/wiki/Sending-orders-requests-to-other-departments)
-* Cancel orders requests
+* [Cancel orders requests](https://github.com/hmislk/hmis/wiki/Cancel-orders-requests)
 * Print order requests
 * Issue order requests
 * Issue without order requests
