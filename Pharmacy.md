@@ -10,6 +10,8 @@ The main features are listed below.
 
 * [Receive Goods](https://github.com/hmislk/hmis/wiki/Receive-Goods)
 
+* [Supplier Payment Management](https://github.com/hmislk/hmis/wiki/Supplier-Payment-Management)
+
 * [Transactions between different units](https://github.com/hmislk/hmis/wiki/Pharmacy-Transactions-between-different-units)
 
 * [OPD Sale](https://github.com/hmislk/hmis/wiki/Pharmacy-OPD-Sale)
