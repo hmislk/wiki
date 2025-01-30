@@ -27,13 +27,17 @@ Usually within an agreed credit Period
 
 When we pay credit > we can pay more than one purchase bill, GRN
 Or we can pay part
-or we can pay full for few with part from other
+or we can pay in full for a few with part from other
 
 For one GRN / DP > we can have single payment or multiple payments
 One payment can cover multiple GRN/DP or single
 
-Payment settling can use following payment methods - Cash / Cheque / SLip (Bank Transfer) / Credit Card 
+Payment settling can use the following payment methods - Cash / Cheque / SLip (Bank Transfer) / Credit Card 
+CAN NOT USE Credit
 
+can configure to approve payment and complete payment (some institutions do that, some don't)
+
+Cheques are collected - During GRN/DP
 
 
 
