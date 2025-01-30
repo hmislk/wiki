@@ -8,6 +8,8 @@
 
 [Billing for Cashier](https://github.com/hmislk/hmis/wiki/Billing-for-Cashier)
 
+[Step by step guide to OPD billing](https://github.com/hmislk/hmis/wiki/Step-by-step-guide-to-OPD-billing)
+
 
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
