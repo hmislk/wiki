@@ -37,7 +37,10 @@ CAN NOT USE Credit
 
 can configure to approve payment and complete payment (some institutions do that, some don't)
 
-Cheques are collected - During GRN/DP
+Cheques are collected - During GRN/DP + Payment Settling
+They may be dated cheques - therefore Have to mark cheques as realized
+
+Above are handled by supplier payment management
 
 
 
