@@ -13,6 +13,11 @@ you can search inpatient direct issue bills using date range, Bill no., BHT no.,
 
 ### 2. Using search inpatient direct issue by item 
 
+**Path:**
+
+Pharmacy > Inpatient Medication Management > search inpatient direct issue by item 
+
+
 you can search inpatient direct issue bills using date range, Bill no., BHT no., Patient name, item name, item value, and/or item code. Then select the bill that needs to be reprinted. Press "Reprint" to get a reprint of the bill.
 
 
