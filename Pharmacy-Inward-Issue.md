@@ -1,4 +1,4 @@
-* Inward Issue of items
+* [Inward Issue of items](https://github.com/hmislk/hmis/wiki/Direct-Issue-to-BHTs-from-Pharmacy)
 * Inward Issue print 
 * Inward Issue Reprint
 * Inward Issue Cancellation
