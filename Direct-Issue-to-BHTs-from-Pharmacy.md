@@ -1,4 +1,4 @@
-**Path: **
+**Path:**
 
 Pharmacy > Inpatient Medication Management > Direct Issue to BHTs
 
