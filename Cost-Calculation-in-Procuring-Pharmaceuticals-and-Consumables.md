@@ -40,6 +40,6 @@ Purchase Value when calculated by Qtock * PR - 1100 * 10 = 11,000 > Wrong
 Ideal Purchase Value - Stock * Cost Rate
 
 
-
+[Back](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Logistics)
 
                      
