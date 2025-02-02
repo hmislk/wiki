@@ -14,7 +14,7 @@
 * Print received items
 * Cancel received items
 * Reprint Cancel received Items
-* Discarding
+* [Discarding](https://github.com/hmislk/hmis/wiki/Disposal)
 * Consuming
 
 
