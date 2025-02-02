@@ -55,9 +55,23 @@ If stock quantity is **1100**, the purchase value calculated by stock * PR:
 **Ideal Purchase Value Calculation:**
 `Stock × Cost Rate`
 
-For more details, refer to the [[Pharmaceutical Logistics Wiki](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Logistics)](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Logistics).
 
 [Back](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Logistics)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
