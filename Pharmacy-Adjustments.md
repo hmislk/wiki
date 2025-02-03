@@ -1,7 +1,7 @@
 ## Adjustments
 
 * [Stock Adjustment](https://github.com/hmislk/hmis/wiki/Stock-Adjustment)
-* Print stock adjustment
+* [Print stock adjustment](https://github.com/hmislk/hmis/wiki/Print-stock-adjustment)
 * Reprint stock adjustment
 * Price Adjustment
 * Print price adjustment
