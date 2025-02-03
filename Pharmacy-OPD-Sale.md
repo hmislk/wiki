@@ -1,5 +1,5 @@
 ## OPD Sale
-* OPD Issue
+* [OPD Issue](https://github.com/hmislk/hmis/wiki/OPD-Issue)
 * OPD Issue Reprint
 * OPD Issue Cancellation
 * OPD Issue Cancellation Print
