@@ -6,8 +6,11 @@ Pharmacy > Adjustments > Department Stock(QTY)
 
 
 **1. Search and select items**
+
 **2. Enter new quantity**
+
 **3. Enter comment**
+
 **4. Press "Make adjustment" button**
 
 **5. Print Stock adjustment note**
