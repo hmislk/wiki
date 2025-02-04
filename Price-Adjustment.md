@@ -1,4 +1,4 @@
-* Purchase Rate Adjustment
+* [Purchase Rate Adjustment](https://github.com/hmislk/hmis/wiki/_new)
 * Sale Rate Adjustments 
 * Wholesale Rate Adjustments 
 
