@@ -14,8 +14,6 @@ The main features are listed below.
 
 * [Transactions between different units](https://github.com/hmislk/hmis/wiki/Pharmacy-Transactions-between-different-units)
 
-* [OPD Sale](https://github.com/hmislk/hmis/wiki/Pharmacy-OPD-Sale)
-
 * [Inward Issue](https://github.com/hmislk/hmis/wiki/Pharmacy-Inward-Issue)
 
 * [Staff Sale](https://github.com/hmislk/hmis/wiki/Pharmacy-Staff-Sale)
