@@ -77,3 +77,7 @@ You can search bills using a date range.
 ![screencapture-qa-carecode-org-coop-test-faces-opd-search-bill-full-paid-bills-xhtml-2025-02-05-23_53_50](https://github.com/user-attachments/assets/f3dfb0fa-a13f-42d5-95bc-120dd5743545)
 
 You can search bills using a date range. 
+
+
+
+[Back](https://github.com/hmislk/hmis/wiki/OPD)
