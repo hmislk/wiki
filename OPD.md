@@ -10,6 +10,10 @@
 
 [Step by step guide to OPD billing](https://github.com/hmislk/hmis/wiki/Step-by-step-guide-to-OPD-billing)
 
+[Patient Lookup & Registration](https://github.com/hmislk/hmis/wiki/Patient-Lookup-&-Registration)
+
+[OPD search](https://github.com/hmislk/hmis/wiki/OPD-search)
+
 
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
