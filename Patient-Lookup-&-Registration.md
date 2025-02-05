@@ -36,7 +36,7 @@ For registered patients, there are different actions such as,
 
 To clear the search results, use the "Clear" button.
 
-
+[Back](https://github.com/hmislk/hmis/wiki/OPD)
 
 
 
