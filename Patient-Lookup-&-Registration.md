@@ -10,8 +10,11 @@ You can look up a patient using Name, Phone Number, NIC / Passport, PHN, Patient
 You can also do a quick search using the patients' phone number.
 
 If the patient is not already registered, 
+
 > Select "+ New"  to register the patient.
+
 > Then enter Patient Demographic Details (Title, Name, Sex, Age, Date of Birth, Phone Number, Mobile Number, Email, NIC / Passport No, Address, Area, PHN Number, MRN No, Comments, Patient Account, Mark as foreigner, Credit Limit, etc.)
+
 > Select "Save" to register the patient.
 
 ![screencapture-qa-carecode-org-coop-test-faces-opd-patient-edit-xhtml-2025-02-05-21_08_33](https://github.com/user-attachments/assets/f2eb857f-5fa0-4e4b-8ef4-547cf586586c)
