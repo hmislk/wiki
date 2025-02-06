@@ -14,6 +14,6 @@
 
 [OPD search](https://github.com/hmislk/hmis/wiki/OPD-search)
 
-
+[OPD Token Management](https://github.com/hmislk/hmis/wiki/OPD-Token-Management)
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
