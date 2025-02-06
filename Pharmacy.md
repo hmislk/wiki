@@ -22,6 +22,8 @@ The main features are listed below.
 
 * [Adjustments](https://github.com/hmislk/hmis/wiki/Pharmacy-Adjustments)
 
+* [Token Management](https://github.com/hmislk/hmis/wiki/Pharmacy-Token-Management)
+
 * [Administration](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
 
 ***
