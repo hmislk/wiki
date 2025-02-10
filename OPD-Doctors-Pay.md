@@ -10,3 +10,7 @@ OPD > Doctors > Pay
 3. Select process shift payments.
  
 
+
+
+
+[Back](https://github.com/hmislk/hmis/wiki/OPD-Doctors)
