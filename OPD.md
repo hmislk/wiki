@@ -16,4 +16,6 @@
 
 [OPD Token Management](https://github.com/hmislk/hmis/wiki/OPD-Token-Management)
 
+[OPD Doctors](https://github.com/hmislk/hmis/wiki/OPD-Doctors)
+
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
