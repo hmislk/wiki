@@ -6,4 +6,9 @@ OPD > Doctors > Mark Out
 
 Select "Mark out" 
 
+Use the "View" button to see the doctors who are currently working.
+
+![screencapture-qa-carecode-org-coop-test-faces-opd-workTimes-xhtml-2025-02-11-00_12_02](https://github.com/user-attachments/assets/c337bf64-61e4-48cb-b199-946437a5fdfc)
+
+
 [Back](https://github.com/hmislk/hmis/wiki/OPD-Doctors) 
