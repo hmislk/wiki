@@ -8,6 +8,7 @@ OPD > Doctors > Mark In
 2. Enter start time
 3. Select "Mark In"
 
+![screencapture-qa-carecode-org-coop-test-faces-opd-marked-ins-current-xhtml-2025-02-10-23_58_17](https://github.com/user-attachments/assets/e605eb9e-b237-4a16-b0ee-157390376f4e)
 
 
 [Back](https://github.com/hmislk/hmis/wiki/OPD-Doctors)
