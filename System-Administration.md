@@ -10,4 +10,6 @@ This page will help a system administrator to conduct all the administrative wor
 
 * [Manage Inpatient Services](https://github.com/hmislk/hmis/wiki/Manage-Inpatient-Services)
 
+* [Pharmaceutical Management](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Management)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
