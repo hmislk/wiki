@@ -26,6 +26,8 @@ The main features are listed below.
 
 * [Administration](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
 
+* [Pharmacy Analytics](https://github.com/hmislk/hmis/wiki/Pharmacy-Analytics)
+
 ***
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
