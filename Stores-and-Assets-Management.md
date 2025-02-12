@@ -1,6 +1,6 @@
 Manages General Stores for consumables and assets.
 
-* BHT Issue 
+* [BHT Issue](https://github.com/hmislk/hmis/wiki/Store-Issue-to-BHT) 
 * Unit Issue 
 * Purchase 
 * Transfer 
