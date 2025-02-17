@@ -20,5 +20,15 @@
 
 ![screencapture-qa-carecode-org-coop-test-faces-inward-inward-bill-service-xhtml-2025-02-14-07_33_54](https://github.com/user-attachments/assets/7f8c4810-60a6-4f43-b028-0668cfce5761)
 
+### Search Bills
+
+**Path:** 
+
+Theatre > Service > Search Bill
+
+![screencapture-qa-carecode-org-coop-test-faces-inward-inward-search-service-xhtml-2025-02-17-20_15_26](https://github.com/user-attachments/assets/bb4e8477-4d08-4322-8c94-d12b1337d719)
+
+You can search for bill using date range, Bill no., BHT no., Patient name, Item name and/or net total.
+
 
 [Back](https://github.com/hmislk/hmis/wiki/Theatre-Management-Module)
