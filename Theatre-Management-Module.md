@@ -1,7 +1,7 @@
 * Add surgeries
 * Services 
 > * [Add services](https://github.com/hmislk/hmis/wiki/Theatre-Services)
-> * Search bill
+> * [Search bill](https://github.com/hmislk/hmis/wiki/Theatre-Services)
 * Add timed services
 * Add professional fee
 * transfer
