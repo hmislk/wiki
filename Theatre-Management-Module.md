@@ -2,7 +2,7 @@
 * Services 
 > * [Add services](https://github.com/hmislk/hmis/wiki/Theatre-Services)
 > * [Search bill](https://github.com/hmislk/hmis/wiki/Theatre-Services)
-* Add timed services
+* [Add timed services](https://github.com/hmislk/hmis/wiki/Add-Timed-Services)
 * Add professional fee
 * transfer
 > * Requests
