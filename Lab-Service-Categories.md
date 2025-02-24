@@ -19,3 +19,5 @@ Pathology is the study of disease, including its causes, effects, and nature. It
 ### Serology
 
 Serology is the study of blood serum and other body fluids, especially antibodies. Serology tests are used to identify antibodies in the blood to help diagnose infections and other conditions. 
+
+[Back](https://github.com/hmislk/hmis/wiki/LIMS-Knowledgebase)
