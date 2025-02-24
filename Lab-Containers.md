@@ -57,3 +57,8 @@ A urine container is a specialized vessel used for collecting and storing urine 
 ### Urine Culture Bottle
 
 A urine culture bottle is a specialized container used for collecting and storing urine samples intended for microbiological analysis, particularly for diagnosing urinary tract infections (UTIs). These bottles are designed to maintain the sterility of the sample, ensuring accurate test results.
+
+
+
+
+[Back](https://github.com/hmislk/hmis/wiki/LIMS-Knowledgebase)
