@@ -3,15 +3,10 @@
 * **Fluid** – Includes various bodily fluids used for analysis.
 
 > * **Cerebrospinal Fluid (CSF)** – Collected via lumbar puncture, used to diagnose infections or neurological conditions.
-
 > * **Peritoneal Fluid** – Found in the abdominal cavity, analyzed for infections or malignancies.
-
 > * **Pleural Fluid** – Surrounds the lungs, tested for infections, cancer, or other diseases.
-
 > * **Synovial Fluid** – Lubricates joints; analyzed for arthritis, infections, or gout.
-
 > * **Amniotic Fluid** – Surrounds a fetus in the womb, tested for genetic and developmental disorders.
-
 > * **Pericardial Fluid** – Surrounds the heart, tested for infections or cardiac issues.
 
 * **Plasma** – The liquid component of blood, separated from cells, often tested for proteins, electrolytes, and hormones.
@@ -25,17 +20,11 @@
 * **Swab Samples** – Used for microbiological cultures and viral or bacterial testing.
 
 > * **Throat Swab** – Collected for strep throat, viral infections, or respiratory pathogens.
-
 > * **Nasal Swab** – Used for flu, COVID-19, and other respiratory infections.
-
 > * **Vaginal/Cervical Swab** – Used for Pap smears, STIs, and HPV testing.
-
 > * **Rectal Swab** – Used for certain infections, including STIs and enteric pathogens.
-
 > * **Wound Swab** – Collected from open wounds to identify bacterial infections.
-
 > * **Ear Swab** – Used to diagnose ear infections.
-
 > * **Skin Swab** – Collected to diagnose bacterial, fungal, or viral skin infections.
 
 * **Urine** – Used for kidney function tests, drug screening, and infection detection.
@@ -61,3 +50,6 @@
 * **Meconium (Newborn Stool)** – Tested for prenatal drug exposure and metabolic disorders.
 
 * **Cord Blood** – Collected at birth for genetic and stem cell banking purposes.
+
+
+[Back](https://github.com/hmislk/hmis/wiki/LIMS-Knowledgebase)
