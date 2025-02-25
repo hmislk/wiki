@@ -1,4 +1,4 @@
-* **Amoxicillin* - Commonly Used For Respiratory tract infections, ear infections, urinary tract infections (UTIs), skin infections, and some gastrointestinal infections.
+* **Amoxicillin** - Commonly Used For Respiratory tract infections, ear infections, urinary tract infections (UTIs), skin infections, and some gastrointestinal infections.
 
 * **Cephalexin** - Commonly Used For Respiratory infections, skin infections, urinary tract infections, bone infections, and ear infections.
 
