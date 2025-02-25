@@ -40,4 +40,4 @@ Under referral details, you can enter information such as referral institution, 
  
 ![screencapture-qa-carecode-org-coop-test-faces-opd-opd-batch-bill-print-xhtml-2025-02-26-00_22_00](https://github.com/user-attachments/assets/edd98d2a-97ad-4107-acda-454c304ebd2e)
 
-[Back](https://github.com/hmislk/hmis/wiki/LIMS)
+[Back](https://github.com/hmislk/hmis/wiki/Laboratory-Billing)
