@@ -137,3 +137,4 @@
 - **Project-Based Learning:** Each trainee must contribute to a live project  
 - **Assessments:** Mid-course & Final Evaluation  
 
+[Back](https://github.com/hmislk/hmis/wiki/Developer-Manual)
