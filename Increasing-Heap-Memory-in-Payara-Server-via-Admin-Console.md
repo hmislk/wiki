@@ -31,6 +31,6 @@ After the server restarts, revisit the JVM Options to ensure your changes have b
 Please note: Adjusting heap memory settings can impact the performance and stability of your applications and the server. Always monitor the server after making such changes and ensure you have backups of any critical data.
 
 
-
+[Back to Troubleshooting](https://github.com/hmislk/hmis/wiki/Troubleshooting)
 
 

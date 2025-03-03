@@ -15,5 +15,6 @@
 * [Knowledge Base](https://github.com/hmislk/hmis/wiki/Knowledge-Base)
 * [Cloud Management](https://github.com/hmislk/hmis/wiki/Cloud-Management)
 * [Controllers](https://github.com/hmislk/hmis/wiki/Controllers)
+* [Training-Schedule](https://github.com/hmislk/hmis/wiki/26%E2%80%90Week-Training-Schedule-for-Software-Trainee-Engineers)
 
 [Back](https://github.com/hmislk/hmis/wiki)

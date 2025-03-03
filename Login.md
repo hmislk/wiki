@@ -1,3 +1,5 @@
+# Introduction
+
 The authentication and Authorization will be handled by the Login credentials entered.
 The login will identify the person, the role he plays within the system and grant privileges.
 
@@ -14,6 +16,14 @@ Can create any number of roles.
 During the login, the department needs to be selected, so that the privileges are limited to the logged department.
 
 Every action needed to be logged for auditing purposes.
+
+# Tutorial on how to log in
+
+1. Enter username and password
+
+2. Select the suitable Department
+
+Then you will arrive at home page.
 
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)

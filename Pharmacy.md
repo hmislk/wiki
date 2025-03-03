@@ -10,9 +10,9 @@ The main features are listed below.
 
 * [Receive Goods](https://github.com/hmislk/hmis/wiki/Receive-Goods)
 
-* [Transactions between different units](https://github.com/hmislk/hmis/wiki/Pharmacy-Transactions-between-different-units)
+* [Supplier Payment Management](https://github.com/hmislk/hmis/wiki/Supplier-Payment-Management)
 
-* [OPD Sale](https://github.com/hmislk/hmis/wiki/Pharmacy-OPD-Sale)
+* [Transactions between different units](https://github.com/hmislk/hmis/wiki/Pharmacy-Transactions-between-different-units)
 
 * [Inward Issue](https://github.com/hmislk/hmis/wiki/Pharmacy-Inward-Issue)
 
@@ -22,7 +22,11 @@ The main features are listed below.
 
 * [Adjustments](https://github.com/hmislk/hmis/wiki/Pharmacy-Adjustments)
 
+* [Token Management](https://github.com/hmislk/hmis/wiki/Pharmacy-Token-Management)
+
 * [Administration](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
+
+* [Pharmacy Analytics](https://github.com/hmislk/hmis/wiki/Pharmacy-Analytics)
 
 ***
 

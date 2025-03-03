@@ -1,87 +1,63 @@
-# Design
-## Software Design Approach 
-Object-Oriented Design
-
-## Programming design pattern
-MVC
-
-## Implementation Architectures
-N-tier architecture
-Standalone Application with RESTFul clients
-Standalone Application with Port Programming
 
 # The Core and the Web Application
 
-## Language
-Java 1.8.0
-Java Enterprise Edition
+### Language
+- **Java 11**
 
-## IDE
-Netbeans 8.2 / Apache Netbeans 12.1
+### IDE
+- **Apache NetBeans 16**: 
 
-## Database
-MySQL 5.8
+### Database
+- **MySQL 8**: 
 
-## Frameworks
-Java Server Faces 2.2
+### Frameworks
+- **Java Server Faces (JSF) 2.3**: Provides a framework for building server-side user interfaces.
 
-## Framework Components
-Primefaces 6.2
+### Framework Components
+- **PrimeFaces 14.0.6**: Offers advanced UI frameworks for JSF applications, as specified in the latest Maven `pom.xml`.
 
-## Building Tool
-[Apache mevan](https://github.com/hmislk/hmis/wiki/Mevan)
+### Building Tool
+- **[[Apache Maven](https://github.com/hmislk/hmis/wiki/Mevan)](https://github.com/hmislk/hmis/wiki/Mevan)**: Manages project builds and dependencies.
 
-## JDBC Driver
-MySQL Connector java 5.1.23 + MySQL Connector 8
+### JDBC Driver
+- **MySQL Connector/J 8.0.30+**: 
 
-## Persistence Framework
-JPA
+### Persistence Framework
+- **JPA (Java Persistence API)**
 
-## Persistence Provider
-EclipseLink 2.5 
+### Persistence Provider
+- **EclipseLink 2.5**: Provides advanced JPA functionalities.
 
-## Application Server
-Payara 5 / GlassFish 5
+### Application Server
+- **Payara 5**: A modern and fully-supported server environment for Java EE applications.
 
+## Middleware and Utilities
 
-# LIMS Analyzer Middleware
-C#
+### LIMS Analyzer Middleware
+- **C#:** Utilized for developing middleware applications interfacing with laboratory instruments.
 
-# Version Control
-## Technology
-git
+### Bill and Barcode Printing
+- **JavaSE**: Manages printing functionalities in a standard Java environment.
 
-## Source Code Repository
-GitHub
+### Web Services
+- **RESTful**: Employs RESTful web services for interoperable machine-to-machine interaction.
 
-# Bill Printing / Barcode Printing
-JavaSE
+## Development and Maintenance
 
-# Web Services
-RESTFull
+### Version Control
+- **Git**: Manages source code versions.
+- **GitHub**: Hosts the source code repository and tracks issues.
 
-# Issue Tracking
-GitHub Issue Tracker
+### Issue Tracking
+- **GitHub Issue Tracker**: Monitors and resolves issues throughout the software lifecycle.
 
-# Dependencies
-* joda-time - 2.9.9
-* org.eclipse.persistence 2.5
-* net.sourceforge.barbecue
-* barbecue - 1.5-beta1
-* mysql-connector-java - 8.0.16
-* itextpdf - 5.5.10
-* javaee-web-api 7.0
-* primefaces - 6.2
-* jasypt - 1.9.1
-* apache-commons-io - 2.3
-* commons-beanutils - 1.9.4
-* net.sourceforge.jexcelapi - 2.6.12
-* itext-pdfa - 5.4.4
-* org.primefaces.extensions - 1.2.1
-* apache.poi
-* org.apache.commons
-* json
-* jdom 1.1
-* net.glxn
+## Dependencies
+Updates and current libraries used are detailed in the Maven `pom.xml` configuration. Noteworthy dependencies include:
+- **HAPI FHIR**: Integrates FHIR-based standards for healthcare interoperability.
+- **Apache POI**: Manages Microsoft document files.
+- **Jackson and Gson**: Handle JSON processing.
+- **Joda-Time, Commons libraries, Barcode4j, iText**: Provide support for time handling, utility functions, barcode generation, and PDF creation, respectively.
 
+### Maven POM Highlights
+The project’s Maven POM file specifies dependencies, plugins, and repositories essential for the development and deployment of the application. This includes settings for compatibility with Java 8, despite using newer library versions, to ensure broad compatibility and stability.
 

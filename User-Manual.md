@@ -9,7 +9,8 @@ User Manual
 * [Electronic Health Record System](https://github.com/hmislk/hmis/wiki/EHR)
 * [Medical Appointment / Channelling Module](https://github.com/hmislk/hmis/wiki/Channelling)
 * [RIS & PACS](https://github.com/hmislk/hmis/wiki/RIS-&-PACS)
-* [Inward Patient Care / Theatre Management Module](https://github.com/hmislk/hmis/wiki/Inward)
+* [Inward Patient Care](https://github.com/hmislk/hmis/wiki/Inward)
+* [Theatre Management Module](https://github.com/hmislk/hmis/wiki/Theatre-Management-Module)
 * [Human Resource Management](https://github.com/hmislk/hmis/wiki/Human-Resource)
 * [Kitchen Management](https://github.com/hmislk/hmis/wiki/Kitchen-Management)
 * [Linen Management](https://github.com/hmislk/hmis/wiki/Linen-Management)
@@ -18,6 +19,7 @@ User Manual
 * [Preferences](https://github.com/hmislk/hmis/wiki/Managing-Preferences)
 * [System Administration](https://github.com/hmislk/hmis/wiki/System-Administration)
 * [Patient & Doctor Portals](https://github.com/hmislk/hmis/wiki/Patient-and-Doctor-Portals)
+
 
 
 [Back](https://github.com/hmislk/hmis/wiki)

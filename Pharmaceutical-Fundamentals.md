@@ -1,4 +1,6 @@
 
+### [Terms Used in Pharmacy Module](https://github.com/hmislk/hmis/wiki/Terms-Used-in-Pharmacy-Modules)
+
 ### [Item Categories](https://github.com/hmislk/hmis/wiki/Item-Categories)
 
 ### [Dosage Forms](https://github.com/hmislk/hmis/wiki/Dosage-Forms)
