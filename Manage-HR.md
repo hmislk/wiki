@@ -28,6 +28,6 @@
 * Staff Paysheet Performance Allowance Percentage
 
 ### Staff Balances
-Reset Staff Balance
+* Reset Staff Balance
 
 [Back](https://github.com/hmislk/hmis/wiki/System-Administration)
