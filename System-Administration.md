@@ -6,7 +6,7 @@ This page will help a system administrator to conduct all the administrative wor
 * [Manage HR](https://github.com/hmislk/hmis/wiki/Manage-HR)
 * [Manage Lab Services](https://github.com/hmislk/hmis/wiki/Manage-Lab-Services)
 * [Manage EMR](https://github.com/hmislk/hmis/wiki/Manage-EMR)
-* Manage Items
+* [Manage Items](https://github.com/hmislk/hmis/wiki/Manage-Items)
 * [Manage Inpatient Services](https://github.com/hmislk/hmis/wiki/Manage-Inpatient-Services)
 * [Pharmaceutical Management](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Management)
 * Manage Store
