@@ -4,15 +4,15 @@
 
 ### Staff
 
-Add New Staff
-Staff List
-[Doctors (Excluding Consultants)](https://github.com/hmislk/hmis/wiki/Add-a-Doctor)
-[Doctors (Including Consultants)](https://github.com/hmislk/hmis/wiki/Add-a-Doctor)
-[Consultant](https://github.com/hmislk/hmis/wiki/Add-a-Consultant)
-Other Staff
-Doctors & Staff
-View Staff Signatures
-Add Signature for staff
+* Add New Staff
+* Staff List
+* [Doctors (Excluding Consultants)](https://github.com/hmislk/hmis/wiki/Add-a-Doctor)
+* [Doctors (Including Consultants)](https://github.com/hmislk/hmis/wiki/Add-a-Doctor)
+* [Consultant](https://github.com/hmislk/hmis/wiki/Add-a-Consultant)
+* Other Staff
+* Doctors & Staff
+* View Staff Signatures
+* Add Signature for staff
 
 ### Setup
 * Upload Consultants
