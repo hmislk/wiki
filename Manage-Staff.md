@@ -1,6 +1,39 @@
-* [Add a Doctor](https://github.com/hmislk/hmis/wiki/Add-a-Doctor)
+**Metadata**
+* [Doctor Specialities](https://github.com/hmislk/hmis/wiki/Add-Doctor-Specialities)
+* All Specialties
 
-* [Add a Doctor Specialities](https://github.com/hmislk/hmis/wiki/Add-Doctor-Specialities)
+** Staff**
+
+Add New Staff
+Staff List
+Doctors (Excluding Consultants)
+Doctors (Including Consultants)
+Consultant
+Other Staff
+Doctors & Staff
+View Staff Signatures
+Add Signature for staff
+
+**Setup**
+* Upload Consultants
+* Upload Doctors
+* Upload Staff
+* Connect staff to user
+* Staff List
+* Add Channelling Consultants to Institutions
+* Bulk Delete Staff
+* Show All Consultant Items
+* Show All Doctor Items
+* Show All Doctor Speciality Items
+* Show All Speciality Items
+
+
+
+
+
+
+
+* [Add a Doctor](https://github.com/hmislk/hmis/wiki/Add-a-Doctor)
 
 * [Add a Consultant](https://github.com/hmislk/hmis/wiki/Add-a-Consultant)
 
