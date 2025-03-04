@@ -1,20 +1,20 @@
-**Metadata**
+### Metadata
 * [Doctor Specialities](https://github.com/hmislk/hmis/wiki/Add-Doctor-Specialities)
 * All Specialties
 
-** Staff**
+### Staff
 
 Add New Staff
 Staff List
-Doctors (Excluding Consultants)
-Doctors (Including Consultants)
-Consultant
+[Doctors (Excluding Consultants)](https://github.com/hmislk/hmis/wiki/Add-a-Doctor)
+[Doctors (Including Consultants)](https://github.com/hmislk/hmis/wiki/Add-a-Doctor)
+[Consultant](https://github.com/hmislk/hmis/wiki/Add-a-Consultant)
 Other Staff
 Doctors & Staff
 View Staff Signatures
 Add Signature for staff
 
-**Setup**
+### Setup
 * Upload Consultants
 * Upload Doctors
 * Upload Staff
@@ -27,15 +27,6 @@ Add Signature for staff
 * Show All Doctor Speciality Items
 * Show All Speciality Items
 
-
-
-
-
-
-
-* [Add a Doctor](https://github.com/hmislk/hmis/wiki/Add-a-Doctor)
-
-* [Add a Consultant](https://github.com/hmislk/hmis/wiki/Add-a-Consultant)
 
 [Back](https://github.com/hmislk/hmis/wiki/System-Administration)
 
