@@ -3,7 +3,7 @@ This page will help a system administrator to conduct all the administrative wor
 * [User Management](https://github.com/hmislk/hmis/wiki/User-Management)
 * [Manage Institutions](https://github.com/hmislk/hmis/wiki/Manage-Institutions)
 * [Manage Staff](https://github.com/hmislk/hmis/wiki/Manage-Staff)
-* Manage HR
+* [Manage HR](https://github.com/hmislk/hmis/wiki/Manage-HR)
 * [Manage Lab Services](https://github.com/hmislk/hmis/wiki/Manage-Lab-Services)
 * Manage EMR
 * Manage Items
