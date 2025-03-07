@@ -26,7 +26,7 @@
 - **JPA (Java Persistence API)**
 
 ### Persistence Provider
-- **EclipseLink 2.5**: Provides advanced JPA functionalities.
+- **EclipseLink 2.5**: Provides advanced JPA functionalities. (ORM)
 
 ### Application Server
 - **Payara 5**: A modern and fully-supported server environment for Java EE applications.
