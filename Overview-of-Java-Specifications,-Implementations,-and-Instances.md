@@ -40,6 +40,5 @@ Each installed instance runs according to its version and the vendor's implement
 ### 6. Key Principle: "Write Once, Run Anywhere"  
 Java applications are compiled into platform-independent bytecode. The **JVM** interprets this bytecode on any operating system that has a compatible Java implementation, allowing the same compiled code to run without modification across different environments.
 
----
 
-Let me know if you need this in markdown format or with additional examples.
+[Back](https://github.com/hmislk/hmis/wiki/Java)
