@@ -61,3 +61,4 @@ Updates and current libraries used are detailed in the Maven `pom.xml` configura
 ### Maven POM Highlights
 The project’s Maven POM file specifies dependencies, plugins, and repositories essential for the development and deployment of the application. This includes settings for compatibility with Java 8, despite using newer library versions, to ensure broad compatibility and stability.
 
+[Back](https://github.com/hmislk/hmis/wiki/Developer-Manual)
