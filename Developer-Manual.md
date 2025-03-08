@@ -1,4 +1,4 @@
-* [Technologies Used](https://github.com/hmislk/hmis/wiki/Technologies-Used)
+* [Techstack](https://github.com/hmislk/hmis/wiki/Tech-Stack)
 * [Installation Manual](https://github.com/hmislk/hmis/wiki/Installation-Manual)
 * [Maintenance Manual](https://github.com/hmislk/hmis/wiki/Maintenance-Manual)
 * [Code Conventions](https://github.com/hmislk/hmis/wiki/Code-Conventions)
