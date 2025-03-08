@@ -17,7 +17,7 @@
 - **PrimeFaces 14.0.6**: Offers advanced UI frameworks for JSF applications, as specified in the latest Maven `pom.xml`.
 
 ### Building Tool
-- **[[Apache Maven](https://github.com/hmislk/hmis/wiki/Mevan)](https://github.com/hmislk/hmis/wiki/Mevan)**: Manages project builds and dependencies.
+- **[Apache Maven](https://github.com/hmislk/hmis/wiki/Mevan)**: Manages project builds and dependencies.
 
 ### JDBC Driver
 - **MySQL Connector/J 8.0.30+**: 
