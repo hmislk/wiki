@@ -2,7 +2,7 @@
 # The Core and the Web Application
 
 ### Language
-- **Java 11**
+- **[Java](https://github.com/hmislk/hmis/wiki/Java)**
 
 ### IDE
 - **Apache NetBeans 16**: 
