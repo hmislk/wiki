@@ -33,6 +33,6 @@ At **CareCode**, we use **Java EE (J2EE)** for developing our **Core** and **API
 
 Clients interact with the system through standard web interfaces (such as HTML/JS), while all business logic executes on the server.
 
----
 
-Let me know if you need this formatted for a wiki page or documentation.
+
+[Back](https://github.com/hmislk/hmis/wiki/Java)
