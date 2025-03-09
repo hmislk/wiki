@@ -13,7 +13,7 @@ Java is available in different editions, each designed for specific types of app
   Designed for embedded and mobile devices with limited resources, such as feature phones and IoT devices.
 
 - **Java EE (Enterprise Edition):**  
-  Now known as **Jakarta EE** (formerly **J2EE**), designed for developing large-scale, distributed, and enterprise-level applications. Provides APIs for web services, servlets, EJB, and more.
+  Now known as **Jakarta EE** (formerly **J2EE**), designed for developing large-scale, distributed, and enterprise-level applications. Provides APIs for web services, servlets, EJB, and more. [Java EE vs J2EE vs Jakarta EE](https://www.baeldung.com/java-enterprise-evolution#:~:text=Actually%2C%20the%20Eclipse%20Foundation%20legally,voted%20and%20picked%3A%20Jakarta%20EE.)
 
 ### 2. Usage in CareCode  
 At **CareCode**, we use **Java EE (J2EE)** for developing our **Core** and **API** layers. This allows us to build scalable, secure, and multi-user enterprise applications with features such as:
