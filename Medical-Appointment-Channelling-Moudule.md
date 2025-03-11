@@ -2,7 +2,7 @@
 * Channel Booking
 > * [Channel Booking](https://github.com/hmislk/hmis/wiki/Channel-Booking)
 > * [Channel Booking - By Date](https://github.com/hmislk/hmis/wiki/Channel-Booking-%E2%80%90-By-Date)
-> * Channel Booking - By Month
+> * [Channel Booking - By Month](https://github.com/hmislk/hmis/wiki/Channel-Booking-%E2%80%90-By-Month)
 * Schedule Calendar
 * Channel Queue
 * Channel Display
