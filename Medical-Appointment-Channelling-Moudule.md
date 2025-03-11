@@ -1,4 +1,4 @@
-* Introduction
+* [Introduction](https://github.com/hmislk/hmis/wiki/Channelling-%E2%80%90-Introduction)
 * Channel Booking
 > * Channel Booking
 > * Channel Booking - By Date
