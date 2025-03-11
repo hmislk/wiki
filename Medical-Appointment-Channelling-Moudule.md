@@ -1,6 +1,6 @@
 * [Introduction](https://github.com/hmislk/hmis/wiki/Channelling-%E2%80%90-Introduction)
 * Channel Booking
-> * Channel Booking
+> * [Channel Booking](https://github.com/hmislk/hmis/wiki/Channel-Booking)
 > * Channel Booking - By Date
 > * Channel Booking - By Month
 * Schedule Calendar
