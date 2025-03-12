@@ -1,5 +1,3 @@
-**Title: Transitioning CareCode HIMS from a Monolithic Architecture to Mini-Services**
-
 ## **Introduction**
 CareCode HIMS has been operating as a monolithic system, where all functionalities are tightly integrated into a single application. While this approach has served well in the past, the increasing complexity and demand for scalability, maintainability, and interoperability necessitate a transition to a more modular architecture. This document outlines the transition plan from a monolithic architecture to a **mini-services** approach, setting the foundation for a potential microservices evolution in the future.
 
