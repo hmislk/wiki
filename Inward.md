@@ -10,6 +10,8 @@ Inpatient Module
 
 * [Admission Details](https://github.com/hmislk/hmis/wiki/Edit-Admission-Details)
 
+* [Inward Appointments](https://github.com/hmislk/hmis/wiki/Inward-Appointments)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
 
