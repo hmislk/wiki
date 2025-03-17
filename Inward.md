@@ -6,6 +6,8 @@ Inpatient Module
 
 * [Patient Admission](https://github.com/hmislk/hmis/wiki/Admit-a-Patient)
 
+* [Patient Lookup and Registration](https://github.com/hmislk/hmis/wiki/Patient-Lookup-&-Registration)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
 
