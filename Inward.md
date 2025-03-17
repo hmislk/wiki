@@ -8,6 +8,8 @@ Inpatient Module
 
 * [Patient Lookup and Registration](https://github.com/hmislk/hmis/wiki/Patient-Lookup-&-Registration)
 
+* [Admission Details](https://github.com/hmislk/hmis/wiki/Edit-Admission-Details)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
 
