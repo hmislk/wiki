@@ -16,13 +16,13 @@ Inpatient Module
 
 * [Room Occupancy](https://github.com/hmislk/hmis/wiki/Room-Occupancy)
 
-* [Add Services and Investigations](https://github.com/hmislk/hmis/wiki/Add-services-and-Investigations)
-
 * [Room Vacancy](https://github.com/hmislk/hmis/wiki/Room-Vacancy)
 
 * [Room Change](https://github.com/hmislk/hmis/wiki/Room-Change)
 
 * [Guardian Room Change](https://github.com/hmislk/hmis/wiki/Guardian-Room-Change)
+
+* [Add Services and Investigations](https://github.com/hmislk/hmis/wiki/Add-services-and-Investigations)
 
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
