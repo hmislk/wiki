@@ -12,6 +12,8 @@ Inpatient Module
 
 * [Inward Appointments](https://github.com/hmislk/hmis/wiki/Inward-Appointments)
 
+* [Room Reservations](https://github.com/hmislk/hmis/wiki/Room-Reservations)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
 
