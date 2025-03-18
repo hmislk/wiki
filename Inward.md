@@ -14,6 +14,8 @@ Inpatient Module
 
 * [Room Reservations](https://github.com/hmislk/hmis/wiki/Room-Reservations)
 
+* [Room Occupancy](https://github.com/hmislk/hmis/wiki/Room-Occupancy)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
 
