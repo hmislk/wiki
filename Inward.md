@@ -16,9 +16,11 @@ Inpatient Module
 
 * [Room Occupancy](https://github.com/hmislk/hmis/wiki/Room-Occupancy)
 
+* * [Room Vacancy](https://github.com/hmislk/hmis/wiki/Room-Vacancy)
+
 * [Room Change](https://github.com/hmislk/hmis/wiki/Room-Change)
 
-* [Room Vacancy](https://github.com/hmislk/hmis/wiki/Room-Vacancy)
+* [Guardian Room Change](https://github.com/hmislk/hmis/wiki/Guardian-Room-Change)
 
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
