@@ -24,6 +24,8 @@ Inpatient Module
 
 * [Add Services and Investigations](https://github.com/hmislk/hmis/wiki/Add-services-and-Investigations)
 
+* [Add Outside Charges](https://github.com/hmislk/hmis/wiki/Add-Outside-Charges)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
 
