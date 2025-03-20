@@ -28,6 +28,8 @@ Inpatient Module
 
 * [Add Professional Fee](https://github.com/hmislk/hmis/wiki/Add-Professional-Fee)
 
+* [Add Estimate Professional Fee](https://github.com/hmislk/hmis/wiki/Add-Estimated-Professional-Fee)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
 
