@@ -26,6 +26,8 @@ Inpatient Module
 
 * [Add Outside Charges](https://github.com/hmislk/hmis/wiki/Add-Outside-Charges)
 
+* [Add Professional Fee](https://github.com/hmislk/hmis/wiki/Add-Professional-Fee)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
 
