@@ -32,11 +32,13 @@ Inpatient Module
 
 * [Add Timed Services](https://github.com/hmislk/hmis/wiki/Add-TImed-Services-%E2%80%90-Inward)
 
-* [Intrim Bill](https://github.com/hmislk/hmis/wiki/Intrim-Bill)
+* [Interim Bill](https://github.com/hmislk/hmis/wiki/Intrim-Bill)
 
-* [Intrim Bill - Estimated Professional Fee](https://github.com/hmislk/hmis/wiki/Intrim-Bill-%E2%80%90-Estimated-Professional-Fee)
+* [Intreim Bill - Estimated Professional Fee](https://github.com/hmislk/hmis/wiki/Intrim-Bill-%E2%80%90-Estimated-Professional-Fee)
 
 * [Interim Bill Search](https://github.com/hmislk/hmis/wiki/Intrim-Bill-Search)
+
+* [Admissions Search](https://github.com/hmislk/hmis/wiki/Admissions-Search)
 
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
