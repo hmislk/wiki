@@ -30,6 +30,8 @@ Inpatient Module
 
 * [Add Estimate Professional Fee](https://github.com/hmislk/hmis/wiki/Add-Estimated-Professional-Fee)
 
+* [Add Timed Services](https://github.com/hmislk/hmis/wiki/Add-TImed-Services-%E2%80%90-Inward)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
 
