@@ -10,7 +10,7 @@ You can search using the patient's name or the BHT number.
 
 **3. Select Staff/Doctor**
 
-**4. Enter the amount and the time **
+**4. Enter the amount and the time**
 
 **5. Select "Add"**
 
