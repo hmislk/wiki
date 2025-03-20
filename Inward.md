@@ -40,6 +40,8 @@ Inpatient Module
 
 * [Admissions Search](https://github.com/hmislk/hmis/wiki/Admissions-Search)
 
+* [Service Bill Search](https://github.com/hmislk/hmis/wiki/Service-Bill-Search)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
 
