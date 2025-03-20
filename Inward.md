@@ -36,6 +36,8 @@ Inpatient Module
 
 * [Intrim Bill - Estimated Professional Fee](https://github.com/hmislk/hmis/wiki/Intrim-Bill-%E2%80%90-Estimated-Professional-Fee)
 
+* [Interim Bill Search](https://github.com/hmislk/hmis/wiki/Intrim-Bill-Search)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
 
