@@ -42,6 +42,14 @@ Inpatient Module
 
 * [Service Bill Search](https://github.com/hmislk/hmis/wiki/Service-Bill-Search)
 
+* [Professional Bill Search](https://github.com/hmislk/hmis/wiki/Professional-Bill-Search)
+
+* [Estimated Professional Bill Search](https://github.com/hmislk/hmis/wiki/Estimated-Professional-Bill-Search)
+
+* [Final Bill Search](https://github.com/hmislk/hmis/wiki/Final-Bill-Search)
+
+* [Final Bill Search by Discharge date](https://github.com/hmislk/hmis/wiki/Final-Bill-Search-by-Discharge-date)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
 
