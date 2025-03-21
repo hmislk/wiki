@@ -1,6 +1,6 @@
 **Path:**
 
-Inward > Search > Service bill
+Inward > Search > Professional bill
 
 You can search for service bills using,
 
