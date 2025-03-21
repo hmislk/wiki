@@ -2,7 +2,7 @@
 
 Inward > Search > Professional bill
 
-You can search for service bills using,
+You can search for Professional bills using,
 
 * Date Range
 * Bill No
