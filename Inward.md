@@ -50,6 +50,8 @@ Inpatient Module
 
 * [Final Bill Search by Discharge date](https://github.com/hmislk/hmis/wiki/Final-Bill-Search-by-Discharge-date)
 
+* [Request Medicine from Pharmacy](https://github.com/hmislk/hmis/wiki/Request-Medicine-from-Pharmacy)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
 
