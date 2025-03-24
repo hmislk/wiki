@@ -52,6 +52,8 @@ Inpatient Module
 
 * [Request Medicine from Pharmacy](https://github.com/hmislk/hmis/wiki/Request-Medicine-from-Pharmacy)
 
+* [Trace Investigations](https://github.com/hmislk/hmis/wiki/Trace-Investigations)
+
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
 
 
