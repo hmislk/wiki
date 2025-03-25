@@ -2,7 +2,7 @@
 
 [View Staff Users](https://github.com/hmislk/hmis/wiki/View-Staff-Users)
 
-View User Logins
+[View User Logins](https://github.com/hmislk/hmis/wiki/View-User-Logins)
 
 To Remove Multiple Users
 
