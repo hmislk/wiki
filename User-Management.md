@@ -1,6 +1,6 @@
 [Add a New User](https://github.com/hmislk/hmis/wiki/Add-a-new-user)
 
-View Staff Users
+[View Staff Users](https://github.com/hmislk/hmis/wiki/View-Staff-Users)
 
 View User Logins
 
