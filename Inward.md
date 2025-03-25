@@ -54,6 +54,10 @@ Inpatient Module
 
 * [View Requests from Pharmacy](https://github.com/hmislk/hmis/wiki/View-Pharmacy-Requests)
 
+* [Diredt Issue to BHT from Pharmacy](https://github.com/hmislk/hmis/wiki/Direct-Issue-to-BHTs-from-Pharmacy)
+
+* [Search Inpatient Direct Issue By Bill](https://github.com/hmislk/hmis/wiki/Search-Inpatient-Direct-Issue-By-Bill)
+
 * [Trace Investigations](https://github.com/hmislk/hmis/wiki/Trace-Investigations)
 
 [Back](https://github.com/hmislk/hmis/wiki/User-Manual)
