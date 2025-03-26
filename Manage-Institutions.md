@@ -1,6 +1,6 @@
 ### Preferences
 
-* Application Preferences
+* [Application Preferences](https://github.com/hmislk/hmis/wiki/Application-Preferences)
 
 * Department Preferences
 
