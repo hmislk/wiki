@@ -1,5 +1,5 @@
 Fees
-> * Base Item Fees
+> * [Base Item Fees](https://github.com/hmislk/hmis/wiki/Base-Item-Fees)
 > * Fee Lists
 > * Item Fees for Sites
 > * Item Fees for Collecting Centres
