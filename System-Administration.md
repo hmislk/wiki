@@ -10,7 +10,7 @@ This page will help a system administrator to conduct all the administrative wor
 * [Manage Inpatient Services](https://github.com/hmislk/hmis/wiki/Manage-Inpatient-Services)
 * [Pharmaceutical Management](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Management)
 * [Manage Store](https://github.com/hmislk/hmis/wiki/Manage-Store)
-* Manage pricing
+* [Manage pricing](https://github.com/hmislk/hmis/wiki/Manage-Pricing)
 * Membership Administration
 * Manage Data, Workflowa and Templates
 * [Manage Services](https://github.com/hmislk/hmis/wiki/Manage-Services)
