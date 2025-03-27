@@ -11,7 +11,7 @@ This page will help a system administrator to conduct all the administrative wor
 * [Pharmaceutical Management](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Management)
 * [Manage Store](https://github.com/hmislk/hmis/wiki/Manage-Store)
 * [Manage pricing](https://github.com/hmislk/hmis/wiki/Manage-Pricing)
-* Membership Administration
+* [Membership Administration](https://github.com/hmislk/hmis/wiki/Membership-Administration)
 * Manage Data, Workflowa and Templates
 * [Manage Services](https://github.com/hmislk/hmis/wiki/Manage-Services)
 
