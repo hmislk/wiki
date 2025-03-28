@@ -9,7 +9,7 @@
 * Services and Investigations by Institution
 * Services and Investigations by Department
 * Services and Investigations
-* OPD Service
+* [OPD Service](https://github.com/hmislk/hmis/wiki/OPD-Service)
 * Inward Service
 * Theatre Service
 * Bill Expenses
