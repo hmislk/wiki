@@ -38,8 +38,8 @@
 * Item & Doctor Fee Upload
 * Upload and Add Professional Fees
 * Item & Fee Upload for Collecting Centres
-* Item & Fees Upload
-* Item & Fees Upload (With Foreginer Fees)
+* [Item & Fees Upload](https://github.com/hmislk/hmis/wiki/Upload-Items-and-Fees)
+* Item & Fees Upload (With Foreigner Fees)
 * Investigation & Fee Upload for OutSource Department
 * Investigations Upload
 * Upload and Fix Item Categories by Code
