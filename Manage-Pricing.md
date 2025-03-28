@@ -34,7 +34,7 @@ Manage Packages
 > * Manage Package Prices
 
 Manage Discount Schemes
-> * Discount Schemes
+> * [Discount Schemes](https://github.com/hmislk/hmis/wiki/Discount-Scheme)
 > * Membership Schemes
 > * Allowed Payment Methods
 > * Pharmacy Discounts
