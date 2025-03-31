@@ -1,4 +1,4 @@
-### Clinical Metadata
+### [Clinical Metadata](https://github.com/hmislk/hmis/wiki/Manage-Clinical-Metadata)
 * Vocabularies
 * Symptoms 
 * Signs
