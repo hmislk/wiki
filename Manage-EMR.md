@@ -7,7 +7,7 @@
 * Procedures
 * Plan of actions
 
-### Upload
+### [Upload](https://github.com/hmislk/hmis/wiki/Upload-%E2%80%90-EMR-Administration)
 * Diagnosis
 * Upload Patients
 * Upload Visits
