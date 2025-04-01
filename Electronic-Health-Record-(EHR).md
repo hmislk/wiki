@@ -1,5 +1,5 @@
 * [Introduction](https://github.com/hmislk/hmis/wiki/EHR-%E2%80%90-Introduction)
-* Patient Search
+* [Patient Search](https://github.com/hmislk/hmis/wiki/Patient-Lookup-&-Registration)
 * Add New Patient
 * Membership
 * Queue
