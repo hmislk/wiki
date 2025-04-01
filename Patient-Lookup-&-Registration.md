@@ -1,6 +1,10 @@
 **Path:**
-
+* OPD
 OPD > Patient Lookup & Registration
+* Inward
+Inward > Admissions > Patient Registration and Lookup
+* EMR
+EMR > Patient Search
 
 ![screencapture-qa-carecode-org-coop-test-faces-opd-patient-search-xhtml-2025-02-05-20_29_43](https://github.com/user-attachments/assets/79e39702-f04e-45dd-ad33-277ede18abd5)
 
@@ -39,6 +43,8 @@ To clear the search results, use the "Clear" button.
 [Back to OPD](https://github.com/hmislk/hmis/wiki/OPD)
 
 [Back to Inward](https://github.com/hmislk/hmis/wiki/Inward)
+
+[Back to EMR](https://github.com/hmislk/hmis/wiki/Electronic-Health-Record-(EHR))
 
 
 
