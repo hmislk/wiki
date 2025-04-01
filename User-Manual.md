@@ -6,7 +6,7 @@ User Manual
 * [Collecting Centre](https://github.com/hmislk/hmis/wiki/Collecting-Centres)
 * [LIMS](https://github.com/hmislk/hmis/wiki/LIMS)
 * [Stores and Assets Management System](https://github.com/hmislk/hmis/wiki/Stores-and-Assets-Management)
-* [Electronic Health Record System](https://github.com/hmislk/hmis/wiki/EHR)
+* [Electronic Health Record System](https://github.com/hmislk/hmis/wiki/Electronic-Health-Record-(EHR))
 * [Medical Appointment / Channelling Module](https://github.com/hmislk/hmis/wiki/Medical-Appointment-Channelling-Moudule)
 * [RIS & PACS](https://github.com/hmislk/hmis/wiki/RIS-&-PACS)
 * [Inward Patient Care](https://github.com/hmislk/hmis/wiki/Inward)
