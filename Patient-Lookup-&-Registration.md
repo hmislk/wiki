@@ -1,9 +1,9 @@
 **Path:**
-* OPD
+* OPD:
 OPD > Patient Lookup & Registration
-* Inward
+* Inward:
 Inward > Admissions > Patient Registration and Lookup
-* EMR
+* EMR:
 EMR > Patient Search
 
 ![screencapture-qa-carecode-org-coop-test-faces-opd-patient-search-xhtml-2025-02-05-20_29_43](https://github.com/user-attachments/assets/79e39702-f04e-45dd-ad33-277ede18abd5)
