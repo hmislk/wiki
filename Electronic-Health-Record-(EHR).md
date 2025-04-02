@@ -4,8 +4,8 @@
 * Membership
 * [Queue](https://github.com/hmislk/hmis/wiki/Clinical-Queue)
 * [EMR Analytics](https://github.com/hmislk/hmis/wiki/EMR-Analytics)
-* Settings
-* Administration
+* [Settings](https://github.com/hmislk/hmis/wiki/EMR-Settings)
+* [Administration](https://github.com/hmislk/hmis/wiki/Manage-EMR)
 
 
 
