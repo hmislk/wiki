@@ -1,7 +1,7 @@
 * Documents
 > Add new Document Template
 > List Document Templates
-Treatments
+* Treatments
 > * Diagnosis
 > * Medicines 
 
