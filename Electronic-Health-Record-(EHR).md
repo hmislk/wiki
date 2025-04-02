@@ -2,7 +2,7 @@
 * [Patient Search](https://github.com/hmislk/hmis/wiki/Patient-Lookup-&-Registration)
 * [Add New Patient](https://github.com/hmislk/hmis/wiki/Add-new-patient)
 * Membership
-* Queue
+* [Queue](https://github.com/hmislk/hmis/wiki/Clinical-Queue)
 * EMR Analytics
 * Settings
 * Administration
