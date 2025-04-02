@@ -8,4 +8,4 @@ You can search for OPD visits by selecting a date, speciality, and doctor name a
 
 
 
-[Back](https://github.com/hmislk/hmis/wiki/Electronic-Health-Record-(EHR)
+[Back](https://github.com/hmislk/hmis/wiki/Electronic-Health-Record-(EHR))
