@@ -1,4 +1,4 @@
-* Introduction
+* [Introduction](https://github.com/hmislk/hmis/wiki/Pharmacy-Sale-Introduction)
 * Sale
 * Sale for Cashier
 * Sale without Stocks
