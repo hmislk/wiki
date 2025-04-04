@@ -30,6 +30,7 @@ In Maven, a dependency is just another archive—JAR, ZIP, and so on—which our
 
 Enter the name of your dependency in the search box of the Maven Artifact Search tool window. Choose the relevant result from the list of results, then click Add.
 
+[Back](https://github.com/hmislk/hmis/wiki/Tech-Stack)
 
  
 

@@ -2,7 +2,7 @@
 # The Core and the Web Application
 
 ### Language
-- **Java 11**
+- **[Java](https://github.com/hmislk/hmis/wiki/Java)**
 
 ### IDE
 - **Apache NetBeans 16**: 
@@ -17,7 +17,7 @@
 - **PrimeFaces 14.0.6**: Offers advanced UI frameworks for JSF applications, as specified in the latest Maven `pom.xml`.
 
 ### Building Tool
-- **[[Apache Maven](https://github.com/hmislk/hmis/wiki/Mevan)](https://github.com/hmislk/hmis/wiki/Mevan)**: Manages project builds and dependencies.
+- **[Apache Maven](https://github.com/hmislk/hmis/wiki/Mevan)**: Manages project builds and dependencies.
 
 ### JDBC Driver
 - **MySQL Connector/J 8.0.30+**: 
@@ -26,7 +26,7 @@
 - **JPA (Java Persistence API)**
 
 ### Persistence Provider
-- **EclipseLink 2.5**: Provides advanced JPA functionalities.
+- **EclipseLink 2.5**: Provides advanced JPA functionalities. (ORM)
 
 ### Application Server
 - **Payara 5**: A modern and fully-supported server environment for Java EE applications.
@@ -61,3 +61,4 @@ Updates and current libraries used are detailed in the Maven `pom.xml` configura
 ### Maven POM Highlights
 The project’s Maven POM file specifies dependencies, plugins, and repositories essential for the development and deployment of the application. This includes settings for compatibility with Java 8, despite using newer library versions, to ensure broad compatibility and stability.
 
+[Back](https://github.com/hmislk/hmis/wiki/Developer-Manual)

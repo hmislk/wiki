@@ -18,4 +18,4 @@ The important features are listed below.
 * SMS or Email Notifications
 
 
-[Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
+[Back to User Manual](https://github.com/hmislk/hmis/wiki/Medical-Appointment-Channelling-Moudule)
