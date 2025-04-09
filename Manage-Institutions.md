@@ -4,9 +4,9 @@
 
 * [Department Preferences](https://github.com/hmislk/hmis/wiki/Department-Preferences)
 
-* Application Options
+* [Application Options](https://github.com/hmislk/hmis/wiki/Application-Options)
 
-* Institution Options
+* [Institution Options]()
 
 * Department Options
 
