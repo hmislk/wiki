@@ -4,7 +4,7 @@
 
 [View User Logins](https://github.com/hmislk/hmis/wiki/View-User-Logins)
 
-To Remove Multiple Users
+[To Remove Multiple Users](https://github.com/hmislk/hmis/wiki/To-Remove-Multiple-Users)
 
 User Roles
 
