@@ -6,9 +6,9 @@
 
 * [Application Options](https://github.com/hmislk/hmis/wiki/Application-Options)
 
-* [Institution Options]()
+* [Institution Options](https://github.com/hmislk/hmis/wiki/Institution-Options)
 
-* Department Options
+* [Department Options](https://github.com/hmislk/hmis/wiki/Departmrnt-Options)
 
 * User Options
 
