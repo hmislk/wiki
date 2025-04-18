@@ -1,4 +1,4 @@
-Introduction
+* [Introduction](https://github.com/hmislk/hmis/wiki/Human-Resource)
 * Working Time
 > * Roster Table
 > * Upload Attendance
