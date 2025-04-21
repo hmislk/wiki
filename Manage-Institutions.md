@@ -4,37 +4,41 @@
 
 * [Department Preferences](https://github.com/hmislk/hmis/wiki/Department-Preferences)
 
-* Application Options
+* [Application Options](https://github.com/hmislk/hmis/wiki/Application-Options)
 
-* Institution Options
+* [Institution Options](https://github.com/hmislk/hmis/wiki/Institution-Options)
 
-* Department Options
+* [Department Options](https://github.com/hmislk/hmis/wiki/Departmrnt-Options)
 
 * User Options
 
 ### Manage
 
-* Manage Institutions
+* [Manage Institutions](https://github.com/hmislk/hmis/wiki/Add-New-Institution)
 
-* Manage Departments (Own)
+* [Manage Departments (Own)](https://github.com/hmislk/hmis/wiki/Manage-Departments-(Own))
 
-* Manage Departments (All)
+* [Manage Departments (All)](https://github.com/hmislk/hmis/wiki/Manage-Departments-(All))
 
-* Manage Sites
+* [Manage Sites](https://github.com/hmislk/hmis/wiki/Manage-Sites)
 
-* List Institutions
+* [List Institutions](https://github.com/hmislk/hmis/wiki/List-Institutions)
 
-* List Departments
+* [List Departments](https://github.com/hmislk/hmis/wiki/List-Departments)
 
-* Institution Branch
+* [Institution Branch](https://github.com/hmislk/hmis/wiki/Manage-Institution-Branch)
 
-* Collecting Centres
+* [Collecting Centres](https://github.com/hmislk/hmis/wiki/Manage-Collecting-Centers)
 
-* Credit Companies
+* [Credit Companies](https://github.com/hmislk/hmis/wiki/Manage-Credit-Companies)
 
-* Manage Areas
+* [Manage Areas](https://github.com/hmislk/hmis/wiki/Manage-Area)
 
-* Manage Routes
+* [Manage Routes](https://github.com/hmislk/hmis/wiki/Manage-Routes)
+
+* Manage Bank Accounts
+
+* Activate Institutions
 
 
 ### Bulk Transactions

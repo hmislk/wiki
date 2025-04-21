@@ -11,7 +11,7 @@ User Manual
 * [RIS & PACS](https://github.com/hmislk/hmis/wiki/RIS-&-PACS)
 * [Inward Patient Care](https://github.com/hmislk/hmis/wiki/Inward)
 * [Theatre Management Module](https://github.com/hmislk/hmis/wiki/Theatre-Management-Module)
-* [Human Resource Management](https://github.com/hmislk/hmis/wiki/Human-Resource)
+* [Human Resource Management](https://github.com/hmislk/hmis/wiki/Human-Resource-Management-&-Payroll-System)
 * [Kitchen Management](https://github.com/hmislk/hmis/wiki/Kitchen-Management)
 * [Linen Management](https://github.com/hmislk/hmis/wiki/Linen-Management)
 * [Fleet Management](https://github.com/hmislk/hmis/wiki/Fleet-Management)

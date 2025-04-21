@@ -4,13 +4,13 @@
 
 [View User Logins](https://github.com/hmislk/hmis/wiki/View-User-Logins)
 
-To Remove Multiple Users
+[To Remove Multiple Users](https://github.com/hmislk/hmis/wiki/To-Remove-Multiple-Users)
 
-User Roles
+[User Roles](https://github.com/hmislk/hmis/wiki/User-Roles)
 
-Add Privileges To Users By Role
+[Add Privileges To Users By Role](https://github.com/hmislk/hmis/wiki/Add-Privileges-To-Users-By-Role)
 
-View Non-Staff Users
+[View Non-Staff Users](https://github.com/hmislk/hmis/wiki/View-Non%E2%80%90Staff-Users)
 
 [How to Manage Existing Users](https://github.com/hmislk/hmis/wiki/Manage-existing-users)
 
