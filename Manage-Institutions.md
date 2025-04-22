@@ -43,17 +43,17 @@
 
 ### Bulk Transactions
 
-* Credit Company Upload
+* [Credit Company Upload](https://github.com/hmislk/hmis/wiki/Credit-Company-Upload)
 
-* Upload Collecting Centres
+* [Upload Collecting Centres](https://github.com/hmislk/hmis/wiki/Upload-Collecting-Centres)
 
-* Upload Agencies
+* [Upload Agencies](https://github.com/hmislk/hmis/wiki/Upload-Agencies)
 
-* Upload Departments
+* [Upload Departments](https://github.com/hmislk/hmis/wiki/Surgeries-upload)
 
-* Upload Supplier
+* [Upload Supplier](https://github.com/hmislk/hmis/wiki/Upload-Supplier)
 
-* Upload Routes
+* [Upload Routes](https://github.com/hmislk/hmis/wiki/Upload-Routes)
 
 ### Developer
 
