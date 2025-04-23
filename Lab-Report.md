@@ -9,5 +9,5 @@
 > * Machine Count
 > * Machine Count By Bill Type
 > * Machine and Investigation Count By Bill Type
-Lab Investigation Bill List
+* Lab Investigation Bill List
 > * Investigation Bill List
