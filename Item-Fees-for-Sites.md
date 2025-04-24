@@ -1,6 +1,6 @@
 Path:
 
-Administration > Manage Pricing > Fees > Base Item Fees
+Administration > Manage Pricing > Fees > Item Fees for Sites
 
 ![screencapture-qa-carecode-org-qa1-faces-admin-pricing-manage-for-site-item-fees-xhtml-2025-04-24-08_27_21](https://github.com/user-attachments/assets/09961b0f-5415-4c27-a61a-1521dcf8cf7c)
 
