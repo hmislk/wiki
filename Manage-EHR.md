@@ -1,8 +1,8 @@
 ### [Clinical Metadata](https://github.com/hmislk/hmis/wiki/Manage-Clinical-Metadata)
-* Vocabularies
-* Symptoms 
-* Signs
-* Diagnosis
+* [Vocabularies](https://github.com/hmislk/hmis/wiki/Manage-Vocabularies)
+* [Symptoms](https://github.com/hmislk/hmis/wiki/Manage-Symptoms) 
+* [Signs](https://github.com/hmislk/hmis/wiki/Manage-Signs)
+* [Diagnosis](https://github.com/hmislk/hmis/wiki/Manage-Diagnosis)
 * Investigations
 * Procedures
 * Plan of actions
