@@ -8,7 +8,7 @@
 * [Contributing Guidelines](https://github.com/hmislk/hmis/wiki/Contributing-Guidelines)
 * [Code of Conduct](https://github.com/hmislk/hmis/blob/master/CODE_OF_CONDUCT.md)
 * [Change Log](https://github.com/hmislk/hmis/wiki/Change-Log)
-* [Testing Middleware](https://github.com/hmislk/hmis/wiki/Testing-Middleware)
+* [LIMS Analyser Middleware](https://github.com/hmislk/hmis/wiki/LIMS-Analyser-Middleware)
 * [Debugging](https://github.com/hmislk/hmis/wiki/Debugging)
 * [JSF Templating](https://github.com/hmislk/hmis/wiki/JSF-Templating)
 * [Troubleshooting](https://github.com/hmislk/hmis/wiki/Troubleshooting)
