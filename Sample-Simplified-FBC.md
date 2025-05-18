@@ -1,23 +1,45 @@
-<html>
-<body>
-<!--StartFragment--><html><head></head><body><p>Thank you for the screenshot. The issue occurred because of incorrect Markdown table syntax after the first table. Below is the corrected and cleanly formatted <strong>wiki page content</strong> that you can <strong>copy and paste directly into your wiki</strong>.</p>
-<hr>
-<h3><strong>Full Blood Count (FBC)</strong></h3>
-<p>This is a simplified Full Blood Count report generated using an automated haematology analyser. It includes the major parameters related to white cells (WBC), red cells (RBC), and platelets (PLT), along with key red cell indices.</p>
-<hr>
-<h4><strong>White Blood Cells</strong></h4>
+### **Full Blood Count (FBC)**
+This is a simplified Full Blood Count report generated using an automated haematology analyser. It includes the major parameters related to white cells (WBC), red cells (RBC), and platelets (PLT), along with key red cell indices.
 
-Parameter | Result | Units | Reference Range
--- | -- | -- | --
-WBC | 4.80 | 10³/μL | 4.0 – 11.0
-Neu% | 45.6 | % | 40 – 75
-Lym% | 39.6 | % | 20 – 40
-Mon% | 7.6 | % | 3 – 12
-Eos% | 6.2 | % | 0 – 6
-Bas% | 1.0 | % | 0 – 1
+---
 
+#### **White Blood Cells**
 
-<hr>
-<p>Let me know if you want the same in HTML or a downloadable file.</p></body></html><!--EndFragment-->
-</body>
-</html>
+| Parameter | Result | Units | Reference Range |
+|-----------|--------|--------|------------------|
+| WBC       | 4.80   | 10³/μL | 4.0 – 11.0       |
+| Neu%      | 45.6   | %      | 40 – 75          |
+| Lym%      | 39.6   | %      | 20 – 40          |
+| Mon%      | 7.6    | %      | 3 – 12           |
+| Eos%      | 6.2    | %      | 0 – 6            |
+| Bas%      | 1.0    | %      | 0 – 1            |
+
+---
+
+#### **Red Blood Cells**
+
+| Parameter | Result | Units   | Reference Range |
+|-----------|--------|---------|------------------|
+| RBC       | 5.41   | 10⁶/μL  | 4.0 – 4.7        |
+| HGB       | 15.0   | g/dL    | 14.0 – 18.0      |
+| HCT       | 47.4   | %       | 36.0 – 48.0      |
+
+---
+
+#### **RBC Parameters**
+
+| Parameter | Result | Units | Reference Range |
+|-----------|--------|--------|------------------|
+| MCV       | 87.6   | fL     | 80 – 100         |
+| MCH       | 27.8   | pg     | 27.0 – 31.0      |
+| MCHC      | 31.7   | g/dL   | 32.0 – 37.0      |
+| RDW-CV    | 18.8   | %      | 11.0 – 16.0      |
+| RDW-SD    | 67.6   | fL     | 35.0 – 56.0      |
+
+---
+
+#### **Platelets**
+
+| Parameter | Result | Units | Reference Range |
+|-----------|--------|--------|------------------|
+| PLT       | 128    | 10³/μL | 150 – 450        |
