@@ -35,3 +35,7 @@ CREATE TABLE Area (
 
 -- Additional CREATE TABLE statements...
 ```
+
+
+
+[Back](https://github.com/hmislk/hmis/wiki/Installation-Manual)
