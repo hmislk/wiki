@@ -4,14 +4,14 @@ This page explains how to generate and apply the full database schema for the ap
 
 ## Steps to Generate the DDL File
 
-1. Locate the `persistence.xml` file in your project.
+1. Locate the `persistence.xml` file in your project you use for development.
 2. Replace its contents with the configuration from `persistence_for_database_generation_script.xml`.
 3. Adjust the values in that file, especially the location where the DDL file should be generated on your computer.
 4. Run the application once. This will generate the full database schema as a DDL script in the specified file location.
 5. Open the generated DDL file and copy its contents.
-6. In the application, go to **Menu > Administration > Manage Metadata > Add Missing Fields**, paste the copied DDL content into the provided text area, and click the **Update Database** button.
+6. In the application where you want to update the database, go to **Menu > Administration > Manage Metadata > Add Missing Fields**, paste the copied DDL content into the provided text area, and click the **Update Database** button.
+7. The contents of the latest version of the ddl file is given below so that you need not to generate it yourself.
 
-> ⚠️ Note: Fields of type `BigDecimal` are **not** created by this function. You will need to manually review and add them if necessary. All other types such as `VARCHAR`, `INTEGER`, and `LONG` will be handled automatically.
 
 ## Full DDL File Contents
 
