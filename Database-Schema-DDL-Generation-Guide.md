@@ -1,5 +1,3 @@
-# Database Schema DDL Generation Guide
-
 This page explains how to generate and apply the full database schema for the application, including all missing tables and fields. This is especially useful when setting up a fresh instance of the application or restoring a database structure.
 
 ## Steps to Generate the DDL File
