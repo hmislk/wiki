@@ -29,4 +29,4 @@
 
 [Step-by-step guide to approve a PO](https://youtu.be/6aOZvFJVKC8?si=XTiwQUApLQ9H4ZpW)
 
-[Back to Pharmacy](https://github.com/hmislk/hmis/wiki/Pharmacy)
+[Back to Pharmacy](https://github.com/hmislk/hmis/wiki/Pharmacy-Ordering)
