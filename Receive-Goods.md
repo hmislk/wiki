@@ -4,8 +4,8 @@
 * When receiving an Order, no need to enter Items or Quantities again
 * Price Limit check for each item
 * Take GRN Printouts
-* Reprint GRN
-* Cancel GRN
+* [Reprint GRN](https://github.com/hmislk/hmis/wiki/Reprint-GRN)
+* [Cancel GRN](https://github.com/hmislk/hmis/wiki/Cancel-GRN)
 * Print GRN Cancellations
 * Return GRN
 * Print GRN Returns
