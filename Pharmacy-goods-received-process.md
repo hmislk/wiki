@@ -20,6 +20,6 @@ Pharmacy > Procuments > Goods Received
 
 9. Settle and print GRN.
 
-screencapture-qa-carecode-org-coop-test-faces-pharmacy-pharmacy-grn-xhtml-2025-02-18-07_55_51
+![screencapture-qa-carecode-org-coop-test-faces-pharmacy-pharmacy-grn-xhtml-2025-02-18-07_55_51](https://github.com/user-attachments/assets/d26fa2f3-b9a6-4cfd-bd5e-3eff1bd35b91)
 
 [Back](https://github.com/hmislk/hmis/wiki/Receive-Goods)
