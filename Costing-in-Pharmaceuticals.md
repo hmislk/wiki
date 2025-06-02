@@ -1,31 +1,43 @@
-Costing in Pharmaceuticals
+## Availability
+Currently available for direct purchase, with an option "Manage Costing".
 
-Currently available for direct purchase, with an option - "Manage Costing"
+## Costing Scenarios
+### Without Costing
+Base for costing: Purchase Rate
+Stock Value (at Retail Rate or Purchase Rate) ≈ Gross Profit
 
-without costing - Purchase Rate was considered as base for costing
+### With Real Costing
+Factors to Consider:
 
-Stock (at Retail Rate / at Purchase Rate)
-Approximately equal to gross profit
+1. Bonus / Free Items:
 
-When real costing
+> Bonus quantity → Cost is reduced → Retail sale value increases → Profit increases
 
-have to consider - bonus/free
-with bonus > cost reduced / retail sale value increase / profit increse
+2. Line Discount:
 
-have to consider - line discount
-with line discount > cost reduce (no change in retail sale value), > profit increase
+> A discount reduces the cost
 
-line tax - line expense - available on request
-with those > cost increase (no change in retail sale value) > Profile decrease
+> No change in retail sale value → Profit increases
 
-When adding a line
-we record 
+3. Line Tax / Line Expense (available on request):
+
+> Increases cost
+
+> No change in retail sale value → Profit decreases
+
+When adding a line, the following are recorded;
 1. Item
 2. Qty
 3. Fee Qty
+4. Purchase Rate
+5. Discount Rate
+6. Retail Rate
+7. Date of Expiry
+8. Batch No
 
-Line values entered by user or calculated before adding is not changed
-there are bill values distributed to each item
+Line values entered by the user or calculated before adding are not changed.
+
+Bill values are distributed to each item.
 
 
 
