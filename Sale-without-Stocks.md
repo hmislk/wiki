@@ -17,3 +17,4 @@ Select the payment method (Ex: Cash, Card, Credit). Then add a discount scheme i
 
 Here the total, net total and sicount amount will be displayed. You can enter the tendered amount and the balance will be calculated automatically.
 
+[Back](https://github.com/hmislk/hmis/wiki/Pharmacy-Sale)
