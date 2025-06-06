@@ -1,5 +1,5 @@
 * [Introduction](https://github.com/hmislk/hmis/wiki/Pharmacy-Sale-Introduction)
-* Sale
+* [Sale](https://github.com/hmislk/hmis/wiki/Pharmacy-Retail-Sale)
 * [Sale for Cashier](https://github.com/hmislk/hmis/wiki/Sale-for-Cashier)
 * [Sale without Stocks](https://github.com/hmislk/hmis/wiki/Sale-without-Stocks)
 * [Search Sale Bill](https://github.com/hmislk/hmis/wiki/Pharmacy-Sale-Bill-Search)
