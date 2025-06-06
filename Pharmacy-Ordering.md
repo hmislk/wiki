@@ -2,7 +2,7 @@
 * [Create Purchase Orders](https://github.com/hmislk/hmis/wiki/Create-Purchase-Orders)
 * Auto Order (P Model)
 * Auto Order (Q Model)
-* Direct Purchase
+* [Direct Purchase](https://github.com/hmislk/hmis/wiki/Pharmacy-DIrect-Purchase)
 * [Purchase Orders Approval](https://github.com/hmislk/hmis/wiki/Purchase-Orders-Approval)
 * [Goods Receipt](https://github.com/hmislk/hmis/wiki/Goods-Receipt)
 * Return Received Goods
