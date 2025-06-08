@@ -9,3 +9,6 @@
 * [Return Items and Payments](https://github.com/hmislk/hmis/wiki/Pharmacy-%E2%80%90-Return-Items-and-Payments)
 * [Search Return Bill (Item)](https://github.com/hmislk/hmis/wiki/Search-Return-Bill-(Item))
 * [Add To Stock](https://github.com/hmislk/hmis/wiki/Add-To-Stock)
+
+
+[Back](https://github.com/hmislk/hmis/wiki/Pharmacy)
