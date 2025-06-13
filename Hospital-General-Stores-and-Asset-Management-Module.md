@@ -1,5 +1,3 @@
-# Hospital General Stores and Asset Management Module
-
 ## Introduction
 
 The Hospital General Stores and Asset Management module is designed to manage the full lifecycle of non-clinical inventory and physical assets across the hospital. It handles procurement, disbursement, usage, and maintenance of consumables (like gloves or detergents), stationeries, medical sundries, and fixed assets such as furniture and medical equipment. By maintaining accurate stock levels and detailed traceability, it supports efficient hospital operations, accountability, and transparency.
