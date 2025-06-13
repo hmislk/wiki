@@ -140,3 +140,4 @@ This section provides insights into usage patterns, stock movement, consumption,
 * **Audit Trails:** Full history of edits, deletions, and movements for governance.
 
 
+[Back](https://github.com/hmislk/hmis/wiki/Functions)
