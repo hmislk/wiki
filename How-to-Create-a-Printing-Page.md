@@ -15,6 +15,8 @@ Sample
 
 `
 
+
+
 @Named
 @ApplicationScoped
 public class ConfigOptionApplicationController implements Serializable {
@@ -95,6 +97,7 @@ public class ConfigOptionApplicationController implements Serializable {
     }
 
 }
+
 
 
 
