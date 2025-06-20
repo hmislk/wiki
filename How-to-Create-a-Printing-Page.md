@@ -12,6 +12,9 @@ CSS styles are stored as configuration options. THey are loaded at the onset of 
 Sample
 
 
+
+`
+
 @Named
 @ApplicationScoped
 public class ConfigOptionApplicationController implements Serializable {
@@ -92,6 +95,10 @@ public class ConfigOptionApplicationController implements Serializable {
     }
 
 }
+
+
+
+`
 
 
 
