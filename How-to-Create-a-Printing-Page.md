@@ -17,9 +17,9 @@ Sample
 
 
 
-@Named
-@ApplicationScoped
-public class ConfigOptionApplicationController implements Serializable {
+    @Named
+    @ApplicationScoped
+    public class ConfigOptionApplicationController implements Serializable {
 
     @PostConstruct
     public void init() {
@@ -93,10 +93,10 @@ public class ConfigOptionApplicationController implements Serializable {
                 + "    text-align: right;\n"
                 + "    text-decoration: overline;\n"
                 + "}"
-        );
-    }
+            );
+       }
 
-}
+    }
 
 
 
