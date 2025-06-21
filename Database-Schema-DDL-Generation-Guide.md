@@ -10,7 +10,7 @@ This page explains how to generate and apply the full database schema for the ap
 6. In the application where you want to update the database, go to **Menu > Administration > Manage Metadata > Add Missing Fields**, paste the copied DDL content into the provided text area, and click the **Update Database** button.
 7. The contents of the latest version of the ddl file is given below so that you need not to generate it yourself.
 
-## Last Update - 2025.06.13 03:20 AM
+## Last Update - 2025.06.22 02:12 AM
 
 ## Full DDL File Contents
 
@@ -1512,6 +1512,7 @@ CREATE TABLE SEQUENCE (SEQ_NAME VARCHAR(50) NOT NULL, SEQ_COUNT DECIMAL(38), PRI
 INSERT INTO SEQUENCE(SEQ_NAME, SEQ_COUNT) values ('SEQ_GEN', 0)
 CREATE TABLE SEQUENCE (SEQ_NAME VARCHAR(50) NOT NULL, SEQ_COUNT DECIMAL(38), PRIMARY KEY (SEQ_NAME))
 INSERT INTO SEQUENCE(SEQ_NAME, SEQ_COUNT) values ('SEQ_GEN', 0)
+
 
 
 ```
