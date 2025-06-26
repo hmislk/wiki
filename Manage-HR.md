@@ -1,5 +1,5 @@
 ### Manage Components
-* Rosters
+* [Roster](https://github.com/hmislk/hmis/wiki/Roster)
 * Shifts
 * Manage Custom Paysheet Component
 * Manage System Paysheet Component
