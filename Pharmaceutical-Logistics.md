@@ -10,4 +10,6 @@
 
 [Expiring Items](https://github.com/hmislk/hmis/wiki/Managing-Expiring-Items-in-Pharmacy-Inventory)
 
+[Costing in Pharmaceuticals](https://github.com/hmislk/hmis/wiki/Costing-in-Pharmaceuticals)
+
 [Back](https://github.com/hmislk/hmis/wiki/Knowledgebase)

@@ -29,3 +29,5 @@ Here you can add the referring doctor and any comments if necessary.
 Select "Settle bill at Cashire" to finalize the bill
 
 6. Print the bill
+
+[Back](https://github.com/hmislk/hmis/wiki/Pharmacy-Sale)
