@@ -2,6 +2,7 @@
 * Full Description as the name of variables for public and class variables
 * Full Description as the name for local variables where methods expand than a single screen
 * May use short names for local variables if the full span is visible within a single screen
+* [Logging Method Execution Times](https://github.com/hmislk/hmis/wiki/Logging-Method-Execution-Times)
 
 
 Follow all Java Code Conventions
