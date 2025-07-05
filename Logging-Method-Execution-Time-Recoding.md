@@ -1,4 +1,4 @@
-## 🕒 Logging Report Execution Time with Validation in JavaEE (Safe and Async)
+## 🕒 Logging Report Execution Time Recording
 
 ### 📘 Introduction
 
