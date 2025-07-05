@@ -1,4 +1,4 @@
-## 🕒 Logging Report Execution Time Recording
+## 🕒 Logging Method Execution Times
 
 ### 📘 Introduction
 
