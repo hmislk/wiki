@@ -70,3 +70,6 @@ Each user can operate **only one drawer** at any given time.
 
 * Managers can **view drawers of other users** to monitor balances and ensure accountability.
 
+
+[Back](https://github.com/hmislk/hmis/wiki/Financial-Management)
+
