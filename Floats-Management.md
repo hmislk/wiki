@@ -88,3 +88,6 @@ Unlike bill payments, floats are **not tied to any department or patient transac
 | Returning unused float at shift closure | Deducted from drawer automatically |
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki/Financial-Management)
+
