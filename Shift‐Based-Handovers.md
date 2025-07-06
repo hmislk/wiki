@@ -91,7 +91,7 @@ At the end of a shift, a cashier is **required to hand over all funds and transf
 
   * Their own earlier sessions
   * Shifts of other users (if allowed)
-* **Each shift is handed over separately**.
+* **Each shift is handed over as one handover. Multiple handovers per shift is possible.**.
 * Receivers maintain a **queue of pending handovers**, each processed independently.
 
 ---
