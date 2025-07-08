@@ -1,9 +1,8 @@
+[Displaying Configuration Options for Developers at Page Bottom](https://github.com/hmislk/hmis/wiki/Displaying-Configuration-Options-for-Developers-at-Page-Bottom)
+
 Developer Documentation
-
 Vision Statement
-
 Project Charter
-
 Software Requirements Specification (SRS)
 
 Software Project Management Plan (SPMP)
