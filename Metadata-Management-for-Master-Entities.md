@@ -92,7 +92,6 @@ These fields are filled using `SessionController.getLoggedUser()` and `new Date(
 
 ## 💡 Example Entity: `Area`
 
-See: [`[AreaController.java](https://chatgpt.com/g/g-p-67ff1b77e02881918eaa4e29cbb4ac3b-cchmis/src/main/java/com/divudi/bean/common/AreaController.java)`](../src/main/java/com/divudi/bean/common/AreaController.java), [`[Area.java](https://chatgpt.com/g/g-p-67ff1b77e02881918eaa4e29cbb4ac3b-cchmis/src/main/java/com/divudi/core/entity/Area.java)`](../src/main/java/com/divudi/core/entity/Area.java)
 
 ```java
 public void prepareAdd() {
