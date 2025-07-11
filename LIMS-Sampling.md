@@ -6,6 +6,6 @@ For marking the sample collection using the web interface, use the menu Lab > Sa
 
 For marking the sample collection using the standalone application, point the barcode reader to the barcode printed in the bill to print stickers with patient details and barcodes that will be used in analyzer interfacing.
 
-Collection of samples can be done through the laboratory dashboard or sample management. 
+Collection of samples can be done through the [laboratory dashboard](https://github.com/hmislk/hmis/wiki/Laboratory-Dashboard) or [sample management](https://github.com/hmislk/hmis/wiki/Sample-Management). 
 
 [Back to LIMS](https://github.com/hmislk/hmis/wiki/LIMS)
