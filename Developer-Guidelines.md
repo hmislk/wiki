@@ -1,5 +1,7 @@
 [Displaying Configuration Options for Developers at Page Bottom](https://github.com/hmislk/hmis/wiki/Displaying-Configuration-Options-for-Developers-at-Page-Bottom)
 
+[Metadata Management for Master Entities](https://github.com/hmislk/hmis/wiki/Metadata-Management-for-Master-Entities)
+
 Developer Documentation
 Vision Statement
 Project Charter
