@@ -1,5 +1,3 @@
-# BillItemFinanceDetails – Data Structure and Semantics
-
 This document outlines the semantics and usage of each field within the `BillItemFinanceDetails` entity of the CareCode HIMS. This class captures the financial calculations per bill item, covering entered values, computed rates, and allocations from the overall bill.
 
 ## 1. **Units and Packs**
