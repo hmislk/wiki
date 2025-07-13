@@ -1,5 +1,3 @@
-# Code Concepts for Developers
-
 This section documents the foundational data structures and component-level semantics used in CareCode HIMS. It aims to help developers understand how system components interact, how calculations are structured, and what conventions are followed when persisting and processing financial, clinical, and inventory-related data.
 
 > This is intended for backend developers and contributors working on business logic, controllers, financial calculations, and middleware integrations.
