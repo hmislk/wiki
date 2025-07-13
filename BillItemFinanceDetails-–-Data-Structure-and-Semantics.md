@@ -79,6 +79,4 @@ If there are no bill-level values, then:
   * `billDiscount`, `billExpense`, `billTax`
   * And their respective rate fields
 
----
-
-Let me know if you'd like this pushed into a Markdown file or prepared for GitHub Wiki copy-paste directly.
+[Back](https://github.com/hmislk/hmis/wiki/Code-Concepts-for-Developers)
