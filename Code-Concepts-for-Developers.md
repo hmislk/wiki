@@ -17,3 +17,5 @@ This section documents the foundational data structures and component-level sema
 * Inventory Transaction Semantics – Batches, Stocks, and Locations
 
 
+[Back](https://github.com/hmislk/hmis/wiki/Developer-Manual)
+
