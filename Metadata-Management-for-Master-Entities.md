@@ -195,4 +195,4 @@ I can update the full wiki file or render this into a downloadable `.md` or GitH
 * JSF view should be aligned with PrimeFaces behavior and avoid plain JavaScript unless necessary.
 * Use Bootstrap and FontAwesome consistently for layout and iconography.
 
-[Back](https://github.com/hmislk/hmis/wiki/Developer-Guidelines)
+[Back](https://github.com/hmislk/hmis/wiki/Code-Concepts-for-Developers)
