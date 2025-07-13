@@ -127,4 +127,4 @@ At the bottom of the relevant XHTML page:
 * Ensure config visibility does not interfere with page styling or break user flows.
 
 ---
-[Back](https://github.com/hmislk/hmis/wiki/Developer-Manual)
+[Back](https://github.com/hmislk/hmis/wiki/Code-Concepts-for-Developers)
