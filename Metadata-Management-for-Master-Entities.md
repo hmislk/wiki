@@ -1,5 +1,3 @@
-# Metadata Management for Master Entities
-
 This document defines the UI structure, behaviour, and controller logic for CRUD operations in master metadata management within the application, applicable to all domain entities like `AMP`, `VMP`, `AMPP`, `VMPP`, `Services`, `Items`, etc.
 
 ## 🧩 UI Layout
