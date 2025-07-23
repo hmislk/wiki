@@ -8,9 +8,11 @@ Fees
 > * Item Vise Fees List
 > * Item Fees List
 > * Collecting Centre Item Fees List
-> * Upload Item Fees
+
+Upload Item Fees
 > * Upload fee list types
 > * Upload Institution Item Fees
+> * Upload to add Department Fees by Item Code
 > * Upload fee list Item Fees
 > * Upload Collection Centre Price List
 > * Upload Institution Item Fees
