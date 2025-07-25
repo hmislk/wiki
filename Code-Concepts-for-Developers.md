@@ -7,6 +7,7 @@ This section documents the foundational data structures and component-level sema
 * [BillItemFinanceDetails – Data Structure and Semantics](https://github.com/hmislk/hmis/wiki/BillItemFinanceDetails-%E2%80%93-Data-Structure-and-Semantics)
 * [Displaying Configuration Options for Developers at Page Bottom](https://github.com/hmislk/hmis/wiki/Displaying-Configuration-Options-for-Developers-at-Page-Bottom)
 * [Metadata Management for Master Entities](https://github.com/hmislk/hmis/wiki/Metadata-Management-for-Master-Entities)
+* [Using DTOs to Improve Performance](https://github.com/hmislk/hmis/wiki/Using-DTOs-to-Improve-Performance)
 
 ### Upcoming Additions
 
