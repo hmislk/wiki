@@ -38,7 +38,7 @@ Manage Packages
 Manage Discount Schemes
 > * [Discount Schemes](https://github.com/hmislk/hmis/wiki/Discount-Scheme)
 > * [Membership Schemes](https://github.com/hmislk/hmis/wiki/Membership-Schemes)
-> * Allowed Payment Methods
+> * [Allowed Payment Methods](https://github.com/hmislk/hmis/wiki/Allowed-Payment-Methods)
 > * Pharmacy Discounts
 > * Discount by Pharmaceutical Category
 > * OPD Discount by Department
