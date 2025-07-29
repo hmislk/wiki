@@ -40,9 +40,20 @@ Line values entered by the user or calculated before adding are not changed.
 Bill values are distributed to each item.
 
 
+Line has the following - 
+Direct User Inputs
+Purchase Rate, Line Discount Rate, quantity and free quantity (as user entered, may be in pacs or units)
+Later Line expensses and Line taxes will also be included. Currently not available in the UI
+
+Calculate variables for the Line, these have no relation to any bill level value
+Purchase Rate, Purchase Value, Line Discount, 
+
+Calculation of 
 
 
+For a GRN, Bill Net Total Consists of
 
+Line Totals
 
 
 
