@@ -8,6 +8,7 @@ This section documents the foundational data structures and component-level sema
 * [Displaying Configuration Options for Developers at Page Bottom](https://github.com/hmislk/hmis/wiki/Displaying-Configuration-Options-for-Developers-at-Page-Bottom)
 * [Metadata Management for Master Entities](https://github.com/hmislk/hmis/wiki/Metadata-Management-for-Master-Entities)
 * [Using DTOs to Improve Performance](https://github.com/hmislk/hmis/wiki/Using-DTOs-to-Improve-Performance)
+* [Boxing, Unboxing, and Wrapper Classes in JPA DTO Creation](https://github.com/hmislk/hmis/wiki/Boxing,-Unboxing,-and-Wrapper-Classes-in-JPA-DTO-Creation)
 
 ### Upcoming Additions
 
