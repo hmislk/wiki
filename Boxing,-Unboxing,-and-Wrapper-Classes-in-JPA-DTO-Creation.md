@@ -1,5 +1,3 @@
-# Boxing, Unboxing, and Wrapper Classes in JPA DTO Creation
-
 ## Overview
 
 When creating Data Transfer Objects (DTOs) in JPA, it is important to understand the concepts of **boxing**, **unboxing**, and **wrapper classes**. These concepts come into play whenever you are dealing with primitive types (e.g., `int`, `double`) and their corresponding object types (e.g., `Integer`, `Double`). Proper handling ensures type safety, prevents `NullPointerException`s, and improves compatibility with JPA queries.
