@@ -40,8 +40,8 @@ Manage Discount Schemes
 > * [Membership Schemes](https://github.com/hmislk/hmis/wiki/Membership-Schemes)
 > * [Allowed Payment Methods](https://github.com/hmislk/hmis/wiki/Allowed-Payment-Methods)
 > * [Pharmacy Discounts](https://github.com/hmislk/hmis/wiki/Pharmacy-Discounts)
-> * Discount by Pharmaceutical Category
-> * OPD Discount by Department
+> * [Discount by Pharmaceutical Category](https://github.com/hmislk/hmis/wiki/Discount-by-Pharmaceutical-Category)
+> * [OPD Discount by Department](https://github.com/hmislk/hmis/wiki/OPD-Discount-by-Department)
 > * OPD Discount by Site
 > * OPD Discount by Category
 > * OPD Discount by Item
