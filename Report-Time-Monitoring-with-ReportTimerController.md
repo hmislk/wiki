@@ -29,6 +29,7 @@ Encapsulates the logic required to:
 > **}, PharmacyReports.PHARMACY_BIN_CARD, sessionController.getLoggedUser());**
 
 * ### Updated Method with Time Monitoring
+
 `public void processBinCard() {`
         `reportTimerController.trackReportExecution(() -> {`
             `binCardEntries = stockHistoryController.findBinCardDTOs(fromDate, toDate, null, department, item);`
