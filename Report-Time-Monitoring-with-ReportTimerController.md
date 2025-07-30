@@ -111,50 +111,8 @@ public enum PharmacyReports implements IReportType {
     }
 }
 </code></pre>
-<h3>📂 Enum File Selection Guidelines</h3>
-<p>Choose the appropriate enum file based on your report's module:</p>
-
-Module | Enum File | Example Reports
--- | -- | --
-Pharmacy | PharmacyReports.java | Bin Card, Stock Reports
-Finance | FinanceReports.java | Balance Sheet, P&L
-HR | HRReports.java | Payroll, Attendance
-Inventory | InventoryReports.java | Stock Movement
 
 
-<hr>
-<h2>✅ Integration Checklist</h2>
-<ul>
-<li>[ ] Located the report's XHTML file</li>
-<li>[ ] Identified the processing method</li>
-<li>[ ] Wrapped report logic with <code>trackReportExecution()</code></li>
-<li>[ ] Added appropriate enum entry in the correct module file</li>
-<li>[ ] Verified the enum implements <code>IReportType</code></li>
-<li>[ ] Tested report execution and verified logging</li>
-</ul>
-<hr>
-<h2>🔍 Troubleshooting</h2>
-<h3>Common Issues</h3>
-<p><strong>Issue</strong>: Report timing not being logged</p>
-<ul>
-<li><strong>Solution</strong>: Ensure <code>reportTimerController</code> is properly injected in your bean</li>
-</ul>
-<p><strong>Issue</strong>: Enum not found error</p>
-<ul>
-<li><strong>Solution</strong>: Verify the enum is created in the correct module file and properly imported</li>
-</ul>
-<p><strong>Issue</strong>: User information not captured</p>
-<ul>
-<li><strong>Solution</strong>: Confirm <code>sessionController.getLoggedUser()</code> is available in your method scope</li>
-</ul>
-<hr>
-<h2>📊 Benefits</h2>
-<ul>
-<li><strong>Performance Monitoring</strong>: Track slow-running reports</li>
-<li><strong>User Activity Tracking</strong>: Know which users are generating reports</li>
-<li><strong>System Optimization</strong>: Identify bottlenecks in report generation</li>
-<li><strong>Audit Trail</strong>: Complete history of report executions</li>
-<li><strong>Debugging</strong>: Easier troubleshooting of report issues</li>
-</ul></body></html><!--EndFragment-->
+</body></html><!--EndFragment-->
 </body>
 </html>
