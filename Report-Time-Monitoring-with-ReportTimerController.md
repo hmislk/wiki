@@ -29,26 +29,25 @@ Encapsulates the logic required to:
 > **}, PharmacyReports.PHARMACY_BIN_CARD, sessionController.getLoggedUser());**
 
 * ### Updated Method with Time Monitoring
+`public void processBinCard() {`
+        `reportTimerController.trackReportExecution(() -> {`
+            `binCardEntries = stockHistoryController.findBinCardDTOs(fromDate, toDate, null, department, item);`
 
-```public void processBinCard() {```
-        ```reportTimerController.trackReportExecution(() -> {```
-            ```binCardEntries = stockHistoryController.findBinCardDTOs(fromDate, toDate, null, department, item);```
+            `if (configOptionApplicationController.getBooleanValueByKey("Pharmacy Bin Card - Hide Adjustment Bills in Bin Card",true)) {`
+                `List<BillType> bts = new ArrayList<>();`
+                `bts.add(BillType.PharmacyAdjustmentSaleRate);`
 
-            ```if (configOptionApplicationController.getBooleanValueByKey("Pharmacy Bin Card - Hide Adjustment Bills in Bin Card",true)) {```
-                ```List<BillType> bts = new ArrayList<>();```
-                ```bts.add(BillType.PharmacyAdjustmentSaleRate);```
+                `Iterator<PharmacyBinCardDTO> iterator = binCardEntries.iterator();`
+                `while (iterator.hasNext()) {`
+                    `PharmacyBinCardDTO dto = iterator.next();`
+                    `if (dto.getBillType() != null && bts.contains(dto.getBillType())) {`
+                        `iterator.remove();`
+                    `}`
+                `}`
+            `}`
 
-                ```Iterator<PharmacyBinCardDTO> iterator = binCardEntries.iterator();```
-                ```while (iterator.hasNext()) {```
-                    ```PharmacyBinCardDTO dto = iterator.next();```
-                    ```if (dto.getBillType() != null && bts.contains(dto.getBillType())) {```
-                        ```iterator.remove();```
-                    ```}```
-                ```}```
-            ```}```
-
-        ```}, PharmacyReports.PHARMACY_BIN_CARD, sessionController.getLoggedUser());```
-    ```}```
+        `}, PharmacyReports.PHARMACY_BIN_CARD, sessionController.getLoggedUser());`
+    `}`
 
 *###  Specify the appropriate PharmacyReports enum type as the second argument.
 To enable identification of report types, ensure your report type is declared in the PharmacyReports enum (or your respective module enum).
