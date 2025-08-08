@@ -1,4 +1,4 @@
-# Pharmacy Disposal Issue Configuration
+# Pharmacy Issue Configuration
 
 This guide explains how administrators can configure the Pharmacy Issue module to control rate displays and system behavior.
 

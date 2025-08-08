@@ -1,4 +1,4 @@
-# Pharmacy Disposal Issue
+# Pharmacy Issue (Disposal)
 
 The Pharmacy Issue module allows pharmacists to dispense medications and items for disposal or transfer between departments with configurable rate displays and comprehensive financial tracking.
 
