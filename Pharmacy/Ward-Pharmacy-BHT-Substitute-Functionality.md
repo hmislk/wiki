@@ -1,5 +1,3 @@
-# Ward Pharmacy BHT Substitute Functionality
-
 ## Overview
 
 The Ward Pharmacy BHT Issue system allows pharmacy staff to substitute requested medications with available alternatives when the original items are out of stock. This guide explains how to use the substitute functionality effectively.
