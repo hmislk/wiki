@@ -219,3 +219,5 @@ phi:saleBill_for_Cashier,
 phi:saleBill_five_five_for_Cashier,
 phi:saleBill_Header,
 phi:sale_bill_five_five_custom_3
+
+[Back](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
