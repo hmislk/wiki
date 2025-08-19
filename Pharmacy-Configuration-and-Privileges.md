@@ -1,223 +1,191 @@
-Pharmacy Configuration and Privileges
+# Pharmacy Configuration and Privileges
 
-Pharmacy Page Details
-/inward/pharmacy_bill_issue_bht.xhtml
-Navigation Path: Menu ▸ Pharmacy ▸ Inpatient Medication Management ▸ Direct Issue to BHTs
+This section describes the configuration options and privileges required for managing pharmacy-related pages. It is intended for **System Administrators**.
 
-Configuration Options Used:
+---
 
-Display Total Stock when listing medicines for Inpatients
+## Inpatient Medication Management
 
-Medicine Identification Codes Used
+### Direct Issue to BHTs
 
-Nursing IP Billing – Show Rate and Value
+**Page:** `/inward/pharmacy_bill_issue_bht.xhtml`
+**Navigation:** Menu ▸ Pharmacy ▸ Inpatient Medication Management ▸ Direct Issue to BHTs
 
-Pharmacy Bill Support for Native Printers
+**Configuration Options:**
 
-Pharmacy Inward Direct Issue Bill is FiveFiveCustom3
+* Display Total Stock when listing medicines for Inpatients
+* Medicine Identification Codes Used
+* Nursing IP Billing – Show Rate and Value
+* Pharmacy Bill Support for Native Printers
+* Pharmacy Inward Direct Issue Bill is FiveFiveCustom3
+* Pharmacy Inward Direct Issue Bill is PosHeaderPaper
 
-Pharmacy Inward Direct Issue Bill is PosHeaderPaper
+**Privileges Required:**
 
-Privileges Required:
+* PharmacyDirectIssueToBht
+* NursingIPBillingViewRates
 
-PharmacyDirectIssueToBht (menu)
+---
 
-NursingIPBillingViewRates (rate display)
+### Reprint Inpatient Direct Issues
 
-Composite Components:
-bill:bhtDetail,
-phe:issueBill,
-phi:saleBill_five_five_1,
-phe:A4_paper_with_headings,
-phi:inward_direct_issue_bill_five_five_custom_3,
-phi:saleBill_Header_Inward
+**Page:** `/inward/pharmacy_reprint_bill_sale_bht.xhtml`
+**Navigation:** Menu ▸ Pharmacy ▸ Inpatient Medication Management ▸ Search Inpatient Direct Issues by Item ▸ Reprint
 
-/inward/pharmacy_reprint_bill_sale_bht.xhtml
-Navigation Path: Menu ▸ Pharmacy ▸ Inpatient Medication Management ▸ Search Inpatient Direct Issues by Item ▸ Reprint
+**Configuration Options:**
 
-Configuration Options Used:
+* Nursing IP Billing – Show Rate and Value
+* Pharmacy Inward Direct Issue Bill is FiveFiveCustom3
+* Pharmacy Inward Direct Issue Bill is PosHeaderPaper
 
-Nursing IP Billing – Show Rate and Value
+**Privileges Required:**
 
-Pharmacy Inward Direct Issue Bill is FiveFiveCustom3
+* InwardCheck / InwardUnCheck
+* ShowInwardFee
+* NursingIPBillingViewRates
 
-Pharmacy Inward Direct Issue Bill is PosHeaderPaper
+---
 
-Privileges Required:
+## Disposal
 
-InwardCheck / InwardUnCheck (controls)
+### Issue
 
-ShowInwardFee (view bill items)
+**Page:** `/pharmacy/pharmacy_issue.xhtml`
+**Navigation:** Menu ▸ Pharmacy ▸ Disposal ▸ Issue
 
-NursingIPBillingViewRates (rate display)
+**Configuration Options:**
 
-Composite Components:
-ph:issueBill,
-phi:saleBill_five_five,
-phi:inward_direct_issue_bill_five_five_custom_3,
-phi:saleBill_Header_Inward
+* Consumption – Show Rate and Value
 
-/pharmacy/pharmacy_issue.xhtml
-Navigation Path: Menu ▸ Pharmacy ▸ Disposal ▸ Issue
+**Privileges Required:**
 
-Configuration Options Used: Consumption – Show Rate and Value
+* PharmacyDisposalIssue
+* ConsumptionViewRates
+* ChangeReceiptPrintingPaperTypes
 
-Privileges Required:
+---
 
-PharmacyDisposalIssue (menu)
+## Disbursement
 
-ConsumptionViewRates (rate display)
+### Request
 
-ChangeReceiptPrintingPaperTypes (paper selection)
+**Page:** `/pharmacy/pharmacy_transfer_request.xhtml`
+**Navigation:** Menu ▸ Pharmacy ▸ Disbursement ▸ Request
 
-Composite Components:
-ph:history,
-ph:pharmacy_issue_receipt
+**Configuration Options:**
 
-/pharmacy/pharmacy_transfer_request.xhtml
-Navigation Path: Menu ▸ Pharmacy ▸ Disbursement ▸ Request
+* Stock Request – Show Rate and Value
 
-Configuration Options Used: Stock Request – Show Rate and Value
+**Privileges Required:**
 
-Privileges Required:
+* PharmacyDisbursementRequest
+* StockRequestViewRates
+* Developers
 
-PharmacyDisbursementRequest (menu)
+---
 
-StockRequestViewRates (rate display)
+### Direct Issue
 
-Developers (show all bill formats)
+**Page:** `/pharmacy/pharmacy_transfer_issue.xhtml`
+**Navigation:** Menu ▸ Pharmacy ▸ Disbursement ▸ Direct Issue
 
-Composite Components:
-ph:history,
-ph:pharmacy_transfer_request_receipt
+**Configuration Options:**
 
-/pharmacy/pharmacy_transfer_issue.xhtml
-Navigation Path: Menu ▸ Pharmacy ▸ Disbursement ▸ Direct Issue
+* Stock Transaction – Show Rate and Value
+* Pharmacy Transfer Issue Bill is POS Paper with details
+* Pharmacy Transfer Issue Bill is POS Paper with header
+* Pharmacy Transfer Issue Bill is Template
 
-Configuration Options Used:
+**Privileges Required:**
 
-Stock Transaction – Show Rate and Value
+* PharmacyDisbursementDirectIssue
+* StockTransactionViewRates
+* Developers
 
-Pharmacy Transfer Issue Bill is POS Paper with details
+---
 
-Pharmacy Transfer Issue Bill is POS Paper with header
+### Issued List
 
-Pharmacy Transfer Issue Bill is Template
+**Page:** `/pharmacy/pharmacy_transfer_issued_list.xhtml`
+**Navigation:** Menu ▸ Pharmacy ▸ Disbursement ▸ Receive
 
-Privileges Required:
+**Configuration Options:**
 
-PharmacyDisbursementDirectIssue (menu)
+* (none)
 
-StockTransactionViewRates (rate display)
+**Privileges Required:**
 
-Developers (show all bill formats)
+* PharmacyDisbursementRecieve
 
-Composite Components:
-ph:history,
-ph:transferIssue,
-ph:transferIssue_detailed,
-ph:saleBill_Header_Transfer,
-ph:pharmacy_transfer_issue_receipt
+---
 
-/pharmacy/pharmacy_transfer_issued_list.xhtml
-Navigation Path: Menu ▸ Pharmacy ▸ Disbursement ▸ Receive
+### Receive from List
 
-Configuration Options Used: (none observed)
+**Page:** `/pharmacy/pharmacy_transfer_receive.xhtml`
+**Navigation:** Menu ▸ Pharmacy ▸ Disbursement ▸ Receive ▸ Receive (from list)
 
-Privileges Required: PharmacyDisbursementRecieve (menu)
+**Configuration Options:**
 
-Composite Components: (none used)
+* Report Font Size of Item List in Pharmacy Disbursement Reports
+* Pharmacy Transfer Receive Bill is Template
 
-/pharmacy/pharmacy_transfer_receive.xhtml
-Navigation Path: Menu ▸ Pharmacy ▸ Disbursement ▸ Receive ▸ Receive (from list)
+**Privileges Required:**
 
-Configuration Options Used:
+* PharmacyTransferViewRates
+* ChangeReceiptPrintingPaperTypes
+* Developers
 
-Report Font Size of Item List in Pharmacy Disbursement Reports
+---
 
-Pharmacy Transfer Receive Bill is Template
+## Retail Transactions
 
-Privileges Required:
+### Sale by Batch
 
-PharmacyTransferViewRates
+**Page:** `/pharmacy/pharmacy_bill_retail_sale.xhtml`
+**Navigation:** Menu ▸ Pharmacy ▸ Retail Transactions ▸ Sale by Batch
 
-ChangeReceiptPrintingPaperTypes
+**Configuration Options:**
 
-Developers (debug options)
+* Find Last Sale Rate of Medicines in Retail Sale
+* Display Total Stock when listing medicines for Retail Sale
+* Medicine Identification Codes Used
+* Enable label printing for pharmacy medicines
+* Pharmacy Bill Support for Native Printers
+* Pharmacy Retail Sale Bill formats: PosPaper / PosPaper with items / PosPaper (prabodha) / FiveFivePaper / PosHeaderPaper / FiveFiveCustom3
 
-Composite Components:
-ph:history,
-ph:transferReceive,
-ph:transfeRecieve_detailed,
-ph:pharmacy_transfer_receive_receipt
+**Privileges Required:**
 
-/pharmacy/pharmacy_bill_retail_sale.xhtml
-Navigation Path: Menu ▸ Pharmacy ▸ Retail Transactions ▸ Sale by Batch
+* PharmacySale
+* ChangeReceiptPrintingPaperTypes
 
-Configuration Options Used:
+---
 
-Find Last Sale Rate of Medicines in Retail Sale
+### Sale for Cashier
 
-Display Total Stock when listing medicines for Retail Sale
+**Page:** `/pharmacy/pharmacy_bill_retail_sale_for_cashier.xhtml`
+**Navigation:**
 
-Medicine Identification Codes Used
+* Menu ▸ Pharmacy ▸ Retail Transactions ▸ Sale for cashier
+* Menu ▸ Opd Issue ▸ Opd Issue For Cashier
 
-Enable label printing for pharmacy medicines
+**Configuration Options:**
 
-Pharmacy Bill Support for Native Printers
+* Create Token At Pharmacy Sale For Cashier
+* Allow Tendered Amount for pharmacy sale for cashier
+* Pharmacy Bill Support for Native Printers
+* Enable token system in sale for cashier
+* Pharmacy Sale for Cashier Token Bill is Pos paper
+* Pharmacy Sale for Cashier Bill is Pos paper
+* Pharmacy Retail Sale Bill is PosHeaderPaper
+* Pharmacy Sale for cashier Bill is FiveFiveCustom3
 
-Pharmacy Retail Sale Bill formats (PosPaper, PosPaper with items, PosPaper(prabodha), FiveFivePaper, PosHeaderPaper, FiveFiveCustom3)
+**Privileges Required:**
 
-Privileges Required:
+* PharmacySaleForCashier
+* ChangeReceiptPrintingPaperTypes
+* PharmacySale
 
-PharmacySale (menu)
+---
 
-ChangeReceiptPrintingPaperTypes
+[[← Back to Pharmacy Administration](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
 
-Composite Components:
-phi:pharmacy_instruction_label,
-pa:creditCard / patient_deposit / ewallet / cheque / slip / multiple_payment_methods,
-phi:saleBill_without_item / saleBill / saleBill_prabodha / saleBill_five_five / saleBill_Header / sale_bill_five_five_custom_3
-
-/pharmacy/pharmacy_bill_retail_sale_for_cashier.xhtml
-Navigation Paths:
-
-Menu ▸ Pharmacy ▸ Retail Transactions ▸ Sale for cashier
-
-Menu ▸ Opd Issue ▸ Opd Issue For Cashier
-
-Configuration Options Used:
-
-Create Token At Pharmacy Sale For Cashier
-
-Allow Tendered Amount for pharmacy sale for cashier
-
-Pharmacy Bill Support for Native Printers
-
-Enable token system in sale for cashier
-
-Pharmacy Sale for Cashier Token Bill is Pos paper
-
-Pharmacy Sale for Cashier Bill is Pos paper
-
-Pharmacy Retail Sale Bill is PosHeaderPaper
-
-Pharmacy Sale for cashier Bill is FiveFiveCustom3
-
-Privileges Required:
-
-PharmacySaleForCashier (menu)
-
-ChangeReceiptPrintingPaperTypes
-
-PharmacySale (switching sale modes)
-
-Composite Components:
-phi:saleBill_five_five_token,
-phi:saleBillToken,
-phi:saleBill_for_Cashier,
-phi:saleBill_five_five_for_Cashier,
-phi:saleBill_Header,
-phi:sale_bill_five_five_custom_3
-
-[Back](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
