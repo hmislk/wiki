@@ -148,6 +148,13 @@ Shows detailed line items for the selected item:
 
 ## Configuration Options (Admin)
 
+### Report Visibility Control
+**Configuration Key:** `Pharmacy Analytics - Show Item-wise Procurement`
+- **Default Value:** `true` (enabled)
+- **Purpose:** Controls whether the "Item-wise Procurement" button appears in Pharmacy Analytics
+- **Location:** System Administration → Configuration Options
+- **Impact:** When disabled, users cannot access this report from the navigation menu
+
 ### Report Access Control
 - User permissions control who can access this report
 - Department restrictions may limit visible data
@@ -157,6 +164,15 @@ Shows detailed line items for the selected item:
 - Results limited to user's authorized institutions
 - Date ranges may have system-imposed limits
 - Export capabilities depend on user permissions
+
+### Admin Setup Instructions
+1. **Navigate to:** System Administration → Configuration Options
+2. **Find:** "Pharmacy Analytics - Show Item-wise Procurement"
+3. **Set Value:** 
+   - `true` = Show button (default)
+   - `false` = Hide button
+4. **Save Configuration**
+5. **Restart Application** (if required by your deployment)
 
 ## FAQ
 
