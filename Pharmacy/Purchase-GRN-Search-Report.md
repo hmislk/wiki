@@ -1,5 +1,3 @@
-# Purchase/GRN Search Report
-
 ## Overview
 
 The Purchase/GRN Search Report allows pharmacy staff to search and view procurement records (purchases, Good Receive Notes, and donations) based on various criteria. This report provides two different views: bill-level summaries and detailed item-level information.
@@ -104,19 +102,16 @@ Shows detailed line items for the selected item:
 ### Effective Searching
 1. **Start with broader criteria** then narrow down
 2. **Use date ranges wisely** - shorter periods load faster
-3. **Select items carefully** - search is case-sensitive
-4. **Choose appropriate view** - Bills for summaries, Items for details
+3. **Select items** - search is case-insensitive
+4. **Choose appropriate view** - Bills for bill level summaries, Bill Items for bill item details
 
 ### Item Selection Tips
-- **Type partial name** in Item field and select from dropdown
-- **Use generic names** (e.g., "Paracetamol" instead of brand names)
-- **Check spelling** - items must match exactly
-- **Try different forms** if not found (tablet vs injection)
+- **Type partial name** in Item field and select from autocomplete
+- **Can Use items like VTM, ATM, VMP, AMP, VMPP or AMPP
 
 ### Performance Tips
 - **Use shorter date ranges** for faster searches
 - **Filter by institution/department** when possible
-- **Export large datasets** rather than viewing on screen
 - **Close report when done** to free system resources
 
 ## Troubleshooting
@@ -142,7 +137,7 @@ Shows detailed line items for the selected item:
 
 ### Navigation Problems
 1. **Use "View" buttons** to see individual bills
-2. **Use browser back button** to return to search
+2. **Can Use browser back button** to return to search
 3. **Refresh page** if buttons not responding
 4. **Clear browser cache** if navigation fails
 
@@ -186,7 +181,7 @@ A: "By Bills" shows complete bills that contain your item with bill totals. "By 
 A: No, item selection is mandatory for this report. Use other procurement reports for general bill searches.
 
 **Q: Why do I see different totals between the two views?**
-A: "By Bills" shows complete bill totals including all items. "By Bill Items" shows only quantities for your selected item.
+A: "By Bills" shows complete bill totals including all items. "By Bill Items" shows only quantities and values for your selected item.
 
 **Q: Can I search for multiple items at once?**
 A: No, select one item per search. Run multiple searches for different items if needed.
