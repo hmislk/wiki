@@ -14,5 +14,8 @@
 
 * [Hospital General Stores and Asset Management](https://github.com/hmislk/hmis/wiki/Hospital-General-Stores-and-Asset-Management-Module)
 
+* [Financial Management](https://github.com/hmislk/hmis/wiki/Financial-Management)
+
+
 [Back](https://github.com/hmislk/hmis/wiki)
 

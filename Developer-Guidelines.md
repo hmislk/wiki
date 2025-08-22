@@ -1,9 +1,6 @@
 Developer Documentation
-
 Vision Statement
-
 Project Charter
-
 Software Requirements Specification (SRS)
 
 Software Project Management Plan (SPMP)
@@ -39,4 +36,6 @@ Test Case Specification
 
 System Documentation
 
+
+[Back](https://github.com/hmislk/hmis/wiki/Developer-Manual)
 

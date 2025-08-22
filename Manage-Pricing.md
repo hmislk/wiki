@@ -8,9 +8,11 @@ Fees
 > * Item Vise Fees List
 > * Item Fees List
 > * Collecting Centre Item Fees List
-> * Upload Item Fees
+
+Upload Item Fees
 > * Upload fee list types
 > * Upload Institution Item Fees
+> * [Upload to add Department Fees by Item Code](https://github.com/hmislk/hmis/wiki/Upload-to-add-Department-Fees-by-Item-Code)
 > * Upload fee list Item Fees
 > * Upload Collection Centre Price List
 > * Upload Institution Item Fees
@@ -36,10 +38,10 @@ Manage Packages
 Manage Discount Schemes
 > * [Discount Schemes](https://github.com/hmislk/hmis/wiki/Discount-Scheme)
 > * [Membership Schemes](https://github.com/hmislk/hmis/wiki/Membership-Schemes)
-> * Allowed Payment Methods
-> * Pharmacy Discounts
-> * Discount by Pharmaceutical Category
-> * OPD Discount by Department
+> * [Allowed Payment Methods](https://github.com/hmislk/hmis/wiki/Allowed-Payment-Methods)
+> * [Pharmacy Discounts](https://github.com/hmislk/hmis/wiki/Pharmacy-Discounts)
+> * [Discount by Pharmaceutical Category](https://github.com/hmislk/hmis/wiki/Discount-by-Pharmaceutical-Category)
+> * [OPD Discount by Department](https://github.com/hmislk/hmis/wiki/OPD-Discount-by-Department)
 > * OPD Discount by Site
 > * OPD Discount by Category
 > * OPD Discount by Item

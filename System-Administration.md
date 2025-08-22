@@ -1,6 +1,7 @@
 This page will help a system administrator to conduct all the administrative work related to the HIMS.
 
 * [User Management](https://github.com/hmislk/hmis/wiki/User-Management)
+* [Password Reuse Prevention](https://github.com/hmislk/hmis/wiki/Password-Reuse-Prevention)
 * [Manage Institutions](https://github.com/hmislk/hmis/wiki/Manage-Institutions)
 * [Manage Staff](https://github.com/hmislk/hmis/wiki/Manage-Staff)
 * [Manage HR](https://github.com/hmislk/hmis/wiki/Manage-HR)
@@ -14,6 +15,7 @@ This page will help a system administrator to conduct all the administrative wor
 * [Membership Administration](https://github.com/hmislk/hmis/wiki/Membership-Administration)
 * [Manage Data, Workflows and Templates](https://github.com/hmislk/hmis/wiki/Manage-Data,-Workflows-and-Templates)
 * [Manage Services](https://github.com/hmislk/hmis/wiki/Manage-Services)
+* [Manage Metadata](https://github.com/hmislk/hmis/wiki/Manage-Metadata)
 
 
 

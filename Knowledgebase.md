@@ -10,7 +10,7 @@
 * [Pharmaceutical Logistics](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Logistics)
 * [Inpatient Management](https://github.com/hmislk/hmis/wiki/Inpatient-Management)
 * [LIMS Knowledgebase](https://github.com/hmislk/hmis/wiki/LIMS-Knowledgebase)
-* [Institutions, Departments, Sites](https://github.com/hmislk/hmis/wiki/Institutions,-Departments-and-Sites)
+* [Organisational Structure](https://github.com/hmislk/hmis/wiki/Organisational-Structure)
 * [ASTM protocol](https://github.com/hmislk/hmis/wiki/ASTM-Protocol-(ASTM-E1394-ASTM-E1381))
 * [Health Level Seven(HL7)](https://github.com/hmislk/hmis/wiki/Health-Level-Seven(HL7))
 * [FHIR R4](https://github.com/hmislk/hmis/wiki/FHIR-R4)

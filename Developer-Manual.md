@@ -4,6 +4,7 @@
 * [Code Conventions](https://github.com/hmislk/hmis/wiki/Code-Conventions)
 * [Starters Guide](https://github.com/hmislk/hmis/wiki/Starters-Guide)
 * [Developer Guidelines](https://github.com/hmislk/hmis/wiki/Developer-Guidelines)
+* [Code Concepts for Developers](https://github.com/hmislk/hmis/wiki/Code-Concepts-for-Developers)
 * [Design Documentation](https://github.com/hmislk/hmis/wiki/Design-Documentation)
 * [Contributing Guidelines](https://github.com/hmislk/hmis/wiki/Contributing-Guidelines)
 * [Code of Conduct](https://github.com/hmislk/hmis/blob/master/CODE_OF_CONDUCT.md)
@@ -17,5 +18,7 @@
 * [Controllers](https://github.com/hmislk/hmis/wiki/Controllers)
 * [Training-Schedule](https://github.com/hmislk/hmis/wiki/26%E2%80%90Week-Training-Schedule-for-Software-Trainee-Engineers)
 * [How to create a printing page](https://github.com/hmislk/hmis/wiki/How-to-Create-a-Printing-Page)
+* [Displaying Configuration Options for Developers at Page Bottom](https://github.com/hmislk/hmis/wiki/Displaying-Configuration-Options-for-Developers-at-Page-Bottom)
+
 
 [Back](https://github.com/hmislk/hmis/wiki)
