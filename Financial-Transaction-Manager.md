@@ -1,5 +1,5 @@
 * Shift Management
-> * Start Shift
+> * [Start Shift](https://github.com/hmislk/hmis/wiki/Start-Shift)
 
 > * End Shift
 
