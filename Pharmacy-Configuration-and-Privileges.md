@@ -48,7 +48,7 @@ This section describes the configuration options and privileges required for man
 
 ## Disposal
 
-### Issue
+### [Issue](Pharmacy-Disposal-Issue-Configuration)
 
 **Page:** `/pharmacy/pharmacy_issue.xhtml`
 **Navigation:** Menu ▸ Pharmacy ▸ Disposal ▸ Issue
