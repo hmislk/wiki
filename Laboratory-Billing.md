@@ -4,3 +4,5 @@
 * [Inpatient Billing](https://github.com/hmislk/hmis/wiki/Inpatient-Billing-In-Lab)
 
 [Back ](https://github.com/hmislk/hmis/wiki/LIMS)
+
+[Back](https://github.com/hmislk/hmis/wiki)

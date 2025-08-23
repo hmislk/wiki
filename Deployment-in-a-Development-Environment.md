@@ -55,3 +55,5 @@ Download a database like [MySQL](https://dev.mysql.com/downloads/mysql/) or [Mar
 
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

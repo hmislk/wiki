@@ -12,3 +12,5 @@
 * Doctor Payments
 > * Doctor Payment Due Report OPD
 > * By Department
+
+[Back](https://github.com/hmislk/hmis/wiki)

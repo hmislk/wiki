@@ -13,3 +13,5 @@ This is considered a systematic way to classify drug products and medical suppli
 
 
 [Back to Pharmaceutical Fundamentals](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Fundamentals)
+
+[Back](https://github.com/hmislk/hmis/wiki)

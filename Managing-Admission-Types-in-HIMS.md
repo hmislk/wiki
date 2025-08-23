@@ -40,3 +40,5 @@ To manage admission types, users can navigate through the system as follows:
 [Video](https://youtu.be/PVmezmrXOHo)
 
 [Back to Configuration](https://github.com/hmislk/hmis/wiki/Inpatient-Configuration)
+
+[Back](https://github.com/hmislk/hmis/wiki)

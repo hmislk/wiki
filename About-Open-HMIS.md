@@ -119,3 +119,5 @@ Our contributors and Open Source Community for their knowledge and time. Healthc
 
 ## License
 MIT License details are attached as the [LICENSE.md](https://github.com/hmislk/hmis/blob/master/LICENSE.md)
+
+[Back](https://github.com/hmislk/hmis/wiki)

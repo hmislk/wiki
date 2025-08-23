@@ -45,3 +45,5 @@ While the initial transition focuses on mini-services, the roadmap includes:
 Transitioning from a monolithic to a mini-services architecture is a strategic move that balances ease of transition and long-term scalability. This approach allows CareCode HIMS to modernize its infrastructure while maintaining system stability and reducing complexity. Future iterations may explore a full microservices implementation based on evolving requirements.
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

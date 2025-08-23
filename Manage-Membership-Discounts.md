@@ -10,3 +10,5 @@
 
 ## Manage for Inpatients
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

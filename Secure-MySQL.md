@@ -13,3 +13,5 @@ You will get the MySQL command prompt. Create a new user and grant all privilege
 `CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';`
 
 `GRANT ALL PRIVILEGES ON *.* TO 'newuser'@'localhost';`
+
+[Back](https://github.com/hmislk/hmis/wiki)

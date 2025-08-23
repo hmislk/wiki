@@ -18,3 +18,5 @@ Example
 
 While you are editing in nano, use Ctrl+O to save the changes. User Ctrl+X to exit.
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

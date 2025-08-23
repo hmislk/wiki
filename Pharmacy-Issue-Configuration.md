@@ -242,3 +242,5 @@ WHERE config_key IN (
 - [System Administration](https://github.com/hmislk/hmis/wiki/System-Administration)
 
 [Back to Pharmacy](https://github.com/hmislk/hmis/wiki/Pharmacy)
+
+[Back](https://github.com/hmislk/hmis/wiki)

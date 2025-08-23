@@ -66,3 +66,5 @@ Ensure your message parser and builder in `ResponseHandler` and `LISCommunicator
 * **Query samples at rack positions**
 * **Send individual result**
 * **Handle batch and legacy modes** (not recommended for new systems)
+
+[Back](https://github.com/hmislk/hmis/wiki)

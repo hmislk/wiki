@@ -11,3 +11,5 @@
 > * Machine and Investigation Count By Bill Type
 * Lab Investigation Bill List
 > * Investigation Bill List
+
+[Back](https://github.com/hmislk/hmis/wiki)

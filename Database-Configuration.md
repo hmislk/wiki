@@ -58,3 +58,5 @@ Restart mySQL service as below.
 
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

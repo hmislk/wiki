@@ -61,3 +61,5 @@ Features:
 ### 7. Conclusion  
 Moving from a monolithic application to mini-services or microservices will enhance flexibility, reliability, and performance. However, it requires careful planning, phased migration, and the right technical infrastructure to ensure long-term success.  
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

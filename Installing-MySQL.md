@@ -15,3 +15,5 @@ You need to create user accounts and then run the following command and follow i
 
 `sudo mysql_secure_installation`
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

@@ -273,3 +273,5 @@ DTOs are essential for high-performance data display in HMIS. When implemented c
 ---
 
 *This guide is part of the HMIS Developer Manual. For more information, see [Code Concepts for Developers](https://github.com/hmislk/hmis/wiki/Code-Concepts-for-Developers).*
+
+[Back](https://github.com/hmislk/hmis/wiki)

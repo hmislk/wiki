@@ -53,3 +53,5 @@ For XHTML, ensure your document is well-formed and served with the correct MIME 
 Choose HTML for simplicity and robustness across environments.
 
 Use XHTML if you need strict XML compliance, especially in XML-heavy applications.
+
+[Back](https://github.com/hmislk/hmis/wiki)

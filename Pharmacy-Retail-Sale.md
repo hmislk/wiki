@@ -26,3 +26,5 @@ Select "Settle" to finalise the bill
 
 **7. Print the bill**
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

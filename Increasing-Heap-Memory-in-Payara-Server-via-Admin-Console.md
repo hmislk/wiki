@@ -34,3 +34,5 @@ Please note: Adjusting heap memory settings can impact the performance and stabi
 [Back to Troubleshooting](https://github.com/hmislk/hmis/wiki/Troubleshooting)
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

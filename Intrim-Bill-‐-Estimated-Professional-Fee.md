@@ -20,3 +20,5 @@ In the section "Discharge" you can discharge a patient or cancel the discharge. 
 You can select "Recalculate" to calculate the charges that will be displayed under the section "Charges"
 
 [Back ](https://github.com/hmislk/hmis/wiki/Inward/_edit)
+
+[Back](https://github.com/hmislk/hmis/wiki)

@@ -5,3 +5,5 @@ Configuration
 
 
 [Back to Inpatient Module](https://github.com/hmislk/hmis/wiki/Inward)
+
+[Back](https://github.com/hmislk/hmis/wiki)

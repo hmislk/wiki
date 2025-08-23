@@ -27,3 +27,5 @@ Then you will arrive at home page.
 
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
+
+[Back](https://github.com/hmislk/hmis/wiki)

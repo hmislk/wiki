@@ -116,3 +116,5 @@ public enum PharmacyReports implements IReportType {
 </body></html><!--EndFragment-->
 </body>
 </html>
+
+[Back](https://github.com/hmislk/hmis/wiki)

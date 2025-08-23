@@ -9,3 +9,5 @@
 
 
 [Back to Pharmacy](https://github.com/hmislk/hmis/wiki/Pharmacy)
+
+[Back](https://github.com/hmislk/hmis/wiki)

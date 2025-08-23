@@ -35,3 +35,5 @@ There will be separate places available to enter data related to that specific r
 
 
 [Back to LIMS](https://github.com/hmislk/hmis/wiki/LIMS)
+
+[Back](https://github.com/hmislk/hmis/wiki)

@@ -9,3 +9,5 @@ For marking the sample collection using the standalone application, point the ba
 Collection of samples can be done through the [laboratory dashboard](https://github.com/hmislk/hmis/wiki/Laboratory-Dashboard) or [sample management](https://github.com/hmislk/hmis/wiki/Sample-Management). 
 
 [Back to LIMS](https://github.com/hmislk/hmis/wiki/LIMS)
+
+[Back](https://github.com/hmislk/hmis/wiki)

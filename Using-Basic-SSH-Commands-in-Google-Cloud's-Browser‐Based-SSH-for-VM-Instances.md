@@ -44,3 +44,5 @@ Before you begin, make sure you have:
 
 ## Conclusion
 Using these basic SSH commands in the browser-based SSH terminal for your VM instance allows you to perform various system administration tasks and manage your virtual machine effectively.
+
+[Back](https://github.com/hmislk/hmis/wiki)

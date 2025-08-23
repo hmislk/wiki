@@ -45,3 +45,5 @@ The Kitchen Management module is an essential part of CareCode’s HIS, tailored
 
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
+
+[Back](https://github.com/hmislk/hmis/wiki)

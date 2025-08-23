@@ -33,3 +33,5 @@ Ensure that you have a development environment set up for web application develo
 
 This basic setup outlines how to create a JSF client application that interacts with a server-side JSF application. You can extend and customize this structure based on your specific project requirements and the complexity of your JSF application.
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

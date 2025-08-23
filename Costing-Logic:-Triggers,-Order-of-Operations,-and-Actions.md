@@ -173,3 +173,5 @@ Inputs: `billDiscount`, `billTax`, `billExpensesIncluded`, `billExpensesExcluded
 Each function must be a pure function of persisted inputs; no hidden state. Calling the whole pipeline twice must yield identical numbers.
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

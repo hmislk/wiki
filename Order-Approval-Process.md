@@ -111,3 +111,5 @@ After the products are delivered, there may be a follow-up to ensure customer sa
 
 
 [Back ](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Logistics)
+
+[Back](https://github.com/hmislk/hmis/wiki)

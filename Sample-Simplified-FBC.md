@@ -43,3 +43,5 @@ This is a simplified Full Blood Count report generated using an automated haemat
 | Parameter | Result | Units | Reference Range |
 |-----------|--------|--------|------------------|
 | PLT       | 128    | 10³/μL | 150 – 450        |
+
+[Back](https://github.com/hmislk/hmis/wiki)

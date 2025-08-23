@@ -56,3 +56,5 @@
 
 ### Summary
 This terminology ensures a structured and standardised approach to handling pharmacy operations, enhancing clarity in categorization, dispensing, and reporting functionalities within the HIMS Pharmacy Module.
+
+[Back](https://github.com/hmislk/hmis/wiki)

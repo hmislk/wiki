@@ -10,3 +10,5 @@ All other discount generation methods are overwritten by the membership discount
 * [Membership Discount Troubleshooter](https://github.com/hmislk/hmis/wiki/Membership-Discount-Troubleshooter)
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

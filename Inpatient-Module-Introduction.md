@@ -97,3 +97,5 @@ This Inpatient Module is designed to enhance operational efficiency and quality 
 
 * [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
 * [Back to Inpatient Management](https://github.com/hmislk/hmis/wiki/Inward)
+
+[Back](https://github.com/hmislk/hmis/wiki)

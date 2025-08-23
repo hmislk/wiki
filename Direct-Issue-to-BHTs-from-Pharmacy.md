@@ -27,3 +27,5 @@ If you want to start over press "New Bill"
 
 
 [Back ](https://github.com/hmislk/hmis/wiki/Pharmacy-Inward-Issue)
+
+[Back](https://github.com/hmislk/hmis/wiki)

@@ -5,3 +5,5 @@
 * Doctor Referral Bills
 * OPD Referrals - for Items
 * Doctor Referrals
+
+[Back](https://github.com/hmislk/hmis/wiki)

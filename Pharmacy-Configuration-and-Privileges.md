@@ -189,3 +189,5 @@ This section describes the configuration options and privileges required for man
 
 [[← Back to Pharmacy Administration](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)](https://github.com/hmislk/hmis/wiki/Pharmacy-Administration)
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

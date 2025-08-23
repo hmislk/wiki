@@ -50,3 +50,5 @@ Dosage forms play a crucial role in the pharmaceutical industry by providing a m
 ***
 
 [Back to Pharmaceutical Fundamentals](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Fundamentals)
+
+[Back](https://github.com/hmislk/hmis/wiki)

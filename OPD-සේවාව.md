@@ -11,3 +11,5 @@
 * දැන් එම සේවාව ලැයිස්තුවේ නොපෙනේ.
 
 [ආපසු](https://github.com/hmislk/hmis/wiki/%E0%B7%83%E0%B7%9A%E0%B7%80%E0%B7%8F-%E0%B6%9A%E0%B7%85%E0%B6%B8%E0%B6%B1%E0%B7%8F%E0%B6%9A%E0%B6%BB%E0%B6%AB%E0%B6%BA)
+
+[Back](https://github.com/hmislk/hmis/wiki)

@@ -6,3 +6,5 @@
 [Back to Manage Lab Services](https://github.com/hmislk/hmis/wiki/Manage-Lab-Services)
 
 [Back to Manage Metadata](https://github.com/hmislk/hmis/wiki/Manage-Metadata)
+
+[Back](https://github.com/hmislk/hmis/wiki)

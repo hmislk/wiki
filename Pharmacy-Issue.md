@@ -226,3 +226,5 @@ The `calculateBillTotalsFromItemsForDisposalIssue()` method handles:
 - [Stock Management](https://github.com/hmislk/hmis/wiki/Add-To-Stock)
 
 [Back to Pharmacy](https://github.com/hmislk/hmis/wiki/Pharmacy)
+
+[Back](https://github.com/hmislk/hmis/wiki)

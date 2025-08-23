@@ -173,3 +173,5 @@ A: Different reports may include different components (gross vs. net values, mar
 
 ## Technical Notes
 This feature uses optimized DTO-based queries for improved performance and uses proper disposal bill type filtering (BillTypeAtomic.PHARMACY_DISPOSAL_ISSUE) for accurate reporting.
+
+[Back](https://github.com/hmislk/hmis/wiki)

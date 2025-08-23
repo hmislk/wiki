@@ -61,3 +61,5 @@ No additional privileges are enforced inside embedded components.
 [Back to Pharmacy Administration](Pharmacy-Administration)
 [Back to Pharmacy](Pharmacy)
 [Back to User Manual](User-Manual)
+
+[Back](https://github.com/hmislk/hmis/wiki)

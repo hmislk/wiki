@@ -18,3 +18,5 @@ Install MariaDB
 
 `exit;`
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

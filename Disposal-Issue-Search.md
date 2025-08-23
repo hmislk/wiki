@@ -108,3 +108,5 @@ A: Currently, you can view and print results. Export functionality may be availa
 - [Pharmacy Issue Bills](Pharmacy-Issue) - Creating disposal issue bills
 - [Purchase GRN Search Report](Purchase-GRN-Search-Report) - Additional pharmacy search features
 - [Ward Pharmacy BHT Substitute Functionality](Ward-Pharmacy-BHT-Substitute-Functionality) - Related pharmacy features
+
+[Back](https://github.com/hmislk/hmis/wiki)

@@ -23,3 +23,5 @@ Deploy and run your JSF application on your chosen Java EE server to see your te
 Your JSF template is now ready, and you can reuse it across multiple pages by using the <ui:composition> tag and defining content with <ui:define> within your individual pages. This approach helps maintain consistency in your web application's layout and design.
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

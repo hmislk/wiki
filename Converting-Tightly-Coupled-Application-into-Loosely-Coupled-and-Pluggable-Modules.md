@@ -52,3 +52,5 @@ Our current application is tightly coupled, with direct dependencies between mod
 Transitioning to loosely coupled, pluggable modules will future-proof our application by enhancing its adaptability and maintainability. Careful planning and gradual refactoring are essential to achieving a smooth migration.
 
 Let me know if you need this prepared in markdown or another specific format.
+
+[Back](https://github.com/hmislk/hmis/wiki)

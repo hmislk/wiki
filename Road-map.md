@@ -29,3 +29,5 @@ To support most of the hospital workflows of modern hospitals with an emphasis o
 * Participation of all stakeholders at every stage of development
 * Develop an incubator for new developers with the help of experts
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

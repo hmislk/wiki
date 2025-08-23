@@ -16,3 +16,5 @@
 [Back to Administration](https://github.com/hmislk/hmis/wiki/System-Administration)
 
 [Back to EHR](https://github.com/hmislk/hmis/wiki/Electronic-Health-Record-(EHR))
+
+[Back](https://github.com/hmislk/hmis/wiki)

@@ -223,3 +223,5 @@ After allocation and final per‑line totals are known, compute bill‑level rep
 * Reports/prints read final totals from `BillFinanceDetails`; line detail from `BillItemFinanceDetails`.
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki)
