@@ -59,17 +59,10 @@ Each bill item consists of:
 - **Line Tax**: Tax applied specifically to the item line
 - **Total Discount**: Summation of all applicable discounts
 
-    @Column(precision = 18, scale = 4, nullable = true)
-    private BigDecimal valueAtRetailRate;
-
-    @Column(precision = 18, scale = 4, nullable = true)
-    private BigDecimal valueAtPurchaseRate;
-
-    @Column(precision = 18, scale = 4, nullable = true)
-    private BigDecimal valueAtCostRate;
-
-    @Column(precision = 18, scale = 4, nullable = true)
-    private BigDecimal valueAtWholesaleRate;
+- **Value At Retail Rate**: Computed as `PR × Qty`
+- **Value At Purchase Rate**: Proportion of the total bill discount applicable to the line item
+- **Value At Cost Rate**: Proportion of the bill tax applicable to the line item
+- **Value At Wholesale Rate**: Tax applied specifically to the item line
 
 
 ##### Rate Breakdown
