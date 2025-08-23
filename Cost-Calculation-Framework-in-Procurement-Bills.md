@@ -1,5 +1,3 @@
-# Cost Calculation Framework in Procurement Bills
-
 This article documents how costs, discounts, taxes, and expenses are recorded and calculated in procurement bills within the HMIS system. It describes both the financial rules and the technical safeguards that ensure consistency, auditability, and correctness.
 
 ---
