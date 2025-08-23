@@ -30,16 +30,19 @@ The backend Entities used to record data are as follows
 
 ### Bill Items
 Each bill item consists of:
-- **Item**: The individual item (AMP) or pack (AMPP)
+- **Item**: The individual item (AMP) or pack (AMPP). There is totally different methods used in costing calculations, depending on the selection is a AMP(by Units) or AMPP(by Packs)
+
+The user inputs that contribute to costing as as follows
 - **Quantity (Qty)**: The total number of units purchased. The user can change this.
 - **Free Quantity**: Additional units provided at no charge. The user can change this.
 - **Purchase Rate (PR)**: The rate at which the item is purchased. The user can change this.
-- **Cost Rate**: The calculated cost per unit. The user can NOT directly change it. It is calculated.
-
+- **Line Discount Rate (DR)**: Discount rate applicable to the specific line item unit/pack
 - **Retail Rate (RSR)**: The price at which the item is sold to retail customers. The user can change it.
-- **Wholesale Rate**: The price for wholesale transactions. The user can change it.
+- **Wholesale Rate (WSR) **: The price for wholesale transactions. The user can change it.
+
+The calculated values, only considering the line inputs, are as follows
+- **Line Cost Rate**: The calculated cost per unit. The user can NOT directly change it. It is calculated.
 - **Purchase Gross Value**: Computed as `PR × Qty`
-- **Line Discount**: Discount applicable to the specific line item
 - **Bill Discount for Line**: Proportion of the total bill discount applicable to the line item
 - **Bill Tax for Line**: Proportion of the bill tax applicable to the line item
 - **Line Tax**: Tax applied specifically to the item line
