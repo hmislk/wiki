@@ -33,15 +33,21 @@ Each bill item consists of:
 - **Item**: The individual item (AMP) or pack (AMPP). There is totally different methods used in costing calculations, depending on the selection is a AMP(by Units) or AMPP(by Packs)
 
 The user inputs that contribute to costing as as follows
-- **Quantity (Qty)**: The total number of units purchased. The user can change this.
-- **Free Quantity**: Additional units provided at no charge. The user can change this.
-- **Purchase Rate (PR)**: The rate at which the item is purchased. The user can change this.
-- **Line Discount Rate (DR)**: Discount rate applicable to the specific line item unit/pack
-- **Retail Rate (RSR)**: The price at which the item is sold to retail customers. The user can change it.
-- **Wholesale Rate (WSR) **: The price for wholesale transactions. The user can change it.
+- **Quantity (Qty)**: The total number of units/packs purchased. The user can change this.
+- **Free Quantity**: Additional units provided at no charge in units/packs. The user can change this.
+- **Purchase Rate (PR)**: The rate at which the item is purchased. It is for a Unit in case of AMP or for a Pack in case of AMPP.
+- **Line Discount Rate (DR)**: Discount rate applicable to the specific line item unit/pack.  It is for a Unit in case of AMP or for a Pack in case of AMPP.
+- **Line TAX Rate (TR)**: Tax rate applicable to the specific line item unit/pack.  It is for a Unit in case of AMP or for a Pack in case of AMPP.
+- **Line Expense Rate (ER)**: Expense rate applicable to the specific line item unit/pack.  It is for a Unit in case of AMP or for a Pack in case of AMPP.
+- **Retail Rate (RSR)**: The price at which the item is sold to retail customers.  It is for a Unit in case of AMP or for a Pack in case of AMPP.
+- **Wholesale Rate (WSR) **: The price for wholesale transactions.  It is for a Unit in case of AMP or for a Pack in case of AMPP.
 
-The calculated values, only considering the line inputs, are as follows
-- **Line Cost Rate**: The calculated cost per unit. The user can NOT directly change it. It is calculated.
+The calculated values, only considering the line inputs, are as follows. These values are not available to the user to change directly.
+- **Line Gross Rate**: In procurement bills, the Purchase rate is the Line Gross Rate. It is for a pack if the selected item is a AMPP. It is for a unit of the selected item is an AMP.
+- **Line Net Rate**: In procurement bills, the line net rate is calculated by Line Gross Rate (ie Purchase rate in Procurement Bills) + Line Tax Rate - Line Discount Rate. It is for a pack if the selected item is an AMPP. It is for a unit of the selected item is an AMP.
+
+- **Line Cost Rate**: The calculated cost per unit. The user can NOT directly change it. It is calculated. This is ALWAYS calculated for a unit. This is calculated by the Line Net Rate divided by the Quantity in Units. If the same item is purchased in packs or units, this should be the same. While handling AMPPs, if line cost rate is required for a pack, we have to multiply the line cost rate by the Units per Pack.
+
 - **Purchase Gross Value**: Computed as `PR × Qty`
 - **Bill Discount for Line**: Proportion of the total bill discount applicable to the line item
 - **Bill Tax for Line**: Proportion of the bill tax applicable to the line item
