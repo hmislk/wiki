@@ -44,12 +44,12 @@ Each bill item consists of:
 
 #### The calculated values, only considering the line inputs, are as follows. These values are not available to the user to change directly.
 
-##### Rates
+##### Rates directly related to the Line that are Calculated 
 - **Line Gross Rate**: In procurement bills, the Purchase rate is the Line Gross Rate. It is for a pack if the selected item is a AMPP. It is for a unit of the selected item is an AMP.
 - **Line Net Rate**: In procurement bills, the line net rate is calculated by Line Gross Rate (ie Purchase rate in Procurement Bills) + Line Tax Rate - Line Discount Rate. It is for a pack if the selected item is an AMPP. It is for a unit of the selected item is an AMP.
 - **Line Cost Rate**: The calculated cost per unit. The user can NOT directly change it. It is calculated. This is ALWAYS calculated for a unit. This is calculated by the Line Net Rate divided by the Quantity in Units. If the same item is purchased in packs or units, this should be the same. While handling AMPPs, if the line cost rate is required for a pack, we have to multiply the line cost rate by the Units per Pack.
 
-#### Values Only Related to the Line
+#### Values directly related to the Line that are Calculated 
 - **Line Gross Total**: In procurement bills, the Purchase Value is the Line Gross Rate. It is calculated by `PR × Qty`
 - **Line Discount**: The Discount for a Line. It is calculated by `DR × Qty`
 - **Line TAX**: The TAX for a Line. It is calculated by `TR × Qty`
@@ -57,17 +57,21 @@ Each bill item consists of:
 - **Line Net Total**: The net total of line values. It is calculated from Line Gross Total + Line Tax + Line Expense - Line Discount
 
 #### Values Calculated from Bill Related Values
-The values directly related to the Bill, but not the lines also have impact on the cost of items. They also need to be taken into consideration. The bill related values are devided propertionately to the line net totals of each line. The values that comes from the bill are then devided by quentities to get the rates. Here, free quantities are not considered.
+The values directly related to the Bill, but not the lines, also have an impact on the cost of items. They also need to be taken into consideration for costing. The bill-related values are divided proportionally to the line net totals of each line. These values that were calculated from the bill values are then divided by quantities to get the rates. Here, free quantities are not taken into consideration. These values are not agained summed to get any bill related value as then there will be a circular dependancy.
 
 ##### Values in Bill Items coming from Bill Values
 - **Bill Discount Value**: The component of a line that comes from the Bill Discount
 - **Bill Expense Value**: The component of a line that comes from the Bill Expense
 - **Bill Tax Value**: The component of a line that comes from the Bill Tax
+- **Bill Gross Value**: Kept without any calculation as it is zero.
+- **Bill Net Value**: The component is calculated from Bill Expense Value + Bill Tax Value - Bill Discount Value
 
 ##### Rates in Bill Items coming from Bill Values
-- **Bill Discount Rate**: The Bill Discount value of a line devided by 'qty'
-- **Bill Expense Value**: The Bill Discount value of a line devided by 'qty'
-- **Bill Tax Value**: The component of a line that comes from the Bill Tax
+- **Bill Discount Rate**: The Bill Discount value of a line divided by 'qty'
+- **Bill Expense Rate**: The Bill Expense value of a line divided by 'qty'
+- **Bill Tax Rate**: The Bill Tax value of a line divided by 'qty'
+- **Bill Gross Rate**: Kept without any calculation as it is zero.
+- **Bill Net Rate**: The Bill Net value of a line divided by 'qty'
 
 #### Values Only Related to the Line
 - **Value At Retail Rate**: Computed as `RSR × (Qty+Free QTY)`
