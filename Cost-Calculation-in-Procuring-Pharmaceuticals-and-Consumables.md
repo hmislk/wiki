@@ -43,10 +43,12 @@ Each bill item consists of:
 - **Wholesale Rate (WSR)**: The price for wholesale transactions.  It is for a Unit in case of AMP or for a Pack in case of AMPP.
 
 #### The calculated values, only considering the line inputs, are as follows. These values are not available to the user to change directly.
+##### Rates
 - **Line Gross Rate**: In procurement bills, the Purchase rate is the Line Gross Rate. It is for a pack if the selected item is a AMPP. It is for a unit of the selected item is an AMP.
 - **Line Net Rate**: In procurement bills, the line net rate is calculated by Line Gross Rate (ie Purchase rate in Procurement Bills) + Line Tax Rate - Line Discount Rate. It is for a pack if the selected item is an AMPP. It is for a unit of the selected item is an AMP.
 - **Line Cost Rate**: The calculated cost per unit. The user can NOT directly change it. It is calculated. This is ALWAYS calculated for a unit. This is calculated by the Line Net Rate divided by the Quantity in Units. If the same item is purchased in packs or units, this should be the same. While handling AMPPs, if the line cost rate is required for a pack, we have to multiply the line cost rate by the Units per Pack.
 
+#### Values
 - **Line Gross Total**: In procurement bills, the Purchase Value is the Line Gross Rate. It is calculated by `PR × Qty`
 - **Line Discount**: The Discount for a Line. It is calculated by `DR × Qty`
 - **Line TAX**: The TAX for a Line. It is calculated by `TR × Qty`
