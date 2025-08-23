@@ -1,5 +1,3 @@
-# Policy Note on Cost Calculation in Procuring Pharmaceuticals and Consumables
-
 ## 1. Purpose
 
 This note outlines the standard method of calculating costs in pharmaceutical and consumable procurement, ensuring accuracy, transparency, and compliance with hospital financial management practices.
