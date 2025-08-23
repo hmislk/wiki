@@ -4,18 +4,22 @@
 
 In the procurement of pharmaceuticals and consumables, cost calculation is critical to ensure accuracy and transparency in financial management. The following structure outlines the process:
 
+#### Bill & Bill Items
+Each purchase is documented in a bill containing multiple bill items. Each bill item corresponds to an individual item or pack. There are values directly related to Bill or Bill Items. The sum of Bill Item Values may be recorded at the bill level. Also, the bill level values may be proportionally divided among bill items and recorded at Bill Item Level.
+
 #### Bill
-Each purchase is documented in a bill containing multiple bill items. Each bill item corresponds to an individual item or pack.
+There are values recorded at Bill 
 
 ##### Bill Items
 Each bill item consists of:
 - **Item**: The individual item (AMP) or pack (AMPP)
-- **Quantity (Qty)**: The total number of units purchased
-- **Purchase Rate (PR)**: The rate at which the item is purchased
-- **Cost Rate**: The calculated cost per unit
-- **Free Quantity**: Additional units provided at no charge
-- **Retail Rate (RSR)**: The price at which the item is sold to retail customers
-- **Wholesale Rate**: The price for wholesale transactions
+- **Quantity (Qty)**: The total number of units purchased. The user can change this.
+- **Free Quantity**: Additional units provided at no charge. The user can change this.
+- **Purchase Rate (PR)**: The rate at which the item is purchased. The user can change this.
+- **Cost Rate**: The calculated cost per unit. The user can NOT directly change it. It is calculated.
+
+- **Retail Rate (RSR)**: The price at which the item is sold to retail customers. The user can change it.
+- **Wholesale Rate**: The price for wholesale transactions. The user can change it.
 - **Purchase Gross Value**: Computed as `PR × Qty`
 - **Line Discount**: Discount applicable to the specific line item
 - **Bill Discount for Line**: Proportion of the total bill discount applicable to the line item
