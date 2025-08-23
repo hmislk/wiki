@@ -8,13 +8,13 @@ Each purchase is documented in a bill containing multiple bill items. Each bill 
 ### Bill
 There are values recorded at the Bill level related to costing.
 
-User Inputs useful for costing are as follows.
+#### User Inputs useful for costing are as follows.
 * Bill Discount
 * Bill Tax
 * Bill Expenses, those are included for costing
 * Bill Expenses, those are NOT included for costing
 
-The calculated values related to Bill are as follows
+#### The calculated values related to Bill are as follows
 * Sum of Line Net Totals
 * Sum of Line Discounts
 * Sun of Line Taxes
@@ -23,7 +23,7 @@ The calculated values related to Bill are as follows
 
 Please note that the bill net total includes line discounts, line taxes, and line discounts as they contribute to the Line Net Total
 
-The backend Entities used to record data are as follows
+#### The backend Entities used to record data are as follows
 * Bill
 * BillFinanceDetails 
 
@@ -45,18 +45,32 @@ Each bill item consists of:
 #### The calculated values, only considering the line inputs, are as follows. These values are not available to the user to change directly.
 - **Line Gross Rate**: In procurement bills, the Purchase rate is the Line Gross Rate. It is for a pack if the selected item is a AMPP. It is for a unit of the selected item is an AMP.
 - **Line Net Rate**: In procurement bills, the line net rate is calculated by Line Gross Rate (ie Purchase rate in Procurement Bills) + Line Tax Rate - Line Discount Rate. It is for a pack if the selected item is an AMPP. It is for a unit of the selected item is an AMP.
-- **Line Cost Rate**: The calculated cost per unit. The user can NOT directly change it. It is calculated. This is ALWAYS calculated for a unit. This is calculated by the Line Net Rate divided by the Quantity in Units. If the same item is purchased in packs or units, this should be the same. While handling AMPPs, if line cost rate is required for a pack, we have to multiply the line cost rate by the Units per Pack.
+- **Line Cost Rate**: The calculated cost per unit. The user can NOT directly change it. It is calculated. This is ALWAYS calculated for a unit. This is calculated by the Line Net Rate divided by the Quantity in Units. If the same item is purchased in packs or units, this should be the same. While handling AMPPs, if the line cost rate is required for a pack, we have to multiply the line cost rate by the Units per Pack.
 
 - **Line Gross Total**: In procurement bills, the Purchase Value is the Line Gross Rate. It is calculated by `PR × Qty`
 - **Line Discount**: The Discount for a Line. It is calculated by `DR × Qty`
 - **Line TAX**: The TAX for a Line. It is calculated by `TR × Qty`
-- **Line TAX**: The TAX for a Line. It is calculated by `TR × Qty`
+- **Line Expense**: The TAX for a Line. It is calculated by `TR × Qty`
+- **Line Net Total**: The net total of line values. It is calculated from Line Gross Total + Line Tax + Line Expense - Line Discount
 
 - **Purchase Gross Value**: Computed as `PR × Qty`
 - **Bill Discount for Line**: Proportion of the total bill discount applicable to the line item
 - **Bill Tax for Line**: Proportion of the bill tax applicable to the line item
 - **Line Tax**: Tax applied specifically to the item line
 - **Total Discount**: Summation of all applicable discounts
+
+    @Column(precision = 18, scale = 4, nullable = true)
+    private BigDecimal valueAtRetailRate;
+
+    @Column(precision = 18, scale = 4, nullable = true)
+    private BigDecimal valueAtPurchaseRate;
+
+    @Column(precision = 18, scale = 4, nullable = true)
+    private BigDecimal valueAtCostRate;
+
+    @Column(precision = 18, scale = 4, nullable = true)
+    private BigDecimal valueAtWholesaleRate;
+
 
 ##### Rate Breakdown
 - **Line Discount Rate**: Discount applied at the line level
