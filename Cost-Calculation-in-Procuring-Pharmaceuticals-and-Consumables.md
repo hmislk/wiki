@@ -1,13 +1,11 @@
-**Cost Calculation in Procuring Pharmaceuticals and Consumables**
-
-### Purchase Structure
+## Purchase Structure
 
 In the procurement of pharmaceuticals and consumables, cost calculation is critical to ensure accuracy and transparency in financial management. The following structure outlines the process:
 
-#### Bill & Bill Items
+### Bill & Bill Items
 Each purchase is documented in a bill containing multiple bill items. Each bill item corresponds to an individual item or pack. There are values directly related to Bill or Bill Items. The sum of Bill Item Values may be recorded at the bill level. Also, the bill level values may be proportionally divided among bill items and recorded at Bill Item Level. But we have make sure that there are not circular dependencies in recording the values. 
 
-#### Bill
+### Bill
 There are values recorded at the Bill level related to costing.
 
 User Inputs useful for costing are as follows.
@@ -30,7 +28,7 @@ The backend Entities used to record data are as follows
 * BillFinanceDetails 
 
 
-##### Bill Items
+### Bill Items
 Each bill item consists of:
 - **Item**: The individual item (AMP) or pack (AMPP)
 - **Quantity (Qty)**: The total number of units purchased. The user can change this.
