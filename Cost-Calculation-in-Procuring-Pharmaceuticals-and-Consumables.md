@@ -53,7 +53,7 @@ Each bill item consists of:
 - **Line Gross Total**: In procurement bills, the Purchase Value is the Line Gross Rate. It is calculated by `PR × Qty`
 - **Line Discount**: The Discount for a Line. It is calculated by `DR × Qty`
 - **Line TAX**: The TAX for a Line. It is calculated by `TR × Qty`
-- **Line Expense**: The TAX for a Line. It is calculated by `TR × Qty`
+- **Line Expense**: The Expense for a Line. It is calculated by `ER × Qty`
 - **Line Net Total**: The net total of line values. It is calculated from Line Gross Total + Line Tax + Line Expense - Line Discount
 
 #### Values Calculated from Bill Related Values
