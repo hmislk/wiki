@@ -105,29 +105,19 @@ Positive and Negatives. The rates/discounts are positive. If the stock go out, t
 
 ### When a user changes a line-related input
 First, we have to identify where the user inputs are recorded. For bill-related items, the details may be recorded to Bill Item Finance Details or Bill Item. We are not usually using the Pharmaceutical Bill Item to record user inputs. Once the variables where the user inputs are initially recorded are identified, the variables that record the same value need to be updated. Then pack/unit-related values need to be updated. This will involve BillItem, BillItemFinanceDetails and PharmaceuticalBillItem.
-As the change of user inputs for a line have an effect on the calculated values for the lines, the line values need to be calculated with updated user inputs.
-Then the bill level values that directly depend on the line level values need to be updated.
+As the change of user inputs for a line has an effect on the calculated values for the lines, the line values need to be calculated with updated user inputs.
+Then, the bill level values that directly depend on the line level values need to be updated.
 The values of the bill that are dependent on the above values are required to be changed.
 
-At this stage, we should not redistribute bill level values to lies as nothing happens to them when user change line level values.
+At this stage, we should not redistribute bill-level values to lies as nothing happens to them when the user changes line-level values.
 
 ### When a user changes a bill-related input
-The place where the user input is recorded has to be identified. 
+The place where the user input is recorded has to be identified. That user input may be recorded at different entities. We have to update them first.
+The bill level calculations need to be done.
+Then these values need to be distributed to the bill Items proportionally.
+Then, the bill item level total values need to be calculated. Here, the directly bill item-related values should NOT be changed. Only bill-related values and total values should be changed. The totalling of bill values is also not necessary to get bill level values as it is not happening here.
 
 
-
-### Post-Purchase Considerations
-#### Stock Management
-- No differentiation is made between purchased and free quantity.
-- **Purchase Value Calculation**: `Purchase Rate × Qty`
-- **Retail Sale Value Calculation**: `Retail Rate × Qty`
-
-#### Stock Valuation Issue
-If stock quantity is **1100**, the purchase value calculated by stock * PR:
-`1100 × 10 = 11,000` **(Incorrect Calculation)**
-
-**Ideal Purchase Value Calculation:**
-`Stock × Cost Rate`
 
 
 [Back](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Logistics)
