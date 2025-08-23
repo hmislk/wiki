@@ -102,7 +102,19 @@ Positive and Negatives. The rates/discounts are positive. If the stock go out, t
 
 
 ## Programming Logic
-Have to identify where the user inputs are recorded. For bill-related items, the details may be recorded to Bill Item Finance Details or Bill Item. We are not usually using the Pharmaceutical Bill Item to record user inputs
+
+### When a user changes a line-related input
+First, we have to identify where the user inputs are recorded. For bill-related items, the details may be recorded to Bill Item Finance Details or Bill Item. We are not usually using the Pharmaceutical Bill Item to record user inputs. Once the variables where the user inputs are initially recorded are identified, the variables that record the same value need to be updated. Then pack/unit-related values need to be updated. This will involve BillItem, BillItemFinanceDetails and PharmaceuticalBillItem.
+As the change of user inputs for a line have an effect on the calculated values for the lines, the line values need to be calculated with updated user inputs.
+Then the bill level values that directly depend on the line level values need to be updated.
+The values of the bill that are dependent on the above values are required to be changed.
+
+At this stage, we should not redistribute bill level values to lies as nothing happens to them when user change line level values.
+
+### When a user changes a bill-related input
+The place where the user input is recorded has to be identified. 
+
+
 
 ### Post-Purchase Considerations
 #### Stock Management
