@@ -59,10 +59,10 @@ Each bill item consists of:
 - **Line Tax**: Tax applied specifically to the item line
 - **Total Discount**: Summation of all applicable discounts
 
-- **Value At Retail Rate**: Computed as `PR × Qty`
-- **Value At Purchase Rate**: Proportion of the total bill discount applicable to the line item
-- **Value At Cost Rate**: Proportion of the bill tax applicable to the line item
-- **Value At Wholesale Rate**: Tax applied specifically to the item line
+- **Value At Retail Rate**: Computed as `RSR × (Qty+Free QTY)`
+- **Value At Purchase Rate**: Computed as `PR × (Qty+Free QTY)`
+- **Value At Cost Rate**: Computed as `CR × (Qty in Units +Free QTY in Units)`
+- **Value At Wholesale Rate**: Computed as `WSR × (Qty+Free QTY)`
 
 
 ##### Rate Breakdown
