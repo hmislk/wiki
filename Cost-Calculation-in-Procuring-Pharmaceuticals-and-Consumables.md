@@ -43,24 +43,33 @@ Each bill item consists of:
 - **Wholesale Rate (WSR)**: The price for wholesale transactions.  It is for a Unit in case of AMP or for a Pack in case of AMPP.
 
 #### The calculated values, only considering the line inputs, are as follows. These values are not available to the user to change directly.
+
 ##### Rates
 - **Line Gross Rate**: In procurement bills, the Purchase rate is the Line Gross Rate. It is for a pack if the selected item is a AMPP. It is for a unit of the selected item is an AMP.
 - **Line Net Rate**: In procurement bills, the line net rate is calculated by Line Gross Rate (ie Purchase rate in Procurement Bills) + Line Tax Rate - Line Discount Rate. It is for a pack if the selected item is an AMPP. It is for a unit of the selected item is an AMP.
 - **Line Cost Rate**: The calculated cost per unit. The user can NOT directly change it. It is calculated. This is ALWAYS calculated for a unit. This is calculated by the Line Net Rate divided by the Quantity in Units. If the same item is purchased in packs or units, this should be the same. While handling AMPPs, if the line cost rate is required for a pack, we have to multiply the line cost rate by the Units per Pack.
 
-#### Values
+#### Values Only Related to the Line
 - **Line Gross Total**: In procurement bills, the Purchase Value is the Line Gross Rate. It is calculated by `PR × Qty`
 - **Line Discount**: The Discount for a Line. It is calculated by `DR × Qty`
 - **Line TAX**: The TAX for a Line. It is calculated by `TR × Qty`
 - **Line Expense**: The TAX for a Line. It is calculated by `TR × Qty`
 - **Line Net Total**: The net total of line values. It is calculated from Line Gross Total + Line Tax + Line Expense - Line Discount
 
-- **Purchase Gross Value**: Computed as `PR × Qty`
-- **Bill Discount for Line**: Proportion of the total bill discount applicable to the line item
-- **Bill Tax for Line**: Proportion of the bill tax applicable to the line item
-- **Line Tax**: Tax applied specifically to the item line
-- **Total Discount**: Summation of all applicable discounts
+#### Values Calculated from Bill Related Values
+The values directly related to the Bill, but not the lines also have impact on the cost of items. They also need to be taken into consideration. The bill related values are devided propertionately to the line net totals of each line. The values that comes from the bill are then devided by quentities to get the rates. Here, free quantities are not considered.
 
+##### Values in Bill Items coming from Bill Values
+- **Bill Discount Value**: The component of a line that comes from the Bill Discount
+- **Bill Expense Value**: The component of a line that comes from the Bill Expense
+- **Bill Tax Value**: The component of a line that comes from the Bill Tax
+
+##### Rates in Bill Items coming from Bill Values
+- **Bill Discount Rate**: The Bill Discount value of a line devided by 'qty'
+- **Bill Expense Value**: The Bill Discount value of a line devided by 'qty'
+- **Bill Tax Value**: The component of a line that comes from the Bill Tax
+
+#### Values Only Related to the Line
 - **Value At Retail Rate**: Computed as `RSR × (Qty+Free QTY)`
 - **Value At Wholesale Rate**: Computed as `WSR × (Qty+Free QTY)`
 - **Value At Purchase Rate**: Computed as `PR × (Qty+Free QTY)`
