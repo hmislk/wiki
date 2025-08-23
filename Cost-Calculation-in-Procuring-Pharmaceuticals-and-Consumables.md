@@ -5,10 +5,30 @@
 In the procurement of pharmaceuticals and consumables, cost calculation is critical to ensure accuracy and transparency in financial management. The following structure outlines the process:
 
 #### Bill & Bill Items
-Each purchase is documented in a bill containing multiple bill items. Each bill item corresponds to an individual item or pack. There are values directly related to Bill or Bill Items. The sum of Bill Item Values may be recorded at the bill level. Also, the bill level values may be proportionally divided among bill items and recorded at Bill Item Level.
+Each purchase is documented in a bill containing multiple bill items. Each bill item corresponds to an individual item or pack. There are values directly related to Bill or Bill Items. The sum of Bill Item Values may be recorded at the bill level. Also, the bill level values may be proportionally divided among bill items and recorded at Bill Item Level. But we have make sure that there are not circular dependencies in recording the values. 
 
 #### Bill
-There are values recorded at Bill 
+There are values recorded at the Bill level related to costing.
+
+User Inputs useful for costing are as follows.
+* Bill Discount
+* Bill Tax
+* Bill Expenses, those are included for costing
+* Bill Expenses, those are NOT included for costing
+
+The calculated values related to Bill are as follows
+* Sum of Line Net Totals
+* Sum of Line Discounts
+* Sun of Line Taxes
+* Gross Total (=sum of Line Net Totals)
+* Net Total (=sum of Line Net Total + Bill Tax + Bill Expenses, those are included for costing - Bill Discount)
+
+Please note that the bill net total includes line discounts, line taxes, and line discounts as they contribute to the Line Net Total
+
+The backend Entities used to record data are as follows
+* Bill
+* BillFinanceDetails 
+
 
 ##### Bill Items
 Each bill item consists of:
