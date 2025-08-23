@@ -81,36 +81,28 @@ The values directly related to the Bill, but not the lines, also have an impact 
 - **Net Total**: Line Net Total + Bill Net Total
 
 #### Total Line Rates - These are calculated by dividing the respective line total value by the quantity
-- **Gross Rate**: Computed as `RSR × (Qty+Free QTY)`
-- **Total Dicount Rate**: Computed as `WSR × (Qty+Free QTY)`
-- **Total Tax Rate**: Computed as `PR × (Qty+Free QTY)`
-- **Net Rate**: Computed as `CR × (Qty in Units +Free QTY in Units)`
+- **Gross Rate**: Gross Total divide by Quantity
+- **Total Dicount Rate**: Total Discount divide by Quantity
+- **Total Tax Rate**: Total Tax divide by Quantity
+- **Total Expense Rate**: Total Expense divide by Quantity
+- **Net Rate**: Net Total divide by Quantity
 
-#### Total Line Rates - These are calculated by dividing the respective line total value by the quantity
+#### The value of items needs to be valued at different rates for decision-making. So these are calculated and recorded. These are calculated by multiplying the respective line total value by the quantity
 - **Value At Retail Rate**: Computed as `RSR × (Qty+Free QTY)`
 - **Value At Wholesale Rate**: Computed as `WSR × (Qty+Free QTY)`
 - **Value At Purchase Rate**: Computed as `PR × (Qty+Free QTY)`
 - **Value At Cost Rate**: Computed as `CR × (Qty in Units +Free QTY in Units)`
 
+#### Bill Item Related Entities
+BillItem Entity - records basic data as the user entered
+BillItemFinanceDetails - records basic data as user-entered or calculated. Pack Size in Units, rates in Units and Packs (when relevant) are recorded there.
+PharmaceuticalBillItem - This is not usually used to capture user inputs. It mainly records in units (unless the variable says packs). 
 
-##### Rate Breakdown
-- **Line Discount Rate**: Discount applied at the line level
-- **Line Tax Rate**: Tax rate for the line item
-- **Bill Tax Rate for Line**: Tax rate applied to the total bill that affects the line item
-- **Bill Discount Rate for Line**: Proportion of the total bill discount affecting the line item
+Positive and Negatives. The rates/discounts are positive. If the stock go out, the quantities should be negative. If stocks come in quantities should be recorded as positives. When money is spent, values should be negative. If money is earned, values should be positive.
 
-#### Purchase Net Value
-The net value of the purchase is calculated as:
-`Purchase Net Value = (PR - (Line Discount Rate + Bill Discount Rate for Line)) × Qty`
 
-### Example Calculation
-**AMP: Zaart 50**  
-- **Quantity**: 1000 units
-- **Free Quantity**: 100 units
-- **Purchase Rate (PR)**: 10
-- **Retail Sale Rate (RSR)**: 12.50
-- **Purchase Cost**: `1000 × 10 = 10,000`
-- **Cost Rate**: `10,000 / 1100`
+## Programming Logic
+Have to identify where the user inputs are recorded. For bill-related items, the details may be recorded to Bill Item Finance Details or Bill Item. We are not usually using the Pharmaceutical Bill Item to record user inputs
 
 ### Post-Purchase Considerations
 #### Stock Management
