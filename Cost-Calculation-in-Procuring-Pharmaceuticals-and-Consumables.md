@@ -73,14 +73,20 @@ The values directly related to the Bill, but not the lines, also have an impact 
 - **Bill Gross Rate**: Kept without any calculation as it is zero.
 - **Bill Net Rate**: The Bill Net value of a line divided by 'qty'
 
-#### Total Line Values - This is calculated by Adding values from Line values directly related to the Line and the line values that are calculated from Bill Values
-- **Gross Total**: Line Gross Total + Bill Gross Total - As Bill Gross Total is zero, Gross Total = Line Gorss Total
-- **Line Discount**: The Discount for a Line. It is calculated by `DR × Qty`
-- **Line TAX**: The TAX for a Line. It is calculated by `TR × Qty`
-- **Line Expense**: The TAX for a Line. It is calculated by `TR × Qty`
-- **Line Net Total**: The net total of line values. It is calculated from Line Gross Total + Line Tax + Line Expense - Line Discount
+#### Total Line Values - These are calculated by adding values from Line values directly related to the Line and the line values that are calculated from Bill Values
+- **Gross Total**: Line Gross Total + Bill Gross Total - As Bill Gross Total is zero, Gross Total = Line Gross Total
+- **Total Discount**: Line Discount + Bill Discount
+- **Total TAX**: Line Tax + Bill Tax
+- **Total Expense**: Line Tax + Bill Tax
+- **Net Total**: Line Net Total + Bill Net Total
 
-#### Values Only Related to the Line
+#### Total Line Rates - These are calculated by dividing the respective line total value by the quantity
+- **Gross Rate**: Computed as `RSR × (Qty+Free QTY)`
+- **Total Dicount Rate**: Computed as `WSR × (Qty+Free QTY)`
+- **Total Tax Rate**: Computed as `PR × (Qty+Free QTY)`
+- **Net Rate**: Computed as `CR × (Qty in Units +Free QTY in Units)`
+
+#### Total Line Rates - These are calculated by dividing the respective line total value by the quantity
 - **Value At Retail Rate**: Computed as `RSR × (Qty+Free QTY)`
 - **Value At Wholesale Rate**: Computed as `WSR × (Qty+Free QTY)`
 - **Value At Purchase Rate**: Computed as `PR × (Qty+Free QTY)`
