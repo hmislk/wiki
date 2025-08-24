@@ -22,5 +22,4 @@
 * [Wiki Automation Guide](https://github.com/hmislk/hmis/wiki/Wiki-Automation-Guide)
 * [Displaying Configuration Options for Developers at Page Bottom](https://github.com/hmislk/hmis/wiki/Displaying-Configuration-Options-for-Developers-at-Page-Bottom)
 
-
 [Back](https://github.com/hmislk/hmis/wiki)

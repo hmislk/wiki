@@ -20,8 +20,7 @@ User Manual
 * [Preferences](https://github.com/hmislk/hmis/wiki/Managing-Preferences)
 * [System Administration](https://github.com/hmislk/hmis/wiki/System-Administration)
 * [Patient & Doctor Portals](https://github.com/hmislk/hmis/wiki/Patient-and-Doctor-Portals)
+* [Developer Manual](https://github.com/hmislk/hmis/wiki/Developer-Manual)
 * [API](https://github.com/hmislk/hmis/wiki/API)
-
-
 
 [Back](https://github.com/hmislk/hmis/wiki)
