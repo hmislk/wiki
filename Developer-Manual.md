@@ -1,6 +1,7 @@
 * [Techstack](https://github.com/hmislk/hmis/wiki/Tech-Stack)
 * [Installation Manual](https://github.com/hmislk/hmis/wiki/Installation-Manual)
 * [Maintenance Manual](https://github.com/hmislk/hmis/wiki/Maintenance-Manual)
+* [API](https://github.com/hmislk/hmis/wiki/API)
 * [Code Conventions](https://github.com/hmislk/hmis/wiki/Code-Conventions)
 * [Starters Guide](https://github.com/hmislk/hmis/wiki/Starters-Guide)
 * [Developer Guidelines](https://github.com/hmislk/hmis/wiki/Developer-Guidelines)
