@@ -18,6 +18,7 @@
 * [Controllers](https://github.com/hmislk/hmis/wiki/Controllers)
 * [Training-Schedule](https://github.com/hmislk/hmis/wiki/26%E2%80%90Week-Training-Schedule-for-Software-Trainee-Engineers)
 * [How to create a printing page](https://github.com/hmislk/hmis/wiki/How-to-Create-a-Printing-Page)
+* [Wiki Automation Guide](https://github.com/hmislk/hmis/wiki/Wiki-Automation-Guide)
 * [Displaying Configuration Options for Developers at Page Bottom](https://github.com/hmislk/hmis/wiki/Displaying-Configuration-Options-for-Developers-at-Page-Bottom)
 
 
