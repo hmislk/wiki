@@ -20,5 +20,4 @@
 * [How to create a printing page](https://github.com/hmislk/hmis/wiki/How-to-Create-a-Printing-Page)
 * [Displaying Configuration Options for Developers at Page Bottom](https://github.com/hmislk/hmis/wiki/Displaying-Configuration-Options-for-Developers-at-Page-Bottom)
 
-
 [Back](https://github.com/hmislk/hmis/wiki)
