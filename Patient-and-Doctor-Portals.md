@@ -38,3 +38,5 @@ The Patient and Doctor Portals within CareCode’s HIS are pivotal in fostering 
 
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
+
+[Back](https://github.com/hmislk/hmis/wiki)

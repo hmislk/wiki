@@ -40,3 +40,5 @@ Understanding units in pharmacy is crucial for accurate drug administration, dos
 ***
 
 [Back to Pharmaceutical Fundamentals](https://github.com/hmislk/hmis/wiki/Pharmaceutical-Fundamentals)
+
+[Back](https://github.com/hmislk/hmis/wiki)

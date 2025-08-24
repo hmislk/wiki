@@ -46,3 +46,5 @@ Citations:
 [8] https://www.nrces.in/download/files/pdf/doc_SnomedINTL-GlobalPatientSet-ImplementationGuide_Current_en-US_INT_20190731.pdf
 
 [Back ](https://github.com/hmislk/hmis/wiki/Knowledgebase)
+
+[Back](https://github.com/hmislk/hmis/wiki)

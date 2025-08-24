@@ -161,3 +161,5 @@ Per-unit rates = Total ÷ Qty.
 * **Why Panel**
   Expose in UI: for any BillItem, show inputs, allocated values, and rounding logic.
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

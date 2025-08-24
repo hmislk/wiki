@@ -9,3 +9,5 @@
 * [Expiary date adjustment](https://github.com/hmislk/hmis/wiki/Expiary-date-adjustment)
 
 [Back to Pharmacy](https://github.com/hmislk/hmis/wiki/Pharmacy)
+
+[Back](https://github.com/hmislk/hmis/wiki)

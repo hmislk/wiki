@@ -43,3 +43,5 @@ The Linen Management module is a crucial component of CareCode’s HIS, designed
 
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
+
+[Back](https://github.com/hmislk/hmis/wiki)

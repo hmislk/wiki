@@ -44,3 +44,5 @@ CREATE TABLE employees (
   emp_code CHAR(5),
   emp_name VARCHAR(100)
 );
+
+[Back](https://github.com/hmislk/hmis/wiki)

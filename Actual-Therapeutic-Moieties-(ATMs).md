@@ -34,3 +34,5 @@ Actual Therapeutic Moieties (ATMs) are a critical component of the Anatomical Th
 
 ***
 [Back to Medicines](https://github.com/hmislk/hmis/wiki/Medicines)
+
+[Back](https://github.com/hmislk/hmis/wiki)

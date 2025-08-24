@@ -4,3 +4,5 @@ Starters Guide
 * [How to create a JSF Template](https://github.com/hmislk/hmis/wiki/How-to-create-a-JSF-Template)
 * [How to Create a JSF Template Client](https://github.com/hmislk/hmis/wiki/How-to-Create-a-JSF-Template-Client)
 * [How to Navigate](https://github.com/hmislk/hmis/wiki/How-to-Navigate)
+
+[Back](https://github.com/hmislk/hmis/wiki)

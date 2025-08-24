@@ -11,3 +11,5 @@ If you contribute to the project, you can start development as below.
 7. You may use other commit messages if the issue is not closed.
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

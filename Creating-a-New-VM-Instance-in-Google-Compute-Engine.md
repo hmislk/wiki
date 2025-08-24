@@ -54,3 +54,5 @@ To optimize your VM deployment and management, consider these best practices:
 
 ## Conclusion
 Creating a VM instance in Google Compute Engine is a fundamental step in building and running applications on Google Cloud. By following these steps, you can deploy and manage VMs effectively.
+
+[Back](https://github.com/hmislk/hmis/wiki)

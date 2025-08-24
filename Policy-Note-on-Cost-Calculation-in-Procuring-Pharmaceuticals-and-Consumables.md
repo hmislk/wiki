@@ -101,3 +101,5 @@ Corresponding per-unit rates are calculated by dividing these totals by the quan
 * Stock valuations remain accurate for decision-making, pricing, and reporting.
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

@@ -45,3 +45,5 @@ Finding a specific page to edit in a web application depends on the size and com
   navigate to the corresponding URL, and interact with the page to verify your changes.
 
 That's it! You've successfully found and edited a JSF page in your project. Repeat these steps as needed to edit other pages within your JSF application.
+
+[Back](https://github.com/hmislk/hmis/wiki)

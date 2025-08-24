@@ -34,3 +34,5 @@ Actual Medicinal Product Packs (AMP Packs) represent the tangible and physical p
 ***
 
 [Back to Medicines](https://github.com/hmislk/hmis/wiki/Medicines)
+
+[Back](https://github.com/hmislk/hmis/wiki)

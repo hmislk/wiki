@@ -15,3 +15,5 @@
 * Payment methods: Cash, Credit, Credit Card, etc.
 
 [Back to Pharmacy](https://github.com/hmislk/hmis/wiki/Pharmacy)
+
+[Back](https://github.com/hmislk/hmis/wiki)

@@ -10,3 +10,5 @@ Manages General Stores for consumables and assets.
 * Store Analytics 
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
+
+[Back](https://github.com/hmislk/hmis/wiki)

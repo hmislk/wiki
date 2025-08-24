@@ -15,3 +15,5 @@ Bill Fees are created as per the instructions given in the configuration phase.
 
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

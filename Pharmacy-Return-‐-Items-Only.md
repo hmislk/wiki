@@ -9,3 +9,5 @@ Then select the return button under actions
 3. Enter a comment 
 
 4. then select "Return" to return the items and the payment
+
+[Back](https://github.com/hmislk/hmis/wiki)

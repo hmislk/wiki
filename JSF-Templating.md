@@ -69,3 +69,5 @@ In a template client:
 ```
 
 Remember, JSF templating system is about building reusable and maintainable UI components and layouts. By mastering `<ui:insert>`, `<ui:define>`, and `<ui:composition>`, you can construct powerful, dynamic web pages.
+
+[Back](https://github.com/hmislk/hmis/wiki)

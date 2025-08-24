@@ -221,4 +221,5 @@ scripts/sync-wiki.bat  # Windows
 - [System Administration Guide](System-Administration.md)
 
 **Last Updated:** Auto-generated on each sync
-[Back](https://github.com/hmislk/hmis/wiki/Developer-Manual)
+
+[Back to home](https://github.com/hmislk/hmis/wiki) | [Back to Developer Manual](https://github.com/hmislk/hmis/wiki/Developer-Manual)

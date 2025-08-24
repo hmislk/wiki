@@ -14,3 +14,5 @@ Use the Search Function: Use the search or 'Find File' function in your IDE. Ent
 Navigate to the File: The search results should display the corresponding .xhtml file. Click on it to open and edit.
 
 Keep in mind that this method is a general approach and might vary slightly based on the structure of your JSF project and the IDE you are using.
+
+[Back](https://github.com/hmislk/hmis/wiki)

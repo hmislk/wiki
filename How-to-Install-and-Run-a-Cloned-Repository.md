@@ -40,3 +40,5 @@ Payara will automatically deploy any applications placed in the autodeploy direc
 
 ## Troubleshooting
 If you encounter any issues during the deployment, check Payara's server logs for error messages. The logs are typically located at /path/to/payara/glassfish/domains/domain1/logs/server.log.
+
+[Back](https://github.com/hmislk/hmis/wiki)

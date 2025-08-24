@@ -39,3 +39,5 @@ The Fleet Management module is a vital component of CareCode’s HIS, ensuring t
 
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
+
+[Back](https://github.com/hmislk/hmis/wiki)

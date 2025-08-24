@@ -86,3 +86,5 @@ Each report supports date range filtering, payment method summarisation, and use
 [🔙 Back to Financial Management](https://github.com/hmislk/hmis/wiki/Financial-Management)
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

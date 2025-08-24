@@ -8,3 +8,5 @@
 * OPD නිකුත් කිරීම ආපසු යැවීම නැවත මුද්‍රණය කිරීම
 
 [ආපසු](https://github.com/hmislk/hmis/wiki/%E0%B7%86%E0%B7%8F%E0%B6%B8%E0%B7%83%E0%B7%92%E0%B6%BA)
+
+[Back](https://github.com/hmislk/hmis/wiki)

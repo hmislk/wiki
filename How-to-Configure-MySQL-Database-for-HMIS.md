@@ -62,3 +62,5 @@ Ensure that you have the following:
 4. Click `OK` to create the JDBC resource.
 
 Your Payara server is now configured to use your MySQL database. You should be able to deploy and run your HMIS application.
+
+[Back](https://github.com/hmislk/hmis/wiki)

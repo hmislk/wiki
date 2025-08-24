@@ -9,3 +9,5 @@ You can search interim bills using the date range, Patient No., BHT No., Bill No
 
 
 [Back ](https://github.com/hmislk/hmis/wiki/Inward)
+
+[Back](https://github.com/hmislk/hmis/wiki)

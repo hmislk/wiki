@@ -8,3 +8,5 @@ Install MySQL
 
 `sudo apt install mysql-server mysql-client`
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

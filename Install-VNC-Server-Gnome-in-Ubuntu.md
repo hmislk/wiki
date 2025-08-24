@@ -69,3 +69,5 @@ Start the VNC Server. Use your screen resolution.
 
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

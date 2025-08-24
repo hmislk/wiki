@@ -6,3 +6,5 @@ Create a branch to work.
 If that goes wrong, simply delete it , 
 
 start from master again
+
+[Back](https://github.com/hmislk/hmis/wiki)

@@ -7,3 +7,5 @@ Some use a copy of the order bill received along with the sample to write down t
 
 
 [Back to LIMS](https://github.com/hmislk/hmis/wiki/LIMS)
+
+[Back](https://github.com/hmislk/hmis/wiki)

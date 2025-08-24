@@ -19,3 +19,5 @@ The important features are listed below.
 
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/Medical-Appointment-Channelling-Moudule)
+
+[Back](https://github.com/hmislk/hmis/wiki)

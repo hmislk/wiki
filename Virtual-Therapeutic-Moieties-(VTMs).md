@@ -44,3 +44,5 @@ This is also known as **chemical formula** or **generic name**.
 
 
 [Back to Medicines](https://github.com/hmislk/hmis/wiki/Medicines)
+
+[Back](https://github.com/hmislk/hmis/wiki)

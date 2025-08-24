@@ -65,3 +65,5 @@ A **Department** is a functional unit within an institution that provides a spec
 [🔙 Back to Knowledgebase](https://github.com/hmislk/hmis/wiki/Knowledgebase)
 
 
+
+[Back](https://github.com/hmislk/hmis/wiki)

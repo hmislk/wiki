@@ -19,3 +19,5 @@ Flow:
 User interacts with the View → Controller processes the action → Model updates → View refreshes with new data.
 
 MVC helps keep the code organised and makes future changes easier.
+
+[Back](https://github.com/hmislk/hmis/wiki)

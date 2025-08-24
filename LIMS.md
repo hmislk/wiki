@@ -17,3 +17,5 @@ This module covers the functions of a modern-day laboratory. It is very flexible
 
 
 [Back to User Manual](https://github.com/hmislk/hmis/wiki/User-Manual)
+
+[Back](https://github.com/hmislk/hmis/wiki)

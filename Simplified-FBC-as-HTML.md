@@ -28,3 +28,5 @@
   <thead><tr><th colspan="4" style="text-align:left;">Platelets</th></tr></thead>
   <tr><td>PLT</td><td>128</td><td>10³/μL</td><td>150 – 450</td></tr>
 </table>
+
+[Back](https://github.com/hmislk/hmis/wiki)
