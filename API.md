@@ -7,5 +7,5 @@ API Key Based Security - Key, Value - can have expiary
 OAuth 2.0
 KeyCloack
 
+[Back to home](https://github.com/hmislk/hmis/wiki) | [Back to developer manual](https://github.com/hmislk/hmis/wiki/Developer-Manual)
 
-[Back](https://github.com/hmislk/hmis/wiki)

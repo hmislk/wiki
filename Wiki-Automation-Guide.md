@@ -222,4 +222,4 @@ scripts/sync-wiki.bat  # Windows
 
 **Last Updated:** Auto-generated on each sync
 
-[Back](https://github.com/hmislk/hmis/wiki)
+[Back to home](https://github.com/hmislk/hmis/wiki) | [Back to Developer Manual](https://github.com/hmislk/hmis/wiki/Developer-Manual)

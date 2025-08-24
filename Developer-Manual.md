@@ -1,6 +1,7 @@
 * [Techstack](https://github.com/hmislk/hmis/wiki/Tech-Stack)
 * [Installation Manual](https://github.com/hmislk/hmis/wiki/Installation-Manual)
 * [Maintenance Manual](https://github.com/hmislk/hmis/wiki/Maintenance-Manual)
+* [API](https://github.com/hmislk/hmis/wiki/API)
 * [Code Conventions](https://github.com/hmislk/hmis/wiki/Code-Conventions)
 * [Starters Guide](https://github.com/hmislk/hmis/wiki/Starters-Guide)
 * [Developer Guidelines](https://github.com/hmislk/hmis/wiki/Developer-Guidelines)
@@ -18,7 +19,7 @@
 * [Controllers](https://github.com/hmislk/hmis/wiki/Controllers)
 * [Training-Schedule](https://github.com/hmislk/hmis/wiki/26%E2%80%90Week-Training-Schedule-for-Software-Trainee-Engineers)
 * [How to create a printing page](https://github.com/hmislk/hmis/wiki/How-to-Create-a-Printing-Page)
+* [Wiki Automation Guide](https://github.com/hmislk/hmis/wiki/Wiki-Automation-Guide)
 * [Displaying Configuration Options for Developers at Page Bottom](https://github.com/hmislk/hmis/wiki/Displaying-Configuration-Options-for-Developers-at-Page-Bottom)
-
 
 [Back](https://github.com/hmislk/hmis/wiki)

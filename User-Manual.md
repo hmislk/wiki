@@ -1,4 +1,5 @@
 User Manual
+* [About Open HMIS](https://github.com/hmislk/hmis/wiki/About-Open-HMIS)
 * [Login](https://github.com/hmislk/hmis/wiki/Login)
 * [Pharmacy](https://github.com/hmislk/hmis/wiki/Pharmacy)
 * [OPD / Cashier / Billing / Petty Cash Module](https://github.com/hmislk/hmis/wiki/OPD)
@@ -19,7 +20,7 @@ User Manual
 * [Preferences](https://github.com/hmislk/hmis/wiki/Managing-Preferences)
 * [System Administration](https://github.com/hmislk/hmis/wiki/System-Administration)
 * [Patient & Doctor Portals](https://github.com/hmislk/hmis/wiki/Patient-and-Doctor-Portals)
-
-
+* [Developer Manual](https://github.com/hmislk/hmis/wiki/Developer-Manual)
+* [API](https://github.com/hmislk/hmis/wiki/API)
 
 [Back](https://github.com/hmislk/hmis/wiki)
