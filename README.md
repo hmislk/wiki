@@ -19,3 +19,7 @@ This directory contains documentation that gets automatically synced to the GitH
 - Use kebab-case for filenames (e.g., `pharmacy-issue-configuration.md`)
 - Files will be converted to proper wiki page names automatically
 - Use `.md` extension for all documentation files
+
+## Licence
+
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International licence. See [LICENSE](LICENSE).
